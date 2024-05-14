@@ -2,7 +2,7 @@
 
 <h2> Title </h2>
 
-## sdf 
+## Title 
 
 <div align="center">
 <img src="/images/Open_Source_Initiative.svg" width="360" />
