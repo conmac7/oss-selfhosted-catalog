@@ -1,4 +1,4 @@
-<div align="center"># Open Source & Self-Hosted Catalog</div>
+<div align="center"> # Open Source & Self-Hosted Catalog </div>
 <div align="center">
 <img src="/images/Open_Source_Initiative.svg" width="360" />
 </div>
