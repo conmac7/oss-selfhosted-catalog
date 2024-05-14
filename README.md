@@ -1,4 +1,4 @@
-# Example text {style=text-align:center}
+# Example text {align=center}
 
 <div align="center">
 <img src="/images/Open_Source_Initiative.svg" width="360" />
