@@ -52,3 +52,12 @@ Development does not adhere to a release cycle; as such, there are no releases. 
 
 The system is written in what the authors call "Serenity C++", a variant of C++ that lacks exceptions and features its own standard library.
 <div align="center"> <img src="/images/serenity-os.png" width="800" /> </div>
+
+<h3 id="serenity-os"> KOLIBRIOS </h3>
+
+>Links: <div><a href="https://kolibrios.org/en/"><img src="/images/web_homepage-icon.png" height="80" /></a><a href="https://github.com/KolibriOS"><img src="/images/git_hub-logo.png" height="80" /></a></div>
+
+Colibri is a tiny yet incredibly powerful and fast operating system. This power requires only a few megabyte disk space and 8MB of RAM to run. Kolibri features a rich set of applications that include word processor, image viewer, graphical editor, web browser and well over 30 exciting games. Full FAT12/16/32 support is implemented, as well as read-only support for NTFS, ISO9660 and Ext2/3/4. Drivers are written for popular sound, network and graphics cards.
+
+Applications that start instantly, immediately after clicking an icon, without annoying hourglass pointers. This speed is achieved since the core parts of KolibriOS (kernel and drivers) are written entirely in FASM assembly language
+<div align="center"> <img src="/images/KolibriOS.png" width="800" /> </div>
