@@ -13,7 +13,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
 
 
 --------------------
-
+<a id="top"></a>
 ## Table of contents
 
 - [OSS Operating Systems](#oss-operating-systems)
@@ -95,3 +95,4 @@ The key highlights that distinguish Haiku from other operating systems include:
 <br><br>
 
 [Go to Top](#top)
+<a href="#top" style="display: inline-block; padding: 5px 10px; background-color: #007bff; color: #fff; text-decoration: none; border-radius: 4px;">Go to Top</a>
