@@ -74,4 +74,21 @@ illumos is a Unix operating system which provides next-generation features for d
 
 OpenIndiana is a free and open-source illumos distribution descended from UNIX System V Release 4 via the OpenSolaris operating system. Forked from OpenSolaris after OpenSolaris was discontinued by Oracle Corporation
 <div align="center"> <img src="/images/OpenIndiana.png" width="800" /> </div>
+<br><br>
+<h3 id="Haiku"> HAIKU </h3>
 
+>Links: <div><a href="https://www.haiku-os.org"><img src="/images/web_homepage-icon.png" height="80" /></a><a href="https://git.haiku-os.org"><img src="/images/git_share.png" height="80" /></a></div>
+
+Haiku is an open source operating system under constant development. Specifically targeting personal computing, Haiku is a fast, efficient, simple to use, easy to learn, and yet very powerful system for computer users of all levels.
+
+Additionally, Haiku offers something over other open source platforms which is quite unique: The project consists of a single team writing everything from the kernel, drivers, userland services, tool kit, and graphics stack to the included desktop applications and preflets
+
+The key highlights that distinguish Haiku from other operating systems include:
+
+- Specific focus on personal computing
+- Custom kernel designed for responsiveness
+- Fully threaded design for great efficiency with multi-processor/core CPUs
+- Rich object-oriented API for faster development
+- Database-like file system (BFS) with support for indexed metadata
+- Unified, cohesive interface
+<div align="center"> <img src="/images/maxresdefault.jpg" width="800" /> </div>
