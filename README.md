@@ -92,4 +92,4 @@ The key highlights that distinguish Haiku from other operating systems include:
 - Database-like file system (BFS) with support for indexed metadata
 - Unified, cohesive interface
 <div align="center"> <img src="/images/maxresdefault.jpg" width="800" /> </div>
-<div align="right"><a href="#top"><img src="/images/back-to-top_.png" width="60" /></a></div>
+<div align="right"><a href="#top"><img src="/images/back-to-top__.png" width="60" /></a></div>
