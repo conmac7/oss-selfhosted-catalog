@@ -62,8 +62,16 @@ Colibri is a tiny yet incredibly powerful and fast operating system. This power 
 Applications that start instantly, immediately after clicking an icon, without annoying hourglass pointers. This speed is achieved since the core parts of KolibriOS (kernel and drivers) are written entirely in FASM assembly language
 <div align="center"> <img src="/images/KolibriOS.png" width="800" /> </div>
 <br><br>
-<h3 id="serenity-os"> illumos </h3>
+<h3 id="serenity-os"> ILLUMOS </h3>
 
 >Links: <div><a href="https://www.illumos.org"><img src="/images/web_homepage-icon.png" height="80" /></a><a href="https://github.com/illumos/illumos-gate"><img src="/images/git_hub-logo.png" height="80" /></a></div>
 
 illumos is a Unix operating system which provides next-generation features for downstream distributions, including advanced system debugging, next generation filesystem, networking, and virtualization options.
+<br><br>
+<h3 id="serenity-os"> OPENINDIANA </h3>
+
+>Links: <div><a href="https://www.openindiana.org"><img src="/images/web_homepage-icon.png" height="80" /></a><a href="https://github.com/openindiana"><img src="/images/git_hub-logo.png" height="80" /></a></div>
+
+OpenIndiana is a free and open-source illumos distribution descended from UNIX System V Release 4 via the OpenSolaris operating system. Forked from OpenSolaris after OpenSolaris was discontinued by Oracle Corporation
+<div align="center"> <img src="/images/OpenIndiana.png" width="800" /> </div>
+
