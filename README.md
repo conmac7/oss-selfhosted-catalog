@@ -36,7 +36,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
 
 <h1 id="oss-operating-systems" align="center">OSS OPERATING SYSTEMS</h1>
 
-<h3 id="serenity-os"><u>SERENITYOS</u></h3>
+<h3 id="serenity-os"> <u SERENITYOS /> </h3>
 
 >Links:
 <a href="https://github.com/SerenityOS/serenity"> <img src="/images/GitHub-logo.png" width="80" /> </a>
