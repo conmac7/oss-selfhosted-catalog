@@ -40,15 +40,15 @@ Finally, the aim of this collection is not to catalog every single open-source a
 
 >Links: <div><a href="https://www.serenityos.org"><img src="/images/web_homepage-icon.png" height="80" /></a><a href="https://github.com/SerenityOS/serenity"><img src="/images/git_hub-logo.png" height="80" /></a></div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SerenityOS is a free and open source desktop operating system that has been in continuous development since 2018. Initially the one-man project of Swedish programmer Andreas Kling, SerenityOS is now developed by a community of hobbyists.
+SerenityOS is a free and open source desktop operating system that has been in continuous development since 2018. Initially the one-man project of Swedish programmer Andreas Kling, SerenityOS is now developed by a community of hobbyists.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The system supports the x86-64 instruction set, features a preemptive kernel, and hosts multiple complex applications including its own web browser and integrated development environment (IDE)
+The system supports the x86-64 instruction set, features a preemptive kernel, and hosts multiple complex applications including its own web browser and integrated development environment (IDE)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SerenityOS aims to be a modern Unix-like operating system, with a look and feel that emulates 1990s operating systems such as Microsoft Windows and Mac OS. Incorporating third-party code into the system is discouraged.
+SerenityOS aims to be a modern Unix-like operating system, with a look and feel that emulates 1990s operating systems such as Microsoft Windows and Mac OS. Incorporating third-party code into the system is discouraged.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The web browser for instance, does not use a preexisting web engine such as WebKit, instead using its own known as LibWeb. There is a collection of ported software, such as GCC, Git and Doom, with varying levels of functionality.
+The web browser for instance, does not use a preexisting web engine such as WebKit, instead using its own known as LibWeb. There is a collection of ported software, such as GCC, Git and Doom, with varying levels of functionality.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Development does not adhere to a release cycle; as such, there are no releases. Additionally, no binary distributions are provided and prospects are expected to build the system from source.
+Development does not adhere to a release cycle; as such, there are no releases. Additionally, no binary distributions are provided and prospects are expected to build the system from source.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The system is written in what the authors call "Serenity C++", a variant of C++ that lacks exceptions and features its own standard library.
+The system is written in what the authors call "Serenity C++", a variant of C++ that lacks exceptions and features its own standard library.
 <div align="center"> <img src="/images/serenity-os.png" width="800" /> </div>
