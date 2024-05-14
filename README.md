@@ -93,4 +93,3 @@ The key highlights that distinguish Haiku from other operating systems include:
 - Unified, cohesive interface
 <div align="center"> <img src="/images/maxresdefault.jpg" width="800" /> </div>
 <br><br>
-<div><a href="#contents"><img src="/images/web_homepage-icon.png" height="80" /></a>
