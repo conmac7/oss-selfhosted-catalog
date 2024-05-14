@@ -27,14 +27,9 @@ Finally, the aim of this collection is not to catalog every single open-source a
   - [Xen Project](#xen-project)
   - [SmartOS](#smart-os)
 - [Home Server - Personal Cloud](#homeserver-personalcloud)
-    - [Umbrel](#Umbrel)
+    - [Umbrel](#umbrel)
     - [CasaOS](#casa-os)
-    - [Nextcloud](#next-cloud)
-- [Collaboration Platforms - Project Management - ERP- CRM](#colab-projectmngmt-erp-crm)
-    - [Nextcloud](#next-cloud)
-- [OSS](#oss)
-
-
+<br><br>
 --------------------
 
 <h2 id="oss-operating-systems" align="center">OSS OPERATING SYSTEMS</h2>
@@ -139,5 +134,28 @@ KVM Virtual Machines: A full virtualization solution for running a variety of gu
 
 SmartOS is a "live OS", it is always booted via PXE, ISO, or USB Key and runs entirely from memory, allowing the local disks to be used entirely for hosting virtual machines without wasting disks for the root OS. This architecture has a variety of advantages including increased security, no need for patching, fast upgrades and recovery.
 <div align="center"> <img src="/images/smartos.png" width="800" /></a> </div>
+<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<br><br>
+<h3 id="umbrel"> UMBREL </h3>
+>Links: <div><a href="https://umbrel.com"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/getumbrel/umbrel"><img src="/images/git_hub-logo.png" height="72"/></a></div>
+
+An OS for running a server in your home. Self-host open source apps like Nextcloud, Bitcoin/Lightning node, and more.
+
+- De-google yourself
+- Run your private cloud with Nextcloud
+- Run your own node and achieve unparalleled privacy by connecting your wallet directly to your Bitcoin node. This ensures that your wallet company can’t spy on your transactions, or worse — lie to you.
+<div align="center"> <img src="/images/umbrel.png" width="800" /></a> </div>
+<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<br><br>
+<h3 id="casa-os"> CASAOS </h3>
+
+>Links: <div><a href="https://casaos.io"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/IceWhaleTech/CasaOS"><img src="/images/git_hub-logo.png" height="72"/></a></div>
+
+Community-based open source software focused on delivering simple home cloud experience around Docker ecosystem.
+
+Democratizing data and giving service control back to your hands.
+
+Project CasaOS started as a community-based open-source project focused on delivering a simple home cloud experience around the Docker ecosystem. CasaOS aims to redefine the private cloud digital experience for creators and developers through data democratization and enabling everyone to take that goal to a new scale.
+<div align="center"> <img src="/images/casaos.png" width="800" /></a> </div>
 <div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
