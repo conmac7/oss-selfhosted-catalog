@@ -1,6 +1,7 @@
 <a id="top"></a><h1 align="center"> Open Source & Self-Hosted Catalog </h1>
 
 <div align="center"> <img src="/images/Open_Source_Initiative.png" width="240" /> </div>
+<div align="center"> <font size="5">This work is titled Open Source Initiative , created by Colin Viebrock licensed under CC BY 2.5 https://creativecommons.org/licenses/by/2.5/</font></div>
 
 This is a curated collection of open-source and self-hosted software programs. This catalog serves as a comprehensive guide, featuring a title, an image, and a concise description for each listed software. 
 
@@ -23,11 +24,11 @@ Finally, the aim of this collection is not to catalog every single open-source a
   - [OpenIndiana](#open-indiana)
   - [Haiku](#Haiku)
 - [OSS Self-Hosted](#oss-Self-hosted)
-  - [Home Server - Personal Cloud](#homeserver-personalcloud)
+- [Home Server - Personal Cloud](#homeserver-personalcloud)
     - [Umbrel](#Umbrel)
     - [CasaOS](#casa-os)
     - [Nextcloud](#next-cloud)
-  - [Collaboration Platforms - Project Management - ERP- CRM](#colab-projectmngmt-erp-crm)
+- [Collaboration Platforms - Project Management - ERP- CRM](#colab-projectmngmt-erp-crm)
     - [Nextcloud](#next-cloud)
 - [OSS](#oss)
 
