@@ -1,4 +1,4 @@
-<h1 align="center"> Title </h1>
+<h1 align="center"> Open Source & Self-Hosted Catalog </h1>
 
 <div align="center">
   
