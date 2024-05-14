@@ -1,4 +1,6 @@
-# Open Source & Self-Hosted Catalog
+<div align="center">
+  # My Project
+</div>
 
 <div align="center">
 <img src="/images/Open_Source_Initiative.svg" width="360" />
