@@ -36,4 +36,4 @@ Finally, the aim of this collection is not to catalog every single open-source a
 
 --------------------
 
-<h2 id="oss-operating-systems" align="center">OSS Operating Systems</h2>
+<h1 id="oss-operating-systems" align="center">OSS OPERATING SYSTEMS</h1>
