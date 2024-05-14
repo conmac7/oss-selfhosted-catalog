@@ -45,8 +45,8 @@ Finally, the aim of this collection is not to catalog every single open-source a
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SerenityOS aims to be a modern Unix-like operating system, with a look and feel that emulates 1990s operating systems such as Microsoft Windows and Mac OS. Incorporating third-party code into the system is discouraged.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The web browser for instance, does not use a preexisting web engine such as WebKit, instead using its own known as LibWeb. There is a collection of ported software, such as GCC, Git and Doom, with varying levels of functionality.
-<div align="center"> <img src="/images/serenity-os.png" width="800" /> </div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Development does not adhere to a release cycle; as such, there are no releases. Additionally, no binary distributions are provided and prospects are expected to build the system from source.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The system is written in what the authors call "Serenity C++", a variant of C++ that lacks exceptions and features its own standard library.
+<div align="center"> <img src="/images/serenity-os.png" width="800" /> </div>
