@@ -16,7 +16,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
 
 ## Table of contents
 
-- [OSS OPERATING SYSTEMS](#oss-operating-systems)
+- [OSS Operating Systems](#oss-operating-systems)
   - [SerenityOS](#serenity-os)
   - [KolibriOS](#kolibri-os)
   - [illumos](#illumos)
