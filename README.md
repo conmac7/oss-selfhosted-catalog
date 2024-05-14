@@ -1,6 +1,6 @@
 # Open Source & Self-Hosted Catalog
 
-<img src="/images/Open_Source_Initiative.svg" width="825" />
+<img src="/images/Open_Source_Initiative.svg" width="400" />
 
 This is a curated collection of open-source and self-hosted software programs. This catalog serves as a comprehensive guide, featuring a title, an image, and a concise description for each listed software. 
 
@@ -15,8 +15,3 @@ Finally, the aim of this collection is not to catalog every single open-source a
 --------------------
 
 ## Table of contents
-
-
-
-
-<img src="https://i.postimg.cc/qqn8Pxvp/Webbla-2.jpg" width="825" />
