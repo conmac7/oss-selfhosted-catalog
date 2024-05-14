@@ -1,7 +1,7 @@
 <a id="top"></a><h1 align="center"> Open Source & Self-Hosted Catalog </h1>
 
 <div align="center"> <img src="/images/Open_Source_Initiative.png" width="240" /> </div>
-<div align="center"> <p style="font-size:14px; ">This work is titled Open Source Initiative , created by Colin Viebrock licensed under CC BY 2.5 https://creativecommons.org/licenses/by/2.5/ </p> </div>
+<div align="center"> <p style="font-size:10px; ">This work is titled Open Source Initiative , created by Colin Viebrock licensed under CC BY 2.5 https://creativecommons.org/licenses/by/2.5/ </p> </div>
 
 This is a curated collection of open-source and self-hosted software programs. This catalog serves as a comprehensive guide, featuring a title, an image, and a concise description for each listed software. 
 
