@@ -1,4 +1,5 @@
-<a id="top"></a> <h1 align="center"> Open Source & Self-Hosted Catalog </h1>
+<a id="top"></a>
+<h1 align="center"> Open Source & Self-Hosted Catalog </h1>
 
 <div align="center"> <img src="/images/Open_Source_Initiative.png" width="240" /> </div>
 
