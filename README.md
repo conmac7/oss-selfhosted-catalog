@@ -38,7 +38,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
 
 <h3 id="serenity-os"> SERENITYOS </h3>
 
->Links:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.serenityos.org"> <img src="/images/web_homepage-icon.png" height="96" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> <a href="https://github.com/SerenityOS/serenity"> <img src="/images/git_hub-logo.png" height="96" /> </a>
+>Links: <div align="center"> <a href="https://www.serenityos.org"> <img src="/images/web_homepage-icon.png" height="96" /> </div> <div align="center"> </a> <a href="https://github.com/SerenityOS/serenity"> <img src="/images/git_hub-logo.png" height="96" /> </a> </div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SerenityOS is a free and open source desktop operating system that has been in continuous development since 2018. Initially the one-man project of Swedish programmer Andreas Kling, SerenityOS is now developed by a community of hobbyists.
 
