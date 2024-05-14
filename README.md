@@ -1,6 +1,7 @@
 <h1 align="center"> Title </h1>
-<h1 align="center"> Title </h2>
-<h1 align="center"> Title </h3>
+<h2 align="center"> Title </h2>
+<h3 align="center"> Title </h3>
+<h4 align="center"> Title </h4>
 
 <div align="center">
 <img src="/images/Open_Source_Initiative.svg" width="360" />
