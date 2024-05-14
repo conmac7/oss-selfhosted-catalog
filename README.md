@@ -1,4 +1,6 @@
-<p style="text-align: center;"> # sdf </p>
+<p align="justify">
+  # Lorem ipsum
+</p>
 
 <div align="center">
 <img src="/images/Open_Source_Initiative.svg" width="360" />
