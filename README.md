@@ -1,4 +1,4 @@
-<h1 align="center"> Open Source & Self-Hosted Catalog </h1>
+<a id="top"></a> <h1 align="center"> Open Source & Self-Hosted Catalog </h1>
 
 <div align="center"> <img src="/images/Open_Source_Initiative.png" width="240" /> </div>
 
@@ -9,7 +9,7 @@ It aims to provide an organized and informative resource primarily for enthusias
 Some more professional software for IT specialists, sysadmins, and developers/programmers is also listed, but the aim isn't to provide tools, software, and solutions for this specific category.
 
 Finally, the aim of this collection is not to catalog every single open-source and self-hosted software that is available, but rather the most useful ones (in my opinion at least).
-<a id="top"></a>
+
 
 
 --------------------
