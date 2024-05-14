@@ -16,6 +16,10 @@ Finally, the aim of this collection is not to catalog every single open-source a
 
 ## Table of contents
 
+- [OSS Operating Systems](#oss-operating-systems)
+  - [Analytics](#analytics)
+    - [Analytics](#analytics)  
+  - [Archiving and Digital Preservation (DP)](#archiving-and-digital-preservation-dp)
 - [OSS Self-hosted](#oss-Self-hosted)
   - [Analytics](#analytics)
   - [Archiving and Digital Preservation (DP)](#archiving-and-digital-preservation-dp)
