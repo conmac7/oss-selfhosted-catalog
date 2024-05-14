@@ -1,5 +1,7 @@
 # Open Source & Self-Hosted Catalog
 
+<img src="/images/oss_logo.jpg" width="825" />
+
 This is a curated collection of open-source and self-hosted software programs. This catalog serves as a comprehensive guide, featuring a title, an image, and a concise description for each listed software. 
 
 It aims to provide an organized and informative resource primarily for enthusiasts, home servers, homelabs, and end-users who value their privacy and security, and are seeking to explore and adopt various open-source and self-hosted solutions across different domains and use cases. 
