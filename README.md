@@ -16,18 +16,24 @@ Finally, the aim of this collection is not to catalog every single open-source a
 
 ## Table of contents
 
-- [OSS Operating Systems](#oss-operating-systems)
+- [OSS OPERATING SYSTEMS](#oss-operating-systems)
   - [SerenityOS](#serenity-os)
   - [KolibriOS](#kolibri-os)
   - [illumos](#illumos)
   - [OpenIndiana](#open-indiana)
   - [Haiku](#Haiku)
-- [OSS Self-hosted](#oss-Self-hosted)
-  - [Home Server-Personal Cloud](#homeserver-personalcloud)
+- [OSS SELF-HOSTED](#oss-Self-hosted)
+  - [HOME SERVER - PERSONAL CLOUD](#homeserver-personalcloud)
     - [Umbrel](#Umbrel)
     - [CasaOS](#casa-os)
     - [Nextcloud](#next-cloud)
   - [COLLABORATION PLATFORMS - PROJECT MANAGEMENT - ERP – CRM](#colab-projectmngmt-erp-crm)
+    - [Nextcloud](#next-cloud)
 - [OSS](#oss)
   - [Analytics](#analytics)
   - [Archiving and Digital Preservation (DP)](#archiving-and-digital-preservation-dp)
+
+
+--------------------
+
+## OSS OPERATING SYSTEMS
