@@ -94,4 +94,4 @@ The key highlights that distinguish Haiku from other operating systems include:
 <div align="center"> <img src="/images/maxresdefault.jpg" width="800" /> </div>
 <br><br>
 
-<div align="center"><a href="#top"><img src="/images/back-to-top.png" width="40" /></a></div>
+<div align="center"><a href="#top"><img src="/images/back-to-top_.png" width="40" /></a></div>
