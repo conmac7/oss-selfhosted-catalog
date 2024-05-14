@@ -14,7 +14,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
 
 --------------------
 
-## Table of contents
+[## Table of contents](#contents)
 
 - [OSS Operating Systems](#oss-operating-systems)
   - [SerenityOS](#serenity-os)
@@ -94,3 +94,4 @@ The key highlights that distinguish Haiku from other operating systems include:
 <div align="center"> <img src="/images/maxresdefault.jpg" width="800" /> </div>
 <div align="right"> <img src="/images/back-to-top.png" width="40" /> </div>
 <br><br>
+<div><a href="#contents"><img src="/images/web_homepage-icon.png" height="80" /></a>
