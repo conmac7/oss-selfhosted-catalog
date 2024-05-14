@@ -116,3 +116,9 @@ For the most demanding app, and desktop virtualization use cases, its industry-l
 IT gets the benefit of features unique to Citrix Hypervisor, such as enhanced virtualized graphics with NVIDIA and Intel, and enhanced workload security with Direct Inspect APIs, all of which reduce virtual infrastructure costs and complexity.
 <div align="center"> <img src="/images/proxmox.png" width="800" /></a> </div>
 <div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+
+
+
+
+
+adf
