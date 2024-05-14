@@ -1,6 +1,4 @@
-<div align="center">
-  # My Project
-</div>
+# <center> LDC </center>
 
 <div align="center">
 <img src="/images/Open_Source_Initiative.svg" width="360" />
