@@ -14,7 +14,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
 
 --------------------
 
-[## Table of contents](#contents)
+## Table of contents
 
 - [OSS Operating Systems](#oss-operating-systems)
   - [SerenityOS](#serenity-os)
