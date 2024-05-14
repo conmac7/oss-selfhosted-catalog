@@ -1,4 +1,4 @@
-# Example text {align=center}
+<h1 align="center"> Title </h1>
 
 <div align="center">
 <img src="/images/Open_Source_Initiative.svg" width="360" />
