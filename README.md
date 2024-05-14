@@ -2,7 +2,7 @@
 
 <div align="center">
   
-<img src="/images/Open_Source_Initiative.png" width="360" />
+<img src="/images/Open_Source_Initiative.png" width="240" />
 
 </div>
 This is a curated collection of open-source and self-hosted software programs. This catalog serves as a comprehensive guide, featuring a title, an image, and a concise description for each listed software. 
