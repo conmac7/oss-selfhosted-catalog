@@ -1,6 +1,4 @@
-<p align="justify">
-  # Lorem ipsum
-</p>
+# Example text {style=text-align:center}
 
 <div align="center">
 <img src="/images/Open_Source_Initiative.svg" width="360" />
