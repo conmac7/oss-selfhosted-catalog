@@ -39,7 +39,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
 <h3 id="serenity-os"><u>SERENITYOS</u></h3>
 
 >Links:
-<a href="URL_of_the_link"> <img src="/images/GitHub-logo.png" width="80" /> </a>
+<a href="https://github.com/SerenityOS/serenity"> <img src="/images/GitHub-logo.png" width="80" /> </a>
 [Official Home Page](https://www.serenityos.org)
 [Github](https://github.com/SerenityOS/serenity)
 
