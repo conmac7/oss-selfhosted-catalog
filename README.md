@@ -6,7 +6,7 @@ It aims to provide an organized and informative resource primarily for enthusias
 
 There are also listed some more professional software for IT specialists, sysadmins and Developers/Programmers but the aim isn't to provide tools, software, and solutions for this specific category. 
 
-Finally, the goal of this collection is not to catalog every single open-source and self-hosted software that is available, but rather the most useful ones (in my opinion at least).
+Finally, the aim of this collection is not to catalog every single open-source and self-hosted software that is available, but rather the most useful ones (in my opinion at least).
 
 
 
