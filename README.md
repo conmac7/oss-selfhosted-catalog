@@ -25,7 +25,6 @@ Finally, the aim of this collection is not to catalog every single open-source a
 - [Virtualization](#virtualization)
   - [Proxmox Virtual Environment](#proxmox)
   - [Xen Project](#xen-project)
-  - [XenServer(Citrix Hypervisor)](#xen-server)
   - [SmartOS](#smart-os)
 - [Home Server - Personal Cloud](#homeserver-personalcloud)
     - [Umbrel](#Umbrel)
@@ -101,24 +100,44 @@ The key highlights that distinguish Haiku from other operating systems include:
 - Unified, cohesive interface
 <div align="center"> <img src="/images/maxresdefault.jpg" width="800" /></a> </div>
 <div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
-
-
+<br><br><br>
 <h2 id="virtualization" align="center">VIRTUALIZATION</h2>
-
+<br><br>
 <h3 id="proxmox"> PROXMOX VIRTUAL ENVIRONMENT </h3>
 
->Links: <div><a href="https://www.proxmox.com/en/proxmox-virtual-environment/overview"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="[https://github.com/SerenityOS/serenity](https://git.proxmox.com)"><img src="/images/git_share.png" height="72" /></a></div>
+>Links: <div><a href="https://www.proxmox.com/en/proxmox-virtual-environment/overview"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://git.proxmox.com"><img src="/images/git_share.png" height="72" /></a></div>
 
-Comprehensive server virtualization platform with enterprise-class features built in to easily handle different workload types, mixed operating systems and storage or networking configurations.
+Proxmox Virtual Environment (Proxmox VE or PVE) is a hyper-converged infrastructure open-source software. It is a hosted hypervisor that can run operating systems including Linux and Windows on x64 hardware.
 
-For the most demanding app, and desktop virtualization use cases, its industry-leading scalability and performance under load, can cater to the largest Citrix Virtual Apps and Desktops deployments.
+It is a Debian-based Linux distribution with a modified Ubuntu LTS kernel and allows deployment and management of virtual machines and containers. Proxmox VE includes a web console and command-line tools, and provides a REST API for third-party tools.
 
-IT gets the benefit of features unique to Citrix Hypervisor, such as enhanced virtualized graphics with NVIDIA and Intel, and enhanced workload security with Direct Inspect APIs, all of which reduce virtual infrastructure costs and complexity.
+Two types of virtualization are supported: container-based with LXC (starting from version 4.0 replacing OpenVZ used in version up to 3.4, included, and full virtualization with KVM. It includes a web-based management interface.
+
+Is described as 'complete and easy to use Open Source virtualization platform for running Virtual Appliances and Virtual Machines. Proxmox VE tightly integrates KVM hypervisor and LXC containers, software-defined storage and networking
+
+functionality on a single' and is a very popular Virtualization tool in the network & admin category
 <div align="center"> <img src="/images/proxmox.png" width="800" /></a> </div>
 <div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<br><br>
+<h3 id="xen-project"> XEN PROJECT </h3>
 
+>Links: <div><a href="https://xenproject.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://xenbits.xen.org/gitweb/?p=xen.git"><img src="/images/git_share.png" height="72" /></a><a href="https://github.com/xen-project/xen"><img src="/images/git_hub-logo.png" height="72" /></a></div>
 
+Powerful open source industry standard for virtualization. It is a native (bare-metal) hypervisor providing services that allow multiple computer operating systems to execute on the same computer hardware concurrently.
+<div align="center"> <img src="/images/xen.png" width="800" /></a> </div>
+<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<br><br>
+<h3 id="smart-os"> SMARTOS </h3>
 
+>Links: <div><a href="https://www.tritondatacenter.com/smartos"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/TritonDataCenter/smartos-live"><img src="/images/git_hub-logo.png" height="72"/></a></div>
 
+SmartOS is a specialized Type 1 Hypervisor platform based on Illumos. It supports two types of virtualization:
 
-adf
+OS Virtual Machines (Zones): A light-weight virtualization solution offering a complete and secure userland environment on a single global kernel, offering true bare metal performance and all the features Illumos has, namely dynamic introspection via DTrace
+
+KVM Virtual Machines: A full virtualization solution for running a variety of guest OS's including Linux, Windows, *BSD, Plan9 and more
+
+SmartOS is a "live OS", it is always booted via PXE, ISO, or USB Key and runs entirely from memory, allowing the local disks to be used entirely for hosting virtual machines without wasting disks for the root OS. This architecture has a variety of advantages including increased security, no need for patching, fast upgrades and recovery.
+<div align="center"> <img src="/images/smartos.png" width="800" /></a> </div>
+<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<br><br>
