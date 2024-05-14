@@ -38,7 +38,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
 <br><br>
 <h3 id="serenity-os"> SERENITYOS </h3>
 
->Links: <div><a href="https://www.serenityos.org"><img src="/images/web_homepage-icon.png" height="64" /></a><a href="https://github.com/SerenityOS/serenity"><img src="/images/git_hub-logo.png" height="64" /></a></div>
+>Links: <div><a href="https://www.serenityos.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/SerenityOS/serenity"><img src="/images/git_hub-logo.png" height="72" /></a></div>
 
 SerenityOS is a free and open source desktop operating system that has been in continuous development since 2018. Initially the one-man project of Swedish programmer Andreas Kling, SerenityOS is now developed by a community of hobbyists.
 
@@ -56,7 +56,7 @@ The system is written in what the authors call "Serenity C++", a variant of C++ 
 <br><br>
 <h3 id="kolibri-os"> KOLIBRIOS </h3>
 
->Links: <div><a href="https://kolibrios.org/en/"><img src="/images/web_homepage-icon.png" height="80" /></a><a href="https://github.com/KolibriOS"><img src="/images/git_hub-logo.png" height="80" /></a></div>
+>Links: <div><a href="https://kolibrios.org/en/"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/KolibriOS"><img src="/images/git_hub-logo.png" height="72" /></a></div>
 
 Colibri is a tiny yet incredibly powerful and fast operating system. This power requires only a few megabyte disk space and 8MB of RAM to run. Kolibri features a rich set of applications that include word processor, image viewer, graphical editor, web browser and well over 30 exciting games. Full FAT12/16/32 support is implemented, as well as read-only support for NTFS, ISO9660 and Ext2/3/4. Drivers are written for popular sound, network and graphics cards.
 
@@ -66,14 +66,14 @@ Applications that start instantly, immediately after clicking an icon, without a
 <br><br>
 <h3 id="illumos"> ILLUMOS </h3>
 
->Links: <div><a href="https://www.illumos.org"><img src="/images/web_homepage-icon.png" height="80" /></a><a href="https://github.com/illumos/illumos-gate"><img src="/images/git_hub-logo.png" height="80" /></a></div>
+>Links: <div><a href="https://www.illumos.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/illumos/illumos-gate"><img src="/images/git_hub-logo.png" height="72" /></a></div>
 
 illumos is a Unix operating system which provides next-generation features for downstream distributions, including advanced system debugging, next generation filesystem, networking, and virtualization options.
 <div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h3 id="open-indiana"> OPENINDIANA </h3>
 
->Links: <div><a href="https://www.openindiana.org"><img src="/images/web_homepage-icon.png" height="80" /></a><a href="https://github.com/openindiana"><img src="/images/git_hub-logo.png" height="80" /></a></div>
+>Links: <div><a href="https://www.openindiana.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/openindiana"><img src="/images/git_hub-logo.png" height="72" /></a></div>
 
 OpenIndiana is a free and open-source illumos distribution descended from UNIX System V Release 4 via the OpenSolaris operating system. Forked from OpenSolaris after OpenSolaris was discontinued by Oracle Corporation
 <div align="center"> <img src="/images/OpenIndiana.png" width="800" />&nbsp;&nbsp;&nbsp;<a href="#top"><img src="/images/back-to-top__.png" width="16" /></a>  </div>
@@ -81,7 +81,7 @@ OpenIndiana is a free and open-source illumos distribution descended from UNIX S
 <br><br>
 <h3 id="Haiku"> HAIKU </h3>
 
->Links: <div><a href="https://www.haiku-os.org"><img src="/images/web_homepage-icon.png" height="80" /></a><a href="https://git.haiku-os.org"><img src="/images/git_share.png" height="80" /></a></div>
+>Links: <div><a href="https://www.haiku-os.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://git.haiku-os.org"><img src="/images/git_share.png" height="72" /></a></div>
 
 Haiku is an open source operating system under constant development. Specifically targeting personal computing, Haiku is a fast, efficient, simple to use, easy to learn, and yet very powerful system for computer users of all levels.
 
