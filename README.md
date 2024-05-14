@@ -1,4 +1,4 @@
-<h1 align="center"> Open Source & Self-Hosted Catalog </h1>
+<a id="top"></a><h1 align="center"> Open Source & Self-Hosted Catalog </h1>
 
 <div align="center"> <img src="/images/Open_Source_Initiative.png" width="240" /> </div>
 
@@ -13,7 +13,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
 
 
 --------------------
-<a id="top"></a>
+
 ## Table of contents
 
 - [OSS Operating Systems](#oss-operating-systems)
