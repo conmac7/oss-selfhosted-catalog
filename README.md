@@ -502,6 +502,15 @@ Go ahead, video chat with the whole team. In fact, invite everyone you know. Jit
 Run your private office
 
 ONLYOFFICE offers a secure online office suite highly compatible with MS Office formats.
+
+- View, edit, and collaborate on docs, sheets, slides
+- Build fillable PDF forms and fill them in online
+- Read and edit PDFs, export/import to/from PDF
+- Convert docs to Markdown and HTML
+- Turn your textbooks into e-books
+- Generate texts with the AI helper
+
+
 <div align="center"> <img src="/images/onlyoffice.png" width="800" /></a> </div>
 <div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
