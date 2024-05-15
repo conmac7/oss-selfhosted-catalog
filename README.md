@@ -64,7 +64,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
 --------------------
 
 <h2 id="oss-operating-systems" align="center">OSS OPERATING SYSTEMS</h2>
-<br><br><br>
+<br><br>
 <h3 id="serenity-os"> SERENITYOS </h3>
 
 >Links: <div><a href="https://www.serenityos.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/SerenityOS/serenity"><img src="/images/git_hub-logo.png" height="72" /></a></div>
