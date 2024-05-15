@@ -172,7 +172,7 @@ Project CasaOS started as a community-based open-source project focused on deliv
 <br><br><br>
 <h2 id="colab-erp-crm" align="center">COLLABORATION PLATFORMS - PROJECT MANAGEMENT - ERP - CRM</h2>
 <h3 id="element"> ELEMENT </h3>
-  
+<br><br>
 >Links: <div><a href="https://element.io"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/element-hq"><img src="/images/git_hub-logo.png" height="72"/></a></div>
 
 A platform for the entire workforce. A consumer-feel messaging app for those on the frontline. A desktop collaboration tool for those in the office or at home.
