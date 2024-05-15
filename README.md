@@ -148,6 +148,7 @@ SmartOS is a "live OS", it is always booted via PXE, ISO, or USB Key and runs en
 <br><br><br>
 <h2 id="homeserver-personalcloud" align="center">HOME SERVER - PERSONAL CLOUD</h2>
 <br><br>
+
 <h3 id="umbrel"> UMBREL </h3>
   
 >Links: <div><a href="https://umbrel.com"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/getumbrel/umbrel"><img src="/images/git_hub-logo.png" height="72"/></a></div>
