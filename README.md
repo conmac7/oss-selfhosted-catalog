@@ -40,7 +40,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
     - [Redmine](#redmine)
     - [ERPNext](#erp-next)
     - [SuiteCRM](#suite-crm)
-- [Social Networking - Chatting - Self-hosted Media Platforms - YOUTUBE/Dailymotion Alternatives](#socials)
+- [Social Networking - Chatting - Self-hosted Media Platforms - yt/Dailymotion Alternatives](#socials)
     - [mastodon](#mastodon)
     - [Pleroma](#pleroma)
     - [Diaspora](#diaspora)
