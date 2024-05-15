@@ -148,7 +148,6 @@ SmartOS is a "live OS", it is always booted via PXE, ISO, or USB Key and runs en
 <br><br><br>
 <h2 id="homeserver-personalcloud" align="center">HOME SERVER - PERSONAL CLOUD</h2>
 <br><br>
-
 <h3 id="umbrel"> UMBREL </h3>
   
 >Links: <div><a href="https://umbrel.com"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/getumbrel/umbrel"><img src="/images/git_hub-logo.png" height="72"/></a></div>
@@ -161,7 +160,7 @@ An OS for running a server in your home. Self-host open source apps like Nextclo
 <div align="center"> <img src="/images/umbrel.png" width="800" /></a> </div>
 <div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
-<h3 id="casa-os"> CASAOS </h3><br><br><br>
+<h3 id="casa-os"> CASAOS </h3>
 
 >Links: <div><a href="https://casaos.io"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/IceWhaleTech/CasaOS"><img src="/images/git_hub-logo.png" height="72"/></a></div>
 
