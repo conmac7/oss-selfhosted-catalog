@@ -27,7 +27,8 @@ Finally, the aim of this collection is not to catalog every single open-source a
   - [Xen Project](#xen-project)
   - [SmartOS](#smart-os)
 - [Home Server - Personal Cloud](#homeserver-personalcloud)
-    - [Umbrel](#umbrel)
+    - [Zulip](#zulip)
+    - [Umbrel](#umbrel) 
     - [CasaOS](#casa-os)
 - [Collaboration Platforms - Project Management - ERP - CRM](#colab-erp-crm)
     - [Element](#element)
@@ -42,6 +43,11 @@ Finally, the aim of this collection is not to catalog every single open-source a
 - [Social Networking - Chatting - Self-hosted Media Platforms](#socials)
     - [mastodon](#mastodon)
     - [Pleroma](#pleroma)
+    - [Diaspora](#diaspora)
+    - [friendica](#friendica)
+    - [PeerTube](#peertube)
+    - [Funkwhale](#funkwhale)
+    - [Jitsi Meet](#jitsi-meet)
 <br><br>
 --------------------
 
@@ -176,6 +182,26 @@ Project CasaOS started as a community-based open-source project focused on deliv
 <div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br><br>
 <h2 id="colab-erp-crm" align="center">COLLABORATION PLATFORMS - PROJECT MANAGEMENT - ERP - CRM</h2>
+<br><br>
+<h3 id="zulip"> ZULIP </h3>
+
+>Links: <div><a href="https://zulip.com"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/zulip/zulip"><img src="/images/git_hub-logo.png" height="72"/></a></div>
+
+Powerful group chat, with threaded conversations
+
+Running a Zulip server, Self-host Zulip directly on Ubuntu or Debian Linux, in Docker
+
+Zulip is the only modern team chat app that is designed for both live and asynchronous conversations. Zulip topics create a separate space for each discussion, so different conversations will never get in each other's way. Teams of all sizes rely on Zulip - Fortune 500 companies, open-source projects, startups, and many others. Zulip is 100% open-source enterprise-grade software, self-hosted or in the cloud.
+
+Zulip can transform how your organization communicates:
+
+- Leaders can prioritize their time and batch-reply to messages, and thus effectively participate in the chat community.
+- More discussions can be moved from meetings and email to chat.
+- Individual contributors can do focused work instead of paging through GIFs making sure they don’t miss anything important.
+- Remote workers can participate in an equal way to people present in person.
+- Employees don’t need to be glued to their keyboard or phone in order to avoid missing out on important conversations.
+<div align="center"> <img src="/images/zulip.png" width="800" /></a> </div>
+<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h3 id="element"> ELEMENT </h3>
 
@@ -362,3 +388,95 @@ Your home feed should be filled with what matters to you most, not what a corpor
 <div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h3 id="Pleroma"> PLEROMA </h3>
+
+>Links: <div><a href="https://pleroma.social"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://git.pleroma.social/pleroma/"><img src="/images/git_share.png" height="72"/></a></div>
+
+Pleroma is a free, federated social networking server built on open protocols. It is compatible with GNU Social, Mastodon, and many other ActivityPub
+
+The project consists of several components:
+
+Pleroma is the server implementation, and comes bundled with PleromaFE, the default frontend. Other useful utilities are also provided, such as an ActivityPub relay.
+
+Start using Pleroma by joining an existing Pleroma instance or check the installation guide to setting up your own server.
+
+<div align="center"> <img src="/images/pleroma.png" width="800" /></a> </div>
+<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<br><br>
+<h3 id="diaspora"> DIASPORA </h3>
+
+>Links: <div><a href="https://diasporafoundation.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/diaspora/diaspora"><img src="/images/git_hub-logo.png" height="72"/></a></div>
+
+Diaspora is a federated social networking service, designed to be a more privacy-aware alternative to Facebook icon Facebook. Share what you want, with whom you want.
+
+Diaspora (stylized as diaspora*) is a nonprofit, user-owned, distributed social network. It consists of a group of independently owned nodes (called pods) which interoperate to form the network.
+
+Find a pod that suits you. You might prefer a smaller pod, one which allows cross-posting to external services (such as Twitter), one based near you, or one based in a country that you know has good data security policies... The choice is yours! You can even host a pod yourself if you have some sysadmin skills.
+
+The social network is not owned by any one person or entity, keeping it from being subject to corporate take-overs or advertising
+
+The online social world where you are in control. based on three key philosophies:
+
+- Decentralization
+- Freedom
+  You can be whoever you want to be in diaspora*. Unlike some networks, you don’t have to use your real identity. You can interact with people in whatever way you choose. The only limit is your imagination. diaspora* is also Free Software, giving you liberty over how you use it.
+- Privacy
+  In diaspora you own your data. You don’t sign over rights to a corporation or other interest who could use it. In addition, you choose who sees what you share, using Aspects. With diaspora*, your friends, your habits, and your content is your business ... not ours!
+<div align="center"> <img src="/images/diaspora.png" width="800" /></a> </div>
+<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<br><br>
+<h3 id="friendica"> FRIENDICA </h3>
+
+>Links: <div><a href="https://friendi.ca"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/friendica/friendica"><img src="/images/git_hub-logo.png" height="72"/></a></div>
+
+Distributed social network. With focus on decentralization, privacy, interoperability.
+
+Friendica is a distributed social network application. Which allow users to connect with others via their own Friendica server, but may also fully integrate contacts from other platforms including Twitter, diaspora*, Pump.io and StatusNet into their 'newsfeed'. In addition to these two-way connections, users can also use Friendica as a publishing platform to post content to Google+, Google Buzz, WordPress, Tumblr, GNU-social, and Libertree. The list of supported networks is growing. In addition, e-mail contacts and RSS feeds can be integrated.
+
+The developers argue that decentralization on small servers is a key condition for the freedom of users and their self-determination.
+
+There are two options to choose from to try Friendica:
+
+The first option is to join one of the already installed Friendica server listed at http://dir.friendica.social/servers
+
+The second option is to install your own server at https://github.com/friendica/friendica/releases Both options are fully free.
+
+Friendica runs on commodity hosting platforms powered by PHP/MySQL/Apache. If you can install Drupal or Wordpress you can probably install Friendica. A single Friendica installation supports up to several thousand members.
+<div align="center"> <img src="/images/friendica.png" width="800" /></a> </div>
+<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<br><br>
+<h3 id="peertube"> PEERTUBE </h3>
+
+>Links: <div><a href="https://joinpeertube.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/Chocobozzz/PeerTube"><img src="/images/git_hub-logo.png" height="72"/></a></div>
+
+PeerTube is a free, decentralized and federated video platform developed as an alternative to other platforms that centralize our data and attention, such as YouTube, Dailymotion or Vimeo.
+
+If you have a minimum amount of time and technical skills, creating your own platform (also called "instance") on your server is the best way to take advantage of PeerTube.
+<div align="center"> <img src="/images/peertube.png" width="800" /></a> </div>
+<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<br><br>
+<h3 id="funkwhale"> FUNWHALE </h3>
+
+>Links: <div><a href="https://www.funkwhale.audio"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="[https://github.com/friendica/friendica](https://dev.funkwhale.audio/funkwhale/funkwhale)"><img src="/images/git_share.png" height="72"/></a></div>
+
+Funkwhale is a community-driven project that lets you listen and share music and audio within a decentralized, open network. It is a free libre open source software alternative to SoundCloud, which can be self-hosted.
+
+You can browse your Music by artist, album, genre, playlist, or record label, as well as by direct searches. Funkwhale gives you access to your playlists, favorite tracks, and artists everywhere, from a web interface or the wide range of compatible apps for every platform. Funkwhale music streaming is available on all Android and iOS devices via compatible applications like DSub, and on desktop computers for unlimited duration’s.
+<div align="center"> <img src="/images/funkwhale.png" width="800" /></a> </div>
+<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<br><br>
+<h3 id="jitsi-meet"> JITSI MEET </h3>
+
+>Links: <div><a href="https://meet.jit.si"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://jitsi.org/jitsi-meet/"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="[https://github.com/Chocobozzz/PeerTube](https://github.com/jitsi/jitsi-meet)"><img src="/images/git_hub-logo.png" height="72"/></a></div>
+
+Secure, fully featured, and completely free video conferencing.
+
+Go ahead, video chat with the whole team. In fact, invite everyone you know. Jitsi Meet is a fully encrypted, 100% open source video conferencing solution that you can use all day, every day, for free — with no account needed.
+
+- Share your desktop, presentations, and more
+- Invite users to a conference via a simple, custom URL
+- Edit documents together using Etherpad
+- Pick fun meeting URLs for every meeting
+- Trade messages and emojis while you video conference, with integrated chat.
+<div align="center"> <img src="/images/JITSIMEET.jpg" width="800" /></a> </div>
+<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<br><br>
