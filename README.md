@@ -466,7 +466,7 @@ You can browse your Music by artist, album, genre, playlist, or record label, as
 <br><br>
 <h3 id="jitsi-meet"> JITSI MEET </h3>
 
->Links: <div><a href="https://meet.jit.si"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://jitsi.org/jitsi-meet/"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="[https://github.com/Chocobozzz/PeerTube](https://github.com/jitsi/jitsi-meet)"><img src="/images/git_hub-logo.png" height="72"/></a></div>
+>Links: <div><a href="https://meet.jit.si"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://jitsi.org/jitsi-meet/"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/jitsi/jitsi-meet"><img src="/images/git_hub-logo.png" height="72" /></div>
 
 Secure, fully featured, and completely free video conferencing.
 
