@@ -456,7 +456,7 @@ If you have a minimum amount of time and technical skills, creating your own pla
 <br><br>
 <h3 id="funkwhale"> FUNWHALE </h3>
 
->Links: <div><a href="https://www.funkwhale.audio"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="[https://github.com/friendica/friendica](https://dev.funkwhale.audio/funkwhale/funkwhale)"><img src="/images/git_share.png" height="72"/></a></div>
+>Links: <div><a href="https://www.funkwhale.audio"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://dev.funkwhale.audio/funkwhale"><img src="/images/git_share.png" height="72"/></a></div>
 
 Funkwhale is a community-driven project that lets you listen and share music and audio within a decentralized, open network. It is a free libre open source software alternative to SoundCloud, which can be self-hosted.
 
