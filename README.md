@@ -145,6 +145,8 @@ KVM Virtual Machines: A full virtualization solution for running a variety of gu
 SmartOS is a "live OS", it is always booted via PXE, ISO, or USB Key and runs entirely from memory, allowing the local disks to be used entirely for hosting virtual machines without wasting disks for the root OS. This architecture has a variety of advantages including increased security, no need for patching, fast upgrades and recovery.
 <div align="center"> <img src="/images/smartos.png" width="800" /></a> </div>
 <div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<br><br><br>
+<h2 id="homeserver-personalcloud" align="center">HOME SERVER - PERSONAL CLOUD</h2>
 <br><br>
 <h3 id="umbrel"> UMBREL </h3>
   
