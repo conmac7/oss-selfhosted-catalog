@@ -159,7 +159,7 @@ An OS for running a server in your home. Self-host open source apps like Nextclo
 <div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h3 id="casa-os"> CASAOS </h3><br><br><br>
-<h2 id="oss-operating-systems" align="center">OSS OPERATING SYSTEMS</h2>
+
 >Links: <div><a href="https://casaos.io"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/IceWhaleTech/CasaOS"><img src="/images/git_hub-logo.png" height="72"/></a></div>
 
 Community-based open source software focused on delivering simple home cloud experience around Docker ecosystem.
