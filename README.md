@@ -29,6 +29,16 @@ Finally, the aim of this collection is not to catalog every single open-source a
 - [Home Server - Personal Cloud](#homeserver-personalcloud)
     - [Umbrel](#umbrel)
     - [CasaOS](#casa-os)
+- [Collaboration Platforms - Project Management](#homeserver-personalcloud)
+    - [Element](#element)
+    - [Nextcloud](#nextcloud)
+    - [Mattermost](#mattermost)
+    - [Kanboard](#kanboard)
+    - [WeKan](#wekan)
+    - [OpenProject](#openproject)
+    - [Redmine](#redmine)
+    - [ERPNext](#erp-next)
+    - [SuiteCRM](#suite-crm)
 <br><br>
 --------------------
 
@@ -158,5 +168,176 @@ Democratizing data and giving service control back to your hands.
 
 Project CasaOS started as a community-based open-source project focused on delivering a simple home cloud experience around the Docker ecosystem. CasaOS aims to redefine the private cloud digital experience for creators and developers through data democratization and enabling everyone to take that goal to a new scale.
 <div align="center"> <img src="/images/casaos.png" width="800" /></a> </div>
+<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<br><br>
+<h3 id="element"> ELEMENT </h3>
+  
+>Links: <div><a href="https://element.io"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/element-hq"><img src="/images/git_hub-logo.png" height="72"/></a></div>
+
+A platform for the entire workforce. A consumer-feel messaging app for those on the frontline. A desktop collaboration tool for those in the office or at home.
+
+Element is a Matrix-based end-to-end encrypted (E2EE) secure collaboration and messaging app.
+
+It provides instant messaging, voice and video calls, screen sharing and file sharing; for 1:1s to huge chat rooms. It’s available to use across Web, Android, iOS, macOS, Windows & Linux.
+
+Its decentralized design delivers digital sovereignty, enabling deployment on-premise or through any cloud provider.
+
+To host your own copy of Element, the quickest bet is to use a pre-built released version of Element:
+
+- Download the latest version from https://github.com/vector-im/element-web/releases
+- Untar the tarball on your web server
+- Move (or symlink) the element-x.x.x directory to an appropriate name
+- Configure the correct caching headers in your webserver (see below)
+- Configure the app by copying config.sample.json to config.json and modifying it. See the configuration docs for details.
+- Enter the URL into your browser and log into Element!
+<div align="center"> <img src="/images/element.png" width="800" /></a> </div>
+<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<br><br>
+<h3 id="nextcloud"> NEXTCLOUD </h3>
+
+>Links: <div><a href="https://nextcloud.com"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/nextcloud"><img src="/images/git_hub-logo.png" height="72"/></a></div>
+
+Regain control over your data
+
+Nextcloud Hub integrates the four key Nextcloud products Files, Talk, Groupware and Office into a single platform, optimizing the flow of collaboration.
+
+Nextcloud is a suite of client-server software for creating and using file hosting services. Nextcloud provides functionally similar to Dropbox, Office 365 or Google Drive when used with integrated office suites Collabora Online or OnlyOffice. It can be hosted in the cloud or on-premises. It is scalable from home office software based on the low-cost Raspberry Pi all the way through to full sized data centers that support millions of users
+<div align="center"> <img src="/images/nextcloud.png" width="800" /></a> </div>
+<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<br><br>
+<h3 id="mattermost"> MATTERMOST </h3>
+
+>Links: <div><a href="https://mattermost.com"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/mattermost"><img src="/images/git_hub-logo.png" height="72"/></a></div>
+
+Mattermost is an open source alternative to Slack.
+
+Mattermost is a secure, open source platform for communication, collaboration, and workflow orchestration across tools and teams.
+
+As an alternative to proprietary SaaS messaging, Mattermost brings all your team communication into one place, making it searchable and accessible anywhere. It’s written in Golang and React and runs as a production-ready Linux binary under an MIT license with either MySQL or Postgres.
+<div align="center"> <img src="/images/mattermost.png" width="800" /></a> </div>
+<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<br><br>
+<h3 id="kanboard"> KANBOARD </h3>
+
+>Links: <div><a href="https://kanboard.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/kanboard"><img src="/images/git_hub-logo.png" height="72"/></a></div>
+
+Kanboard is a free and open source Kanban project management software.
+
+Kanboard is a simple visual task board software.
+
+There is no fancy user interface, Kanboard focus on simplicity and minimalism. The number of features is voluntary limited.
+
+- Visualize your work
+- Limit your work in progress to focus on your goal
+- Drag and drop tasks to manage your project
+- Self-hosted
+- Super simple installation
+<div align="center"> <img src="/images/kanboard.gif" width="800" /></a> </div>
+<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<br><br>
+<h3 id="wekan"> WEKAN </h3>
+
+>Links: <div><a href="https://wekan.github.io"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/wekan"><img src="/images/git_hub-logo.png" height="72"/></a></div>
+
+Wekan is an open-source and collaborative kanban board application.
+
+Wekan, formerly LibreBoard, is an open-source and collaborative Trello icon Trello -like kanban board application.
+<div align="center"> <img src="/images/wekan.png" width="800" /></a> </div>
+<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<br><br>
+<h3 id="openproject"> OPENPROJECT </h3>
+
+>Links: <div><a href="https://www.openproject.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/opf/openproject"><img src="/images/git_hub-logo.png" height="72"/></a></div>
+
+OpenProject is an open source software for project management with a wide set of features and plugins and an active international community.
+
+It supports project timelines / Gantt charts, issue tracking, wiki, document management, time and cost reporting, code management, Scrum and much more.
+
+OpenProject can be installed on-premises in your own infrastructure, having full control and 100% data ownership. You know where your data is stored and what happens to it, without external influence.
+
+OpenProject is a web-based project management software. Its key features are:
+
+- Project planning and scheduling
+- Product roadmap and release planning
+- Task management and team collaboration
+- Agile and Scrum
+- Time tracking, cost reporting, and budgeting
+- Bug tracking
+- Wikis
+- Forums
+- Meeting agendas and meeting minutes
+<div align="center"> <img src="/images/openproject.jpg" width="800" /></a> </div>
+<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<br><br>
+<h3 id="redmine"> REDMINE </h3>
+
+>Links: <div><a href="https://www.redmine.org/projects/redmine"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://svn.redmine.org/redmine/"><img src="/images/source_repo.png" height="72"/></a></div>
+
+Flexible project management web application
+
+Redmine is a flexible project management web application. Written using Ruby on Rails framework, it is cross-platform and cross-database.
+
+It integrates with a number of different SCM:s including Subversion and Git. It has multi language support and can be extended with the help of plugins.
+
+- Multiple projects support
+- Flexible role-based access control
+- Flexible issue tracking system
+- Gantt chart and calendar
+- News, documents & files management
+- Feeds & email notifications
+- Per project wiki
+- Per project forums
+- Time tracking
+- Custom fields for issues, time-entries, projects and users
+- SCM integration (SVN, CVS, Git, Mercurial and Bazaar)
+- Issue creation via email
+- Multiple LDAP authentication support
+- User self-registration support
+- Multilanguage support
+- Multiple databases support
+<div align="center"> <img src="/images/REDMINE.jpg" width="800" /></a> </div>
+<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<br><br>
+<h3 id="erp-next"> ERPNEXT </h3>
+
+>Links: <div><a href="https://erpnext.com"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/frappe/erpnext"><img src="/images/git_hub-logo.png" height="72"/></a></div>
+
+ERPNext is a cost-effective ERP solution to run your business using on-demand, software-as-a-service platform.
+
+Offers modules like Accounting, Sales, Purchase, Inventory, Human Resource, Projects, Production & Maintenance which are present in most of the real-world business processes.
+
+Open source and licensed under GNU GPL v3. It's free to use on your own server. Built on Python.
+<div align="center"> <img src="/images/erpnext.jpg" width="800" /></a> </div>
+<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<br><br>
+<h3 id="suite-crm"> SUITECRM </h3>
+
+>Links: <div><a href="https://suitecrm.com"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/salesagility/SuiteCRM"><img src="/images/git_hub-logo.png" height="72"/></a></div>
+
+SuiteCRM is a free open-source Customer Relationship Management application for servers that is written in PHP.
+
+Powerful, customizable, easy to use, with hundreds of extensions and integrations, SuiteCRM is used by millions of people every day. Download and install SuiteCRM on your own server or within your development environment
+
+SuiteCRM comprises the last release of the SugarCRM Community Edition plus the following additional modules:
+
+- Products
+- Quotes
+- Contracts
+- Invoices
+- PDF Templates
+- Workflow
+- Reporting
+- Search
+- Events
+- Google Maps
+- Teams Security
+- Portal
+- Responsive Theme
+- Outlook plugin
+- Surveys
+In addition to the new modules, extensive bug fixes and many enhancements to the core functionality have been made. There have been over fifty updates since the original project was released.
+
+A six-month release cycle is maintained with bug fix and security releases being made available between major releases
+<div align="center"> <img src="/images/suitecrm.png" width="800" /></a> </div>
 <div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
