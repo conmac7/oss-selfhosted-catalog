@@ -337,6 +337,7 @@ SuiteCRM comprises the last release of the SugarCRM Community Edition plus the f
 - Responsive Theme
 - Outlook plugin
 - Surveys
+
 In addition to the new modules, extensive bug fixes and many enhancements to the core functionality have been made. There have been over fifty updates since the original project was released.
 
 A six-month release cycle is maintained with bug fix and security releases being made available between major releases
