@@ -4,7 +4,7 @@
 
 This is a curated collection of open-source and self-hosted software programs. This catalog serves as a comprehensive guide, featuring a title, corresponding links(homepage, github, git), a concise description and an image for each listed software. 
 
-It aims to provide an organized and informative resource primarily for enthusiasts, home server owners/Admins, homelabbers, and end-users who value their privacy and security, and are seeking to explore and adopt various open-source and self-hosted solutions across different domains and use cases.
+It aims to provide an organized and informative resource primarily for enthusiasts, home server owners/Admins, homelabbers and end-users who value their privacy and security, and are seeking to explore and adopt various open-source and self-hosted solutions across different domains and use cases.
 
 Some more professional software for IT specialists, sysadmins, and developers/programmers is also listed, but the aim isn't to provide tools, software, and solutions for this specific category.
 
