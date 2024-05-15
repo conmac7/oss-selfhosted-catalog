@@ -29,7 +29,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
 - [Home Server - Personal Cloud](#homeserver-personalcloud)
     - [Umbrel](#umbrel)
     - [CasaOS](#casa-os)
-- [Collaboration Platforms - Project Management](#homeserver-personalcloud)
+- [Collaboration Platforms - Project Management - ERP - CRM](#colab-erp-crm)
     - [Element](#element)
     - [Nextcloud](#nextcloud)
     - [Mattermost](#mattermost)
@@ -158,8 +158,8 @@ An OS for running a server in your home. Self-host open source apps like Nextclo
 <div align="center"> <img src="/images/umbrel.png" width="800" /></a> </div>
 <div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
-<h3 id="casa-os"> CASAOS </h3>
-
+<h3 id="casa-os"> CASAOS </h3><br><br><br>
+<h2 id="oss-operating-systems" align="center">OSS OPERATING SYSTEMS</h2>
 >Links: <div><a href="https://casaos.io"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/IceWhaleTech/CasaOS"><img src="/images/git_hub-logo.png" height="72"/></a></div>
 
 Community-based open source software focused on delivering simple home cloud experience around Docker ecosystem.
@@ -169,7 +169,8 @@ Democratizing data and giving service control back to your hands.
 Project CasaOS started as a community-based open-source project focused on delivering a simple home cloud experience around the Docker ecosystem. CasaOS aims to redefine the private cloud digital experience for creators and developers through data democratization and enabling everyone to take that goal to a new scale.
 <div align="center"> <img src="/images/casaos.png" width="800" /></a> </div>
 <div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
-<br><br>
+<br><br><br>
+<h2 id="colab-erp-crm" align="center">COLLABORATION PLATFORMS - PROJECT MANAGEMENT - ERP - CRM</h2>
 <h3 id="element"> ELEMENT </h3>
   
 >Links: <div><a href="https://element.io"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/element-hq"><img src="/images/git_hub-logo.png" height="72"/></a></div>
@@ -340,4 +341,4 @@ In addition to the new modules, extensive bug fixes and many enhancements to the
 A six-month release cycle is maintained with bug fix and security releases being made available between major releases
 <div align="center"> <img src="/images/suitecrm.png" width="800" /></a> </div>
 <div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
-<br><br>
+<br><br><br>
