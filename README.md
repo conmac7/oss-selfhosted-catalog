@@ -60,6 +60,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
         - [CasaOS](#casa-os)
         - [Umbrel](#umbrel)
     - [Media Management (Audiobooks - Ebooks/PDF - Documents - Movies - Music - Podcasts - Photos - TV Shows - Videos)](#media-management)
+        - [digiKam](#digikam) 
         - [Immich](#immich)
         - [Jellyfin](#jellyfin)
         - [LibrePhotos](#librephotos)
@@ -714,6 +715,20 @@ An OS for running a server in your home. Self-host open source apps like Nextclo
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h2 id="media-management" align="center">███MEDIA MANAGEMENT (AUDIOBOOKS - EBOOKS/PDF - DOCUMENTS - MOVIES - MUSIC - PODCASTS - PHOTOS - TV SHOWS - VIDEOS)███</h2>
+<br><br>
+<h3 id="digikam"> DIGIKAM </h3>
+
+>Links: <div><a href="https://www.digikam.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/KDE/digikam"><img src="/images/git_hub-logo.png" height="72"/></div>
+
+digiKam is an advanced open-source digital photo management application that runs on Linux, Windows, and macOS. The application provides a comprehensive set of tools for importing, managing, editing, and sharing photos and raw files.
+
+- Import photos, raw files, and videos from cameras and external storage devices.
+- Organize photos with albums, tags, ratings, and labels.
+- Search photos by a wide range of criteria, including date, location, and metadata.
+- Edit photos with basic and advanced tools.
+- Extend functionality with plugins.
+<div align="center"> <img src="/images/digikam.png" width="800" /></a> </div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h3 id="immich"> IMMICH </h3>
 
