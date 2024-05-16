@@ -99,7 +99,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
 - [Useful Links](#useful-links)
 <br><br>
 --------------------
-<h2 id="software" align="center">SOFTWARE</h2>
+<h2 id="credits-licenses" align="center">CREDITS - LICENSES</h2>
 <br><br>
 <h2 id="software" align="center">SOFTWARE</h2>
 <br><br>
