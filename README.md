@@ -73,7 +73,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
         - [CasaOS](#casa-os)<p id="mediaa-mngmnt"></p>
         - [Umbrel](#umbrel)<p id="unused"></p><br>
     - [Information System - Internet Protocol - Transfer Protocol -  WEB Alternatives](#web-alts)<p id="unused"></p>
-        - [Hyphanet)](#hyphanet)<p id="unused"></p>
+        - [Hyphanet](#hyphanet)<p id="unused"></p>
         - [IPFS (InterPlanetary File System)](#ipfs)<p id="unused"></p>
         - [ZeroNet](#zeronet)<p id="unused"></p><br>
     - [Media Management (Audiobooks - Ebooks/PDF - Documents - Movies - Music - Podcasts - Photos - TV Shows - Videos)](#media-management)<p id="unused"></p>
