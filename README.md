@@ -716,12 +716,18 @@ OPNsense is designed to be a highly customizable and extensible firewall and rou
 >Links: <div><a href="https://www.netmaker.io"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/gravitl/netmaker"><img src="/images/git_hub-logo.png" height="72"/></div>
 
 A powerful, open source, self-hosted, GUI for setting up Wireguard networks and VPNs.
+Netmaker is a software tool that creates secure virtual networks. It uses WireGuard technology to establish fast and encrypted connections between devices, servers, and virtual machines across different locations like data centers, clouds, and individual offices.  Netmaker automates the setup and management of these connections, making it easier to connect devices across complex networks.
 
-Netmaker is a networking platform built on the groundbreaking WireGuard protocol. Netmaker unifies your hybrid/multi-cloud, edge, IoT, and Kubernetes environments.
-
-Netmaker uses WireGuard for modern, secure encryption. It is built with zero trust in mind, utilizes access control lists, and follows leading industry standards for secure networking.
-
-Netmaker enables you to create relays, gateways, full VPN meshes, and even zero trust networks. Netmaker is fully configurable to let you maximize the power of Wireguard.
+- Virtual Private Network (VPN) Server: Netmaker allows you to set up a VPN server that enables secure and encrypted communication between different clients or nodes connected to the VPN network.
+- Peer-to-Peer Networking: Netmaker uses a peer-to-peer networking model, where each client or node can communicate directly with other nodes without the need for a centralized server or relay.
+- Network Access Control: Netmaker provides network access control features, allowing administrators to define access rules and permissions for different clients or groups of clients within the VPN network.
+- Easy Network Creation: The web interface of Netmaker simplifies the process of creating and configuring new VPN networks, making it accessible to users with varying levels of technical expertise.
+- Client Management: Netmaker allows administrators to manage and monitor connected clients, including their IP addresses, network interfaces, and connection status.
+- Cross-Platform Support: Netmaker supports various operating systems and platforms, including Windows, macOS, Linux, and mobile devices (Android and iOS), enabling users to connect from different devices.
+- Network Segmentation: Netmaker allows administrators to segment the VPN network into multiple subnets or networks, providing an additional layer of security and isolation between different groups or services.
+- Traffic Monitoring and Logging: Netmaker provides traffic monitoring and logging capabilities, enabling administrators to track and analyze network activity and troubleshoot issues if needed.
+- Automated Configuration: Netmaker can automatically generate and distribute configuration files for clients, simplifying the process of connecting to the VPN network.
+- Self-Hosted and Containerized: Netmaker is a self-hosted solution that can be deployed on various platforms, including bare-metal servers, virtual machines, or containerized environments like Docker and Kubernetes.
 <div align="center"> <img src="/images/netmaker.png" width="800" /></a> </div>
 <div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
