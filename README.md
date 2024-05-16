@@ -22,6 +22,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
     - [Admin(app, network, sys, web) - CMS - IT - Networking](#admin-it-networking)<p id="unused"></p>
         - [Flarum](#flarum)<p id="unused"></p>
         - [Freedombox](#freedombox)<p id="unused"></p>
+        - [Glances](#glances)<p id="unused"></p>
         - [Grafana](#grafana)<p id="unused"></p>
         - [Grav](#grav)<p id="unused"></p>
         - [LibreSpeed](#librespeed)<p id="unused"></p>
@@ -159,6 +160,39 @@ Build your own FreedomBox by downloading and setting up on your hardware of choi
 - Share media and take backups from all devices on your home network.
 - FreedomBox can be your Network Attached Storage (NAS).
 <div align="center"> <img src="/images/freedombox.jpg" width="800" /></a> </div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#adminn"><img src="/images/back-to-current.png" width="120" /></div>
+<br><br>
+<h3 id="glances"> GLANCES </h3>
+
+>Links: <div><a href="https://nicolargo.github.io/glances/"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/nicolargo/glances"><img src="/images/git_hub-logo.png" height="72"/></div>
+
+Glances is an open-source system cross-platform monitoring tool. It allows real-time monitoring of various aspects of your system such as CPU, memory, disk, network usage etc.
+
+It also allows monitoring of running processes, logged in users, temperatures, voltages, fan speeds etc.
+
+It also supports container monitoring, it supports different container management systems such as Docker, LXC.
+
+The information is presented in an easy to read dashboard and can also be used for remote monitoring of systems via a web interface or command line interface. It is easy to install and use and can be customized to show only the information that you are interested in.
+
+In client/server mode, remote monitoring could be done via terminal, Web interface or API (XML-RPC and RESTful). Stats can also be exported to files or external time/value databases, CSV or direct output to STDOUT.
+
+Glances is written in Python and uses libraries to grab information from your system. It is based on an open architecture where developers can add new plugins or exports modules.
+
+Monitor Features:
+- CPU
+- Memory
+- Load
+- Process list
+- Network interface
+- Disk I/O
+- IRQ / Raid
+- Sensors
+- Filesystem (and folders)
+- Container (Docker and Podman supported)
+- Alert
+- System info
+- Uptime
+<div align="center"> <img src="/images/glances.png" width="800" /></a> </div>
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#adminn"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
 <h3 id="grafana"> GRAFANA </h3>
