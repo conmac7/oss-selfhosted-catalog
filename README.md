@@ -58,7 +58,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
         - [homepage](#homepage)
     - [Home Server - Personal Cloud](#homeserver-personalcloud)
         - [CasaOS](#casa-os)
-        - [Umbrel](#umbrel)\
+        - [Umbrel](#umbrel)
     - [Media Management (Ebooks/PDF - Movies - Music - Photos - TV Shows - Videos)](#nas)
     - [NAS](#nas)
         - [openmediavault](#openmediavault)
