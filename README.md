@@ -96,6 +96,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
       - [Addy (FKA AnonAddy)](#addy)<p id="unused"></p>
       - [Bitwarden](#bitwarden)<p id="unused"></p>
       - [DNSCrypt](#dns-crypt)<p id="unused"></p>
+      - [Fakeroute](#fakeroute)<p id="unused"></p>
       - [IPFS (InterPlanetary File System)](#ipfs)<p id="unused"></p>
       - [Kodachi (Linux Distro)](#kodachi)<p id="unused"></p>
       - [OpenVPN](#open-vpn)<p id="unused"></p>
@@ -1223,6 +1224,14 @@ Anonymized DNSCrypt is a protocol extension proposed in 2019 to further improve 
 <div align="center"> <img src="/images/dnsproxyclient.png" width="480" /> </div>
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#privacyy"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
+<h3 id="fakeroute"> FAKEROUTE </h3>
+
+>Links: <div><a href="https://github.com/blechschmidt/fakeroute"><img src="/images/git_hub-logo.png" height="72" /></a></div>
+
+Fakeroute allows you to insert fake IPv4 and IPv6 hops between the last real hop and your Linux server by making use of IP address spoofing.
+<div align="center"> <img src="/images/fakeroute.png" width="800" /> </div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#privacyy"><img src="/images/back-to-current.png" width="120" /></div>
+<br><br>    
 <h3 id="ipfs"> IPFS (INTERPLANETARY FILESYSTEM) </h3>
 
 >Links: <div><a href="https://ipfs.tech"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/ipfs"><img src="/images/git_hub-logo.png" height="72" /></a></div>
