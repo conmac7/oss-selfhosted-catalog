@@ -17,9 +17,9 @@ Finally, the aim of this collection is not to catalog every single open-source a
 
 ## Table of Contents 
 - [Credits - Licenses](#credits-licenses)
-    - [Open Source Initiative (Logo)](#open-source-initiative)<p id="adminn"></p>
+    - [Open Source Initiative (Logo)](#open-source-initiative)
 - [Software](#software)
-    - [Admin(app, network, sys, web) - CMS - IT - Networking](#admin-it-networking) 
+    - [Admin(app, network, sys, web) - CMS - IT - Networking](#admin-it-networking)<p id="adminn"></p>
         - [Flarum](#flarum)
         - [Freedombox](#freedombox)
         - [Grafana](#grafana)
