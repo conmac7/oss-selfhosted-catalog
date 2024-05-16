@@ -19,7 +19,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
 - [Credits - Licenses](#credits-licenses)
     - [Open Source Initiative (Logo)](#open-source-initiative)
 - [Software](#software)
-    - [Admin(app, network, sys, web) - CMS - IT - Networking](#admin-it-networking)
+    - [Admin(app, network, sys, web) - CMS - IT - Networking](#admin-it-networking) <p id="adminn"></p>
         - [Flarum](#flarum)
         - [Freedombox](#freedombox)
         - [Grafana](#grafana)
@@ -32,7 +32,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
         - [RustDesk](#rustdesk)
         - [Webmin](#webmin)
         - [Zabbix](#zabbix)
-    - [Chatting - Self-hosted Media Platforms - Social Networking - Dailymotion/Youtube Alternatives](#socials)
+    - [Chatting - Self-hosted Media Platforms - Social Networking - Dailymotion/Youtube Alternatives](#socials) <p id="socialss"></p>
         - [Diaspora](#diaspora)
         - [friendica](#friendica)
         - [Funkwhale](#funkwhale)
@@ -40,7 +40,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
         - [mastodon](#mastodon)
         - [PeerTube](#peertube)
         - [Pleroma](#pleroma)
-    - [Collaboration Platforms - CRM - ERP - Project Management](#colab-erp-crm)
+    - [Collaboration Platforms - CRM - ERP - Project Management](#colab-erp-crm) <p id="colab"></p>
         - [Element](#element)
         - [ERPNext](#erp-next)
         - [Kanboard](#kanboard)
@@ -56,19 +56,19 @@ Finally, the aim of this collection is not to catalog every single open-source a
         - [Heimdall](#heimdall)
         - [Homarr](#homarr)
         - [homepage](#homepage)
-    - [Home Server - Personal Cloud](#homeserver-personalcloud)
+    - [Home Server - Personal Cloud](#homeserver-personalcloud) <p id="home-serverr"></p>
         - [CasaOS](#casa-os)
         - [Umbrel](#umbrel)
-    - [Media Management (Audiobooks - Ebooks/PDF - Documents - Movies - Music - Podcasts - Photos - TV Shows - Videos)](#media-management)
+    - [Media Management (Audiobooks - Ebooks/PDF - Documents - Movies - Music - Podcasts - Photos - TV Shows - Videos)](#media-management) <p id="mediaa-mngmnt"></p>
         - [digiKam](#digikam) 
         - [Immich](#immich)
         - [Jellyfin](#jellyfin)
         - [LibrePhotos](#librephotos)
         - [PhotoPrism](#photoprism)
-    - [NAS](#nas)
+    - [NAS](#nas) <p id="nasss"></p>
         - [openmediavault](#openmediavault)
         - [TrueNas](#true-nas)
-    - [Office - Productivity](#productivity-office)
+    - [Office - Productivity](#productivity-office) <p id="office"></p>
         - [Baserow](#baserow)
         - [Bookstack](#bookstack)
         - [Firefly III](#firefly-iii)
@@ -80,13 +80,13 @@ Finally, the aim of this collection is not to catalog every single open-source a
         - [Turtl](#turtl)
         - [Wallabag](#wallabag)
         - [Xournal++](#xournalpp)
-    - [Operating Systems (OSS)](#oss-operating-systems)
+    - [Operating Systems (OSS)](#oss-operating-systems) <p id="ossopsys"></p>
       - [Haiku](#Haiku)
       - [illumos](#illumos)
       - [KolibriOS](#kolibri-os)
       - [OpenIndiana](#open-indiana)
       - [SerenityOS](#serenity-os)
-    - [Privacy - Security](#privacy-security)
+    - [Privacy - Security](#privacy-security) <p id="privacyy"></p>
       - [Addy (FKA AnonAddy)](#addy)
       - [Bitwarden](#bitwarden)
       - [DNSCrypt](#dns-crypt)
@@ -97,14 +97,14 @@ Finally, the aim of this collection is not to catalog every single open-source a
       - [SoftEther VPN](#softether-vpn)
       - [vaultwarden](#vaultwarden)
       - [WireGuard](#wire-guard)
-    - [Search Engines](#search-engines)
+    - [Search Engines](#search-engines) <p id="searchh"></p>
       - [Openverse](#openverse)
       - [YaCy](#yacy)
-    - [Virtualization](#virtualization)
+    - [Virtualization](#virtualization) <p id="virtualizatione"></p>
       - [Proxmox Virtual Environment](#proxmox)
       - [SmartOS](#smart-os)
       - [Xen Project](#xen-project)
-    - [Useful Links](#useful-links)
+    - [Useful Links](#useful-links) <p id="linkz"></p>
       - [ipleak.net](#ipleak-net)
       - [ping.eu](#ping-eu)
 <br><br>
@@ -139,7 +139,7 @@ It is the combined successor of esoTalk and FluxBB. It aims to be:
 - Beautiful and responsive. This is forum software for humans. Flarum is carefully designed to be consistent and intuitive across platforms, out-of-the-box. It’s backed by LESS, so themeing is a cinch.
 - Powerful and extensible. Customize, extend, and integrate Flarum to suit your community. Flarum’s architecture is amazingly flexible, prioritizing comprehensive APIs and great documentation.
 <div align="center"> <img src="/images/flarum.png" width="800" /></a> </div>
-<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#adminn"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
 <h3 id="Freedombox"> FREEDOMBOX </h3>
 
