@@ -60,6 +60,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
         - [CasaOS](#casa-os)
         - [Umbrel](#umbrel)
     - [Media Management (Audiobooks - Ebooks/PDF - Documents - Movies - Music - Podcasts - Photos - TV Shows - Videos)](#media-management)
+        - [LibrePhotos](#librephotos)
     - [NAS](#nas)
         - [openmediavault](#openmediavault)
         - [TrueNas](#true-nas)
@@ -712,7 +713,8 @@ An OS for running a server in your home. Self-host open source apps like Nextclo
 <h3 id="librephotos"> LIBREPHOTOS </h3>
 
 >Links: <div><a href="https://demo2.librephotos.com/login"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/LibrePhotos"><img src="/images/git_hub-logo.png" height="72"/></div>
-<sup>name:demo pass:demo1234</sup>
+<sup>username:demo</sup><br>
+<sup>password:demo1234</sup>
 
 
 
