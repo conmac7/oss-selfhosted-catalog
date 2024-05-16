@@ -15,6 +15,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
 --------------------
 
 ## Table of contents
+- [Credits - Licenses](#credits-licenses)
 - [Software](#software)
     - [Admin(app, network, sys, web) - CMS - IT - Networking](#admin-it-networking)
         - [Flarum](#flarum)
@@ -95,8 +96,11 @@ Finally, the aim of this collection is not to catalog every single open-source a
       - [Proxmox Virtual Environment](#proxmox)
       - [SmartOS](#smart-os)
       - [Xen Project](#xen-project)
+- [Useful Links](#useful-links)
 <br><br>
 --------------------
+<h2 id="software" align="center">SOFTWARE</h2>
+<br><br>
 <h2 id="software" align="center">SOFTWARE</h2>
 <br><br>
 <h2 id="admin-it-networking" align="center">ADMIN(APP, NETWORK, SYS, WEB) - CMS - IT - NETWORKING</h2>
