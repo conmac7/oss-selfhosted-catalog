@@ -62,8 +62,8 @@ Finally, the aim of this collection is not to catalog every single open-source a
     - [Media Management (Audiobooks - Ebooks/PDF - Documents - Movies - Music - Podcasts - Photos - TV Shows - Videos)](#media-management)<p id="unused"></p>
         - [digiKam](#digikam)<p id="unused"></p>
         - [Immich](#immich)<p id="unused"></p>
-        - [Jellyfin](#jellyfin)<p id="nasss"></p>
-        - [LibrePhotos](#librephotos)<p id="unused"></p>
+        - [Jellyfin](#jellyfin)<p id="unused"></p>
+        - [LibrePhotos](#librephotos)<p id="nasss"></p>
         - [PhotoPrism](#photoprism)<p id="unused"></p><br>
     - [NAS](#nas)<p id="unused"></p>
         - [openmediavault](#openmediavault)<p id="officeee"></p>
