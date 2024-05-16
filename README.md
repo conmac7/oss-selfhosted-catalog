@@ -100,7 +100,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
 - [Useful Links](#useful-links)
 <br><br>
 --------------------
-<h2 id="credits-licenses" align="center">CREDITS - LICENSES</h2>
+<h2 id="credits-licenses" align="center">→àCREDITS - LICENSES</h2>
 <p id="license"></p>
 <br><br>
 <h3 id="open-source-initiative"> OPEN SOURCE INITIATIVE (LOGO) </h3>
@@ -113,7 +113,7 @@ https://opensource.org</sup>
 <br><br>
 <h2 id="software" align="center">→SOFTWARE</h2>
 <br><br>
-<h2 id="admin-it-networking" align="center">ADMIN(APP, NETWORK, SYS, WEB) - CMS - IT - NETWORKING</h2>
+<h2 id="admin-it-networking" align="center">→ADMIN(APP, NETWORK, SYS, WEB) - CMS - IT - NETWORKING</h2>
 <br><br>
 <h3 id="flarum"> FLARUM </h3>
 
@@ -312,7 +312,7 @@ Run Zabbix on-premise or in the cloud
 <div align="center"> <img src="/images/zabbix.png" width="800" /></a> </div>
 <div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
-<h2 id="socials" align="center">CHATTING - SELF-HOSTED MEDIA PLATFORMS - SOCIAL NETWORKING - DAILYMOTION/YOUTUBE ALTERNATIVES</h2>
+<h2 id="socials" align="center">→CHATTING - SELF-HOSTED MEDIA PLATFORMS - SOCIAL NETWORKING - DAILYMOTION/YOUTUBE ALTERNATIVES</h2>
 <br><br>
 <h3 id="diaspora"> DIASPORA </h3>
 
@@ -417,7 +417,7 @@ Start using Pleroma by joining an existing Pleroma instance or check the install
 <div align="center"> <img src="/images/pleroma.png" width="800" /></a> </div>
 <div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
-<h2 id="colab-erp-crm" align="center">COLLABORATION PLATFORMS - CRM - ERP - PROJECT MANAGEMENT</h2>
+<h2 id="colab-erp-crm" align="center">→COLLABORATION PLATFORMS - CRM - ERP - PROJECT MANAGEMENT</h2>
 <br><br>
 <h3 id="element"> ELEMENT </h3>
 
@@ -611,7 +611,7 @@ Zulip can transform how your organization communicates:
 <div align="center"> <img src="/images/zulip.png" width="800" /></a> </div>
 <div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
-<h2 id="dashboards" align="center">DASHBOARDS</h2>
+<h2 id="dashboards" align="center">→DASHBOARDS</h2>
 <br><br>
 <h3 id="dashy"> DASHY </h3>
 
@@ -678,7 +678,7 @@ Homepage It's a self-hosted customizable dashboard application designed for pers
 <div align="center"> <img src="/images/homepage_.png" width="800" /></a> </div>
 <div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
-<h2 id="homeserver-personalcloud" align="center">HOME SERVER - PERSONAL CLOUD</h2>
+<h2 id="homeserver-personalcloud" align="center">→HOME SERVER - PERSONAL CLOUD</h2>
 <br><br>
 <h3 id="casa-os"> CASAOS </h3>
 
@@ -704,7 +704,7 @@ An OS for running a server in your home. Self-host open source apps like Nextclo
 <div align="center"> <img src="/images/umbrel.png" width="800" /></a> </div>
 <div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
-<h2 id="nas" align="center">NAS</h2>
+<h2 id="nas" align="center">→NAS</h2>
 <br><br>
 <h3 id="openmediavault"> OPENMEDIAVAULT </h3>
 
@@ -741,7 +741,7 @@ OpenMediaVault (OMV) is an open-source network-attached storage (NAS) solution b
 <div align="center"> <img src="/images/true-nas.png" width="800" /></a> </div>
 <div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
-<h2 id="productivity-office" align="center">OFFICE - PRODUCTIVITY</h2>
+<h2 id="productivity-office" align="center">→OFFICE - PRODUCTIVITY</h2>
 <br><br>
 <h3 id="baserow"> BASEROW </h3>
 
@@ -870,7 +870,7 @@ Xournal++ is a hand note taking software written in C++ with the target of flexi
 <div align="center"> <img src="/images/xournalpp.png" width="800" /></a> </div>
 <div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
-<h2 id="oss-operating-systems" align="center">OPERATING SYSTEMS (OSS)</h2>
+<h2 id="oss-operating-systems" align="center">→OPERATING SYSTEMS (OSS)</h2>
 <br><br>
 <h3 id="Haiku"> HAIKU </h3>
 
@@ -934,7 +934,7 @@ The system is written in what the authors call "Serenity C++", a variant of C++ 
 <div align="center"> <img src="/images/serenity-os.png" width="800" /> </div>
 <div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
-<h2 id="privacy-security" align="center">PRIVACY - SECURITY</h2>
+<h2 id="privacy-security" align="center">→PRIVACY - SECURITY</h2>
 <br><br>
 <h3 id="addy"> ADDY (FKA ANNONADDY) </h3>
 
@@ -1060,7 +1060,7 @@ Designed with the goals of ease of use, high speed performance, and low attack s
 <div align="center"> <img src="/images/wireguards.jpg" width="640" /> </div>
 <div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
-<h2 id="search-engines" align="center">SEARCH ENGINES</h2>
+<h2 id="search-engines" align="center">→SEARCH ENGINES</h2>
 <br><br>
 <h3 id="openverse"> OPENVERSE </h3>
 
@@ -1098,7 +1098,7 @@ Compared to semi-distributed search engines, the YaCy-network has a distributed 
 <div align="center"> <img src="/images/yacy2.png" width="800" /> </div>
 <div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
-<h2 id="virtualization" align="center">VIRTUALIZATION</h2>
+<h2 id="virtualization" align="center">→VIRTUALIZATION</h2>
 <br><br>
 <h3 id="proxmox"> PROXMOX VIRTUAL ENVIRONMENT </h3>
 
