@@ -77,8 +77,19 @@ Finally, the aim of this collection is not to catalog every single open-source a
   - [OpenIndiana](#open-indiana)
   - [SerenityOS](#serenity-os)
 - [Privacy - Security](#privacy-security)
+  - [Addy](#addy)
+  - [Bitwarden](#bitwarden)
   - [DNSCrypt](#dns-crypt)
+  - [IPFS (InterPlanetary File System)](#ipfs)
   - [Kodachi (Linux Distro)](#kodachi)
+  - [OpenVPN)](#open-vpn)
+  - [Portmaster)](#portmaster)
+  - [SoftEther VPN)](#softether-vpn)
+  - [vaultwarden)](#vaultwarden)
+  - [WireGuard)](#wire-guard)
+- [Search Engines](#search-engines)
+  - [Openverse)](#openverse)
+  - [YaCy)](#yacy)
 - [Virtualization](#virtualization)
   - [Proxmox Virtual Environment](#proxmox)
   - [SmartOS](#smart-os)
@@ -908,6 +919,36 @@ The system is written in what the authors call "Serenity C++", a variant of C++ 
 <br><br>
 <h2 id="privacy-security" align="center">PRIVACY - SECURITY</h2>
 <br><br>
+<h3 id="addy"> ADDY (FKA ANNONADDY) </h3>
+
+>Links: <div><a href="https://addy.io"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/anonaddy/anonaddy"><img src="/images/git_hub-logo.png" height="72" /></a></div>
+
+Open-source anonymous email forwarding, create unlimited email aliases for free.
+
+- Protect your real email address from spam by simply deactivating/deleting aliases that receive unsolicited emails
+- Identify who has sold your data by using a different email address for every site
+- Protect your identity in the event of a data breach by making it difficult for hackers to cross-reference your accounts
+- Prevent inbox snooping by encrypting all inbound emails using GPG/OpenPGP encryption
+- Update where emails are forwarded without having to go through and change your email address for each site individually
+- Reply to forwarded emails anonymously without revealing your true email address
+You can always just fire up your own server and self-host this application. You'll need to know about server administration and PHP. You can find more information here https://github.com/anonaddy/anonaddy#self-hosting
+<div align="center"> <img src="/images/anonaddy.png" width="800" /> </div>
+<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<br><br>
+<h3 id="Bitwarden"> BITWARDEN </h3>
+
+>Links: <div><a href="https://bitwarden.com"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/bitwarden"><img src="/images/git_hub-logo.png" height="72" /></a></div>
+
+Bitwarden is a freemium open-source password management service that stores sensitive information such as website credentials in an encrypted vault.
+
+The platform offers a variety of client applications including a web interface, desktop applications, browser extensions, mobile apps, and a command-line interface.
+
+Bitwarden offers a free cloud-hosted service as well as the ability to self-host
+<div align="center"> <img src="/images/Bitwarden.png" width="800" /> </div>
+<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<br><br>
+
+
 <h3 id="dns-crypt"> DNSCRYPT </h3>
 
 >Links: <div><a href="https://dnscrypt.info/"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/dnscrypt"><img src="/images/git_hub-logo.png" height="72" /></a></div>
@@ -918,6 +959,21 @@ It also mitigates UDP-based amplification attacks by requiring a question to be 
 
 Anonymized DNSCrypt is a protocol extension proposed in 2019 to further improve DNS privacy
 <div align="center"> <img src="/images/dnsproxyclient.png" width="480" /> </div>
+<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<br><br>
+<h3 id="ipfs"> IPFS (INTERPLANETARY FILESYSTEM) </h3>
+
+>Links: <div><a href="https://ipfs.tech"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/ipfs"><img src="/images/git_hub-logo.png" height="72" /></a></div>
+
+IPFS is the permanent web. A new peer-to-peer hypermedia protocol.
+
+IPFS is a global, versioned, peer-to-peer filesystem. It combines ideas from Git, BitTorrent, Kademlia, SFS, and the web. It is like a single bittorrent swarm, exchanging git objects. IPFS provides an interface as simple as the HTTP web, but with permanence built in. You can also mount the world at /ipfs. IPFS could become a new major subsystem of the internet. If built right, it could complement or replace HTTP.
+
+It offers two approaches:
+
+- content-addressing (ipfs://)
+- uploader-addressing (ipns://) allowing for mutable sites.
+<div align="center"> <img src="/images/ipfs.jpg" width="480" /> </div>
 <div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h3 id="kodachi"> KODACHI (LINUX DISTRO) </h3>
@@ -934,6 +990,95 @@ All connections to the Internet are forced to go through the VPN then Tor networ
 
 Leave no trace on the computer you are using unless you ask it explicitly.
 <div align="center"> <img src="/images/kodachi.png" width="800" /> </div>
+<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<br><br>
+<h3 id="open-vpn"> OPENVPN </h3>
+
+>Links: <div><a href="https://openvpn.net"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/OpenVPN"><img src="/images/git_hub-logo.png" height="72" /></a></div>
+
+OpenVPN is a virtual private network (VPN) system that implements techniques to create secure point-to-point or site-to-site connections in routed or bridged configurations and remote access facilities. It implements both client and server applications.
+
+OpenVPN allows peers to authenticate each other using pre-shared secret keys, certificates or username/password. When used in a multiclient-server configuration, it allows the server to release an authentication certificate for every client, using signatures and certificate authority.
+
+It uses the OpenSSL encryption library extensively, as well as the TLS protocol, and contains many security and control features. It uses a custom security protocol that utilizes SSL/TLS for key exchange. It is capable of traversing network address translators (NATs) and firewalls
+<div align="center"> <img src="/images/openvpn.jpg" width="800" /> </div>
+<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<br><br>
+<h3 id="portmaster"> PORTMASTER </h3>
+
+>Links: <div><a href="https://safing.io"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/safing"><img src="/images/git_hub-logo.png" height="72" /></a></div>
+
+With Portmaster's great defaults your privacy improves without any effort. And if you want to configure and control everything down to the last detail - Portmaster has you covered too.
+
+- Monitor All Network Activity
+- Auto-Block Trackers & Malware
+- Secure Your DNS by Default
+- Set Global & per‑App Settings
+<div align="center"> <img src="/images/portmaster.png" width="800" /> </div>
+<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<br><br>
+<h3 id="softether-vpn"> SOFTETHER VPN </h3>
+
+>Links: <div><a href="https://www.softether.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/SoftEtherVPN/SoftEtherVPN/"><img src="/images/git_hub-logo.png" height="72" /></a></div>
+
+SoftEther VPN ("SoftEther" means "Software Ethernet") is one of the world's most powerful and easy-to-use multi-protocol VPN software. It runs on Windows, Linux, Mac, FreeBSD and Solaris.
+<div align="center"> <img src="/images/SOFTETHERVPN.jpg" width="800" /> </div>
+<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<br><br>
+<h3 id="vaultwarden"> VAULTWARDEN </h3>
+
+>Links: <div><a href="https://github.com/dani-garcia/vaultwarden"><img src="/images/git_hub-logo.png" height="72" /></a></div>
+
+Unofficial Bitwarden® compatible server ( See [Bitwarden](#bitwarden) )
+<div align="center"> <img src="/images/vaultwarden.jpg" width="800" /> </div>
+<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<br><br>
+<h3 id="wire-guard"> WIREGUARD </h3>
+
+>Links: <div><a href="https://www.wireguard.com"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://git.zx2c4.com/wireguard-linux"><img src="/images/cgit_.png" height="72" /></a></div>
+
+WireGuard® is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography. It aims to be faster, simpler, leaner, and more useful than IPsec, while avoiding the massive headache. It intends to be considerably more performant than OpenVPN. WireGuard is designed as a general-purpose VPN for running on embedded interfaces and super computers alike, fit for many different circumstances.
+
+Designed with the goals of ease of use, high speed performance, and low attack surface. It aims for better performance and more power than IPsec and OpenVPN, two common tunneling protocols. The WireGuard protocol passes traffic over UDP
+<div align="center"> <img src="/images/wireguards.jpg" width="800" /> </div>
+<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<br><br>
+<h2 id="search-engines">SEARCH ENGINES</h2>
+<br><br>
+<h3 id="openverse"> OPENVERSE </h3>
+
+>Links: <div><a href="https://openverse.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/WordPress/openverse"><img src="/images/git_hub-logo.png" height="72" /></a></div>
+
+The search engine for openly licensed media. 500 million Creative Commons licensed images and more.
+
+There is no larger compendium of shared human knowledge and creativity than the Commons, including over 1.1 billion digital works available under CC licenses. Despite the tremendous growth of the Commons, and the widespread use of the CC licenses and public domain marks, there is no simple way to maximize use of, and engagement with, all of that content. There is no front door — no tool designed for the general public to facilitate discovery for the purpose of reuse and remix, to simplify the license terms, make attribution easy, or support curation, and crowdsourced metadata.
+
+Creative Commons’ “Openverse” (formerly CC Search) project will develop and release an open online search and re-use tool that will allow high-quality content from the commons to surface in a more seamless and accessible way.
+
+Our first prototype relies on open APIs and focuses on photos as its first media type. It is meant to elicit discussion and inform our development as we build out the full set of tools. “Openverse” will enable users to curate, tag, and remix that content.
+
+It will go beyond simple search to aggregate results from across the hundreds of public repositories into a single ledger, and also facilitate the use and re-use through tools like curated lists, saved searches, one- or no-click attribution, and provenance.
+<div align="center"> <img src="/images/openverse.png" width="800" /> </div>
+<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<br><br>
+<h3 id="yacy"> YACY </h3>
+
+>Links: <div><a href="https://yacy.net"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/yacy"><img src="/images/git_hub-logo.png" height="72" /></a></div>
+
+YaCy is free software for your own search engine.
+
+Join a community of search engines or make your own search portal
+
+- P2P Mode: Web Search by the people, for the people: decentralized, all users are equal, no central, no search request storage, shared index.
+- Your Search Portal: Your YaCy installation is independent from other peers. Define your own web index and starting your own web crawl
+- Intranet Search: Create a search portal for your intranet or web pages or your (shared) file system.
+YaCy is a free search engine that anyone can use to build a search portal for their intranet or to help search the public internet. When contributing to the world-wide peer network, the scale of YaCy is limited only by the number of users in the world and can index billions of web pages.
+
+It is fully decentralized, all users of the search engine network are equal, the network does not store user search requests and it is not possible for anyone to censor the content of the shared index.
+
+Compared to semi-distributed search engines, the YaCy-network has a distributed architecture. All YaCy-peers are equal and no central server exists. It can be run either in a crawling mode or as a local proxy server, indexing web pages visited by the person running YaCy on their computer.
+<div align="center"> <img src="/images/yacy1.png" width="800" /> </div>
+<div align="center"> <img src="/images/yacy2.png" width="800" /> </div>
 <div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h2 id="virtualization" align="center">VIRTUALIZATION</h2>
