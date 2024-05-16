@@ -41,7 +41,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
         - [Jitsi Meet](#jitsi-meet)<p id="unused"></p>
         - [mastodon](#mastodon)<p id="unused"></p>
         - [PeerTube](#peertube)<p id="colab"></p>
-        - [Pleroma](#pleroma)<p id="unused"></p><br>
+        - [Pleroma](#pleroma)<p id="unused"></p>
         - [Tox](#tox)<p id="unused"></p>
     - [Collaboration Platforms - CRM - ERP - Project Management](#colab-erp-crm)<p id="unused"></p>
         - [Element](#element)<p id="unused"></p>
