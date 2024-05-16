@@ -665,11 +665,18 @@ wallabag is a self hostable application for saving web pages: Save and classify 
 
 >Links: <div><a href="https://www.openmediavault.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/openmediavault"><img src="/images/git_hub-logo.png" height="72"/></div>
 
-OpenMediaVault is the next generation network attached storage (NAS) solution based on Debian Linux. It contains services like SSH, (S)FTP, SMB/CIFS, DAAP media server, RSync, BitTorrent client and many more.
+OpenMediaVault (OMV) is an open-source network-attached storage (NAS) solution based on the Debian Linux operating system. It provides a user-friendly web-based interface for managing and administering storage devices, services, and applications on a NAS server. It contains services like SSH, (S)FTP, SMB/CIFS, DAAP media server, RSync, BitTorrent client and many more.
 
-Thanks to the modular design of the framework it can be enhanced via plugins.
-
-OpenMediaVault is primarily designed to be used in home environments or small home offices, but is not limited to those scenarios. It is a simple and easy to use out-of-the-box solution that will allow everyone to install and administrate a Network Attached Storage without deeper knowledge.
+- Storage Management: OMV allows you to create and manage various storage configurations, including RAID arrays, disk pools, logical volumes, and file systems. It supports multiple file systems, such as ext4, XFS, and Btrfs.
+- File Sharing: OMV enables you to set up and configure file sharing services like Samba (SMB/CIFS) for Windows clients, NFS for Unix-like systems, and AFP for macOS clients. It also supports WebDAV for web-based file access.
+- User and Access Management: OMV provides tools for managing user accounts, groups, and access permissions, allowing you to control who can access shared folders and with what level of permissions.
+- Plugin System: OMV has a plugin system that allows you to extend its functionality by installing additional plugins or applications. There are many available plugins for services like media servers, web servers, backup solutions, and more.
+- Backup and Snapshot Management: OMV supports creating and managing backups of your data, either locally or to remote destinations like network shares or cloud storage. It also supports taking snapshots of your file systems for data protection and recovery.
+- Monitoring and Reporting: OMV provides monitoring tools to track system resources, disk usage, and other performance metrics. It also generates reports and logs for troubleshooting and auditing purposes.
+- SMART Monitoring: OMV can monitor the health of your hard drives using the Self-Monitoring, Analysis, and Reporting Technology (SMART) system, alerting you to potential disk failures.
+- Remote Access: OMV includes features for remote access and administration, allowing you to manage your NAS server from a web browser or via secure shell (SSH) connections.
+- Docker and Virtual Machine Support: OMV can be extended to run Docker containers and virtual machines, enabling you to host additional services or applications on your NAS server.
+- Self-Hosting: OpenMediaVault is a self-hosted solution, meaning you can install and run it on your own hardware, providing you with complete control over your data and configuration.
 <div align="center"> <img src="/images/openmediavault.png" width="800" /></a> </div>
 <div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
