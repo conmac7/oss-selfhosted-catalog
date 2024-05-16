@@ -15,7 +15,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
 --------------------
 <p id="license"></p>
 
-## Table of contents 
+## Table of Contents 
 - [Credits - Licenses](#credits-licenses)
     - [Open Source Initiative (Logo)](#open-source-initiative)
 - [Software](#software)
