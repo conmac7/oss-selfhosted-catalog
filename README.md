@@ -1268,7 +1268,7 @@ Powerful open source industry standard for virtualization. It is a native (bare-
 
 DNS leak checker, IP addresses detection, Torrent Address detection, WebRTC leaks
 <div align="center"> <img src="/images/ipleaknet.png" width="800" /></a> </div>
-<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#linkz"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
 <h3 id="ping-eu"> PING.EU </h3>
 
@@ -1287,4 +1287,4 @@ DNS leak checker, IP addresses detection, Torrent Address detection, WebRTC leak
 - Country by IP
 - Unit converter
 <div align="center"> <img src="/images/ping-eu.png" width="640" /></a> </div>
-<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#linkz"><img src="/images/back-to-current.png" width="120" /></div>
