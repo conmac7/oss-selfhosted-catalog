@@ -728,7 +728,7 @@ digiKam is an advanced open-source digital photo management application that run
 - Edit photos with basic and advanced tools.
 - Extend functionality with plugins.
 <div align="center"> <img src="/images/digikam.png" width="800" /></a> </div>
-<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#mediaa-mngmnt"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
 <h3 id="immich"> IMMICH </h3>
 
@@ -752,7 +752,7 @@ Immich allows you to share your library with other users. They can then view you
 Album sharing allows you to share assets with other users or with people from around the world via a link or invitation (for system users).
 - Smart Search
 <div align="center"> <img src="/images/immich-screenshots.png" width="800" /></a> </div>
-<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#mediaa-mngmnt"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
 <h3 id="jellyfin"> JELLYFIN </h3>
 
@@ -768,7 +768,7 @@ Volunteer-built media solution that puts you in control of your media. Stream to
 - Photos: Organize your photos and share memories with your friends and family.
 - SyncPlay: Sharing a movie night remotely has never been so easy.
 <div align="center"> <img src="/images/jellyfin.png" width="800" /></a> </div>
-<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#mediaa-mngmnt"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
 <h3 id="librephotos"> LIBREPHOTOS </h3>
 
@@ -792,7 +792,7 @@ Unlike commercial service that store your photos in the cloud and scan/index the
 - Semantic image search
 - Search by metadata
 <div align="center"> <img src="/images/librephotos.png" width="800" /></a> </div>
-<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#mediaa-mngmnt"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
 <h3 id="photoprism"> PHOTOPRRISM </h3>
 
@@ -824,7 +824,7 @@ Use PhotoSync to securely backup iOS and Android phones in the background
 
 WebDAV clients such as Microsoft's Windows Explorer and Apple's Finder can connect directly to PhotoPrism, allowing you to open, edit, and delete files from your computer as if they were local
 <div align="center"> <img src="/images/photoprism.jpg" width="800" /></a> </div>
-<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#mediaa-mngmnt"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
 
 
