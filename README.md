@@ -27,6 +27,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
         - [Grav](#grav)<p id="unused"></p>
         - [LibreSpeed](#librespeed)<p id="unused"></p>
         - [Netmaker](#netmaker)<p id="unused"></p>
+        - [openITCOCKPIT](#open-itcockpit)<p id="unused"></p>
         - [OPNsense](#opnsense)<p id="unused"></p>
         - [pfSense](#pfSense)<p id="unused"></p>
         - [phpMyAdmin](#php-my-admin)<p id="unused"></p>
@@ -253,6 +254,19 @@ Netmaker is a software tool that creates secure virtual networks. It uses WireGu
 - Automated Configuration: Netmaker can automatically generate and distribute configuration files for clients, simplifying the process of connecting to the VPN network.
 - Self-Hosted and Containerized: Netmaker is a self-hosted solution that can be deployed on various platforms, including bare-metal servers, virtual machines, or containerized environments like Docker and Kubernetes.
 <div align="center"> <img src="/images/netmaker.png" width="800" /></a> </div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#adminn"><img src="/images/back-to-current.png" width="120" /></div>
+<br><br>
+<h3 id="open-itcockpit"> OPENITCOCKPIT </h3>
+
+>Links: <div><a href="https://openitcockpit.io"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/it-novum/openITCOCKPIT"><img src="/images/git_hub-logo.png" height="72"/></div>
+
+openITCOCKPIT is a monitoring tool based on Nagios, Naemon and Prometheus
+
+Configuration and visualisation web frontend for Nagios, Naemon and Prometheus including JSON API and user permissions
+
+openITCOCKPIT provides an own Monitoring Agent for Windows, Linux and macOS. In addition thousands of community plugins are available.
+
+<div align="center"> <img src="/images/openITCOCKPIT.png" height="400" /></a> </div>
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#adminn"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
 <h3 id="opnsense"> OPNSENSE </h3>
