@@ -841,49 +841,6 @@ Xournal++ is a hand note taking software written in C++ with the target of flexi
 <br><br>
 <h2 id="oss-operating-systems" align="center">OPERATING SYSTEMS (OSS)</h2>
 <br><br>
-<h3 id="serenity-os"> SERENITYOS </h3>
-
->Links: <div><a href="https://www.serenityos.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/SerenityOS/serenity"><img src="/images/git_hub-logo.png" height="72" /></a></div>
-
-SerenityOS is a free and open source desktop operating system that has been in continuous development since 2018. Initially the one-man project of Swedish programmer Andreas Kling, SerenityOS is now developed by a community of hobbyists.
-
-The system supports the x86-64 instruction set, features a preemptive kernel, and hosts multiple complex applications including its own web browser and integrated development environment (IDE)
-
-SerenityOS aims to be a modern Unix-like operating system, with a look and feel that emulates 1990s operating systems such as Microsoft Windows and Mac OS. Incorporating third-party code into the system is discouraged.
-
-The web browser for instance, does not use a preexisting web engine such as WebKit, instead using its own known as LibWeb. There is a collection of ported software, such as GCC, Git and Doom, with varying levels of functionality.
-
-Development does not adhere to a release cycle; as such, there are no releases. Additionally, no binary distributions are provided and prospects are expected to build the system from source.
-
-The system is written in what the authors call "Serenity C++", a variant of C++ that lacks exceptions and features its own standard library.
-<div align="center"> <img src="/images/serenity-os.png" width="800" /> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
-<br><br>
-<h3 id="kolibri-os"> KOLIBRIOS </h3>
-
->Links: <div><a href="https://kolibrios.org/en/"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/KolibriOS"><img src="/images/git_hub-logo.png" height="72" /></a></div>
-
-Colibri is a tiny yet incredibly powerful and fast operating system. Requires only a few megabyte disk space and 8MB of RAM to run. Kolibri features a rich set of applications that include word processor, image viewer, graphical editor, web browser and well over 30 exciting games. Full FAT12/16/32 support is implemented, as well as read-only support for NTFS, ISO9660 and Ext2/3/4. Drivers are written for popular sound, network and graphics cards.
-
-Applications that start instantly, immediately after clicking an icon, without annoying hourglass pointers. This speed is achieved since the core parts of KolibriOS (kernel and drivers) are written entirely in FASM assembly language
-<div align="center"> <img src="/images/KolibriOS.png" width="800" /> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
-<br><br>
-<h3 id="illumos"> ILLUMOS </h3>
-
->Links: <div><a href="https://www.illumos.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/illumos/illumos-gate"><img src="/images/git_hub-logo.png" height="72" /></a></div>
-
-illumos is a Unix operating system which provides next-generation features for downstream distributions, including advanced system debugging, next generation filesystem, networking, and virtualization options.
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
-<br><br>
-<h3 id="open-indiana"> OPENINDIANA </h3>
-
->Links: <div><a href="https://www.openindiana.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/openindiana"><img src="/images/git_hub-logo.png" height="72" /></a></div>
-
-OpenIndiana is a free and open-source illumos distribution descended from UNIX System V Release 4 via the OpenSolaris operating system. Forked from OpenSolaris after OpenSolaris was discontinued by Oracle Corporation
-<div align="center"> <img src="/images/OpenIndiana.png" width="800" /></div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
-<br><br>
 <h3 id="Haiku"> HAIKU </h3>
 
 >Links: <div><a href="https://www.haiku-os.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://git.haiku-os.org"><img src="/images/git_share.png" height="72" /></a></div>
@@ -902,7 +859,50 @@ The key highlights that distinguish Haiku from other operating systems include:
 - Unified, cohesive interface
 <div align="center"> <img src="/images/maxresdefault.jpg" width="800" /></a> </div>
 <div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
-<br><br><br>
+<br><br>
+<h3 id="illumos"> ILLUMOS </h3>
+
+>Links: <div><a href="https://www.illumos.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/illumos/illumos-gate"><img src="/images/git_hub-logo.png" height="72" /></a></div>
+
+illumos is a Unix operating system which provides next-generation features for downstream distributions, including advanced system debugging, next generation filesystem, networking, and virtualization options.
+<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<br><br>
+<h3 id="kolibri-os"> KOLIBRIOS </h3>
+
+>Links: <div><a href="https://kolibrios.org/en/"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/KolibriOS"><img src="/images/git_hub-logo.png" height="72" /></a></div>
+
+Colibri is a tiny yet incredibly powerful and fast operating system. Requires only a few megabyte disk space and 8MB of RAM to run. Kolibri features a rich set of applications that include word processor, image viewer, graphical editor, web browser and well over 30 exciting games. Full FAT12/16/32 support is implemented, as well as read-only support for NTFS, ISO9660 and Ext2/3/4. Drivers are written for popular sound, network and graphics cards.
+
+Applications that start instantly, immediately after clicking an icon, without annoying hourglass pointers. This speed is achieved since the core parts of KolibriOS (kernel and drivers) are written entirely in FASM assembly language
+<div align="center"> <img src="/images/KolibriOS.png" width="800" /> </div>
+<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<br><br>
+<h3 id="open-indiana"> OPENINDIANA </h3>
+
+>Links: <div><a href="https://www.openindiana.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/openindiana"><img src="/images/git_hub-logo.png" height="72" /></a></div>
+
+OpenIndiana is a free and open-source illumos distribution descended from UNIX System V Release 4 via the OpenSolaris operating system. Forked from OpenSolaris after OpenSolaris was discontinued by Oracle Corporation
+<div align="center"> <img src="/images/OpenIndiana.png" width="800" /></div>
+<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<br><br>
+<h3 id="serenity-os"> SERENITYOS </h3>
+
+>Links: <div><a href="https://www.serenityos.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/SerenityOS/serenity"><img src="/images/git_hub-logo.png" height="72" /></a></div>
+
+SerenityOS is a free and open source desktop operating system that has been in continuous development since 2018. Initially the one-man project of Swedish programmer Andreas Kling, SerenityOS is now developed by a community of hobbyists.
+
+The system supports the x86-64 instruction set, features a preemptive kernel, and hosts multiple complex applications including its own web browser and integrated development environment (IDE)
+
+SerenityOS aims to be a modern Unix-like operating system, with a look and feel that emulates 1990s operating systems such as Microsoft Windows and Mac OS. Incorporating third-party code into the system is discouraged.
+
+The web browser for instance, does not use a preexisting web engine such as WebKit, instead using its own known as LibWeb. There is a collection of ported software, such as GCC, Git and Doom, with varying levels of functionality.
+
+Development does not adhere to a release cycle; as such, there are no releases. Additionally, no binary distributions are provided and prospects are expected to build the system from source.
+
+The system is written in what the authors call "Serenity C++", a variant of C++ that lacks exceptions and features its own standard library.
+<div align="center"> <img src="/images/serenity-os.png" width="800" /> </div>
+<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<br><br>
 <h2 id="virtualization" align="center">VIRTUALIZATION</h2>
 <br><br>
 <h3 id="proxmox"> PROXMOX VIRTUAL ENVIRONMENT </h3>
@@ -921,14 +921,6 @@ functionality on a single' and is a very popular Virtualization tool in the netw
 <div align="center"> <img src="/images/proxmox.png" width="800" /></a> </div>
 <div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
-<h3 id="xen-project"> XEN PROJECT </h3>
-
->Links: <div><a href="https://xenproject.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://xenbits.xen.org/gitweb/?p=xen.git"><img src="/images/git_share.png" height="72" /></a><a href="https://github.com/xen-project/xen"><img src="/images/git_hub-logo.png" height="72" /></a></div>
-
-Powerful open source industry standard for virtualization. It is a native (bare-metal) hypervisor providing services that allow multiple computer operating systems to execute on the same computer hardware concurrently.
-<div align="center"> <img src="/images/xen.png" width="800" /></a> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
-<br><br>
 <h3 id="smart-os"> SMARTOS </h3>
 
 >Links: <div><a href="https://www.tritondatacenter.com/smartos"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/TritonDataCenter/smartos-live"><img src="/images/git_hub-logo.png" height="72"/></a></div>
@@ -942,4 +934,12 @@ KVM Virtual Machines: A full virtualization solution for running a variety of gu
 SmartOS is a "live OS", it is always booted via PXE, ISO, or USB Key and runs entirely from memory, allowing the local disks to be used entirely for hosting virtual machines without wasting disks for the root OS. This architecture has a variety of advantages including increased security, no need for patching, fast upgrades and recovery.
 <div align="center"> <img src="/images/smartos.png" width="800" /></a> </div>
 <div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
-<br><br><br>
+<br><br>
+<h3 id="xen-project"> XEN PROJECT </h3>
+
+>Links: <div><a href="https://xenproject.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://xenbits.xen.org/gitweb/?p=xen.git"><img src="/images/git_share.png" height="72" /></a><a href="https://github.com/xen-project/xen"><img src="/images/git_hub-logo.png" height="72" /></a></div>
+
+Powerful open source industry standard for virtualization. It is a native (bare-metal) hypervisor providing services that allow multiple computer operating systems to execute on the same computer hardware concurrently.
+<div align="center"> <img src="/images/xen.png" width="800" /></a> </div>
+<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<br><br>
