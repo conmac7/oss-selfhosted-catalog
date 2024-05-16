@@ -111,6 +111,7 @@ https://viebrock.ca<br>
 https://commons.wikimedia.org/wiki/File:Open_Source_Initiative.svg<br>
 https://opensource.org/osi-logo-files<br>
 https://opensource.org</sup>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h2 id="software" align="center">███SOFTWARE███</h2>
 <br><br>
