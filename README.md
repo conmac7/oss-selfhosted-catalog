@@ -60,7 +60,9 @@ Finally, the aim of this collection is not to catalog every single open-source a
         - [CasaOS](#casa-os)
         - [Umbrel](#umbrel)
     - [Media Management (Audiobooks - Ebooks/PDF - Documents - Movies - Music - Podcasts - Photos - TV Shows - Videos)](#media-management)
+        - [Jellyfin](#jellyfin)
         - [LibrePhotos](#librephotos)
+        - [PhotoPrism](#photoprism)
     - [NAS](#nas)
         - [openmediavault](#openmediavault)
         - [TrueNas](#true-nas)
@@ -101,6 +103,8 @@ Finally, the aim of this collection is not to catalog every single open-source a
       - [SmartOS](#smart-os)
       - [Xen Project](#xen-project)
 - [Useful Links](#useful-links)
+      - [ipleak.net](#ipleak-net)
+      - [ping.eu](#ping-eu)
 <br><br>
 --------------------
 <h2 id="credits-licenses" align="center">███CREDITS - LICENSES███</h2>
@@ -710,12 +714,78 @@ An OS for running a server in your home. Self-host open source apps like Nextclo
 <br><br>
 <h2 id="media-management" align="center">███MEDIA MANAGEMENT (AUDIOBOOKS - EBOOKS/PDF - DOCUMENTS - MOVIES - MUSIC - PODCASTS - PHOTOS - TV SHOWS - VIDEOS)███</h2>
 <br><br>
+<h3 id="jellyfin"> JELLYFIN </h3>
+
+>Links: <div><a href="https://jellyfin.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/jellyfin"><img src="/images/git_hub-logo.png" height="72"/></div>
+
+Volunteer-built media solution that puts you in control of your media. Stream to any device from your own server, with no strings attached. Your media, your server, your way.
+
+- Movies: Enjoy your entire movie collection, easy to browse and with beautiful artwork.
+- Shows: Watch your favorite shows, automatically sorted by season and ready to binge.
+- Music: Listen to music, your artists and your playlists, at home or on the go.
+- Live TV & DVR: Watch TV and set automatic recordings to expand your library.
+- Books: Read your books, comics, and magazines.
+- Photos: Organize your photos and share memories with your friends and family.
+- SyncPlay: Sharing a movie night remotely has never been so easy.
+<div align="center"> <img src="/images/jellyfin.png" width="800" /></a> </div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<br><br>
 <h3 id="librephotos"> LIBREPHOTOS </h3>
 
 >Links: <div><a href="https://demo2.librephotos.com/login"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/LibrePhotos"><img src="/images/git_hub-logo.png" height="72"/></div>
 <sup>uname: demo</sup><br>
 <sup>pass: demo1234</sup>
 
+A self-hosted open source photo management service.
+
+Unlike commercial service that store your photos in the cloud and scan/index them to train their machine learning models and collect ad targeting data on you, LibrePhotos keeps all your photos and metadata on your local machine. Your data is never sent to or stored on a 3rd party server. Get the same power as those commercial services without giving up your personal data and privacy.
+
+- Support for all types of photos, including raw photos
+- Support for videos
+- Timeline view
+- Scans pictures on the file system
+- Multiuser support
+- Generate albums based on events like "Thursday in Berlin"
+- Face recognition / Face classification
+- Reverse geocoding
+- Object / Scene detection
+- Semantic image search
+- Search by metadata
+<div align="center"> <img src="/images/librephotos.png" width="800" /></a> </div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<br><br>
+<h3 id="photoprism"> PHOTOPRRISM </h3>
+
+>Links: <div><a href="https://www.photoprism.app"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/photoprism"><img src="/images/git_hub-logo.png" height="72"/></div>
+
+AI-Powered Photos App for the Decentralized Web
+
+You can run it at home, on a private server, or in the cloud.
+
+Browse all your photos and videos without worrying about RAW conversion, duplicates or video formats
+
+Easily find specific pictures using powerful search filters
+
+Recognizes the faces of your family and friends
+
+Automatic Classification of pictures based on their content and location
+
+Play Live Photos by hovering over them in albums and search results
+
+Since the User Interface is a Progressive Web App, it provides a native app-like experience, and you can conveniently install it on the home screen of all major operating systems and mobile devices
+
+Includes 4 high-resolution World Maps to bring back the memories of your favorite trips
+
+Metadata is extracted and merged from Exif, XMP, and other sources such as Google Photos
+
+Many more image properties like Colors, Chroma, and Quality can be searched as well
+
+Use PhotoSync to securely backup iOS and Android phones in the background
+
+WebDAV clients such as Microsoft's Windows Explorer and Apple's Finder can connect directly to PhotoPrism, allowing you to open, edit, and delete files from your computer as if they were local
+<div align="center"> <img src="/images/photoprism.jpg" width="800" /></a> </div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<br><br>
 
 
 <h2 id="nas" align="center">███NAS███</h2>
@@ -1152,3 +1222,30 @@ Powerful open source industry standard for virtualization. It is a native (bare-
 <div align="center"> <img src="/images/xen.png" width="800" /></a> </div>
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
+<h2 id="useful-links" align="center">███USEFUL LINKS███</h2>
+<br><br>
+<h3 id="ipleak-net"> PLEAK.NET </h3>
+
+>Links: <div><a href="https://ipleak.net"><img src="/images/web_homepage-icon.png" height="72" /></a>
+DNS leak checker, IP addresses detection, Torrent Address detection, WebRTC leaks
+<div align="center"> <img src="/images/ipleaknet.png" width="800" /></a> </div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<br><br>
+<h3 id="ping-eu"> PING.EU </h3>
+
+>Links: <div><a href="[https://ipleak.net](https://ping.eu)"><img src="/images/web_homepage-icon.png" height="72" /></a>
+    
+- Online Ping
+- Traceroute
+- DNS lookup
+- WHOIS
+- Port check
+- Reverse lookup
+- Proxy checker
+- Bandwidth meter
+- Network calculator
+- Network mask calculator
+- Country by IP
+- Unit converter
+<div align="center"> <img src="/images/ping-eu.png" width="800" /></a> </div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
