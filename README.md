@@ -388,26 +388,6 @@ Start using Pleroma by joining an existing Pleroma instance or check the install
 <br><br>
 <h2 id="colab-erp-crm" align="center">COLLABORATION PLATFORMS - CRM - ERP - PROJECT MANAGEMENT</h2>
 <br><br>
-<h3 id="zulip"> ZULIP </h3>
-
->Links: <div><a href="https://zulip.com"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/zulip/zulip"><img src="/images/git_hub-logo.png" height="72"/></a></div>
-
-Powerful group chat, with threaded conversations
-
-Running a Zulip server, Self-host Zulip directly on Ubuntu or Debian Linux, in Docker
-
-Zulip is the only modern team chat app that is designed for both live and asynchronous conversations. Zulip topics create a separate space for each discussion, so different conversations will never get in each other's way. Teams of all sizes rely on Zulip - Fortune 500 companies, open-source projects, startups, and many others. Zulip is 100% open-source enterprise-grade software, self-hosted or in the cloud.
-
-Zulip can transform how your organization communicates:
-
-- Leaders can prioritize their time and batch-reply to messages, and thus effectively participate in the chat community.
-- More discussions can be moved from meetings and email to chat.
-- Individual contributors can do focused work instead of paging through GIFs making sure they don’t miss anything important.
-- Remote workers can participate in an equal way to people present in person.
-- Employees don’t need to be glued to their keyboard or phone in order to avoid missing out on important conversations.
-<div align="center"> <img src="/images/zulip.png" width="800" /></a> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
-<br><br>
 <h3 id="element"> ELEMENT </h3>
 
 >Links: <div><a href="https://element.io"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/element-hq"><img src="/images/git_hub-logo.png" height="72"/></a></div>
@@ -431,28 +411,16 @@ To host your own copy of Element, the quickest bet is to use a pre-built release
 <div align="center"> <img src="/images/element.png" width="800" /></a> </div>
 <div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
-<h3 id="nextcloud"> NEXTCLOUD </h3>
+<h3 id="erp-next"> ERPNEXT </h3>
 
->Links: <div><a href="https://nextcloud.com"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/nextcloud"><img src="/images/git_hub-logo.png" height="72"/></a></div>
+>Links: <div><a href="https://erpnext.com"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/frappe/erpnext"><img src="/images/git_hub-logo.png" height="72"/></a></div>
 
-Regain control over your data
+ERPNext is a cost-effective ERP solution to run your business using on-demand, software-as-a-service platform.
 
-Nextcloud Hub integrates the four key Nextcloud products Files, Talk, Groupware and Office into a single platform, optimizing the flow of collaboration.
+Offers modules like Accounting, Sales, Purchase, Inventory, Human Resource, Projects, Production & Maintenance which are present in most of the real-world business processes.
 
-Nextcloud is a suite of client-server software for creating and using file hosting services. Nextcloud provides functionally similar to Dropbox, Office 365 or Google Drive when used with integrated office suites Collabora Online or OnlyOffice. It can be hosted in the cloud or on-premises. It is scalable from home office software based on the low-cost Raspberry Pi all the way through to full sized data centers that support millions of users
-<div align="center"> <img src="/images/nextcloud.png" width="800" /></a> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
-<br><br>
-<h3 id="mattermost"> MATTERMOST </h3>
-
->Links: <div><a href="https://mattermost.com"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/mattermost"><img src="/images/git_hub-logo.png" height="72"/></a></div>
-
-Mattermost is an open source alternative to Slack.
-
-Mattermost is a secure, open source platform for communication, collaboration, and workflow orchestration across tools and teams.
-
-As an alternative to proprietary SaaS messaging, Mattermost brings all your team communication into one place, making it searchable and accessible anywhere. It’s written in Golang and React and runs as a production-ready Linux binary under an MIT license with either MySQL or Postgres.
-<div align="center"> <img src="/images/mattermost.png" width="800" /></a> </div>
+Open source and licensed under GNU GPL v3. It's free to use on your own server. Built on Python.
+<div align="center"> <img src="/images/erpnext.jpg" width="800" /></a> </div>
 <div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h3 id="kanboard"> KANBOARD </h3>
@@ -473,14 +441,28 @@ There is no fancy user interface, Kanboard focus on simplicity and minimalism. T
 <div align="center"> <img src="/images/kanboard.gif" width="800" /></a> </div>
 <div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
-<h3 id="wekan"> WEKAN </h3>
+<h3 id="mattermost"> MATTERMOST </h3>
 
->Links: <div><a href="https://wekan.github.io"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/wekan"><img src="/images/git_hub-logo.png" height="72"/></a></div>
+>Links: <div><a href="https://mattermost.com"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/mattermost"><img src="/images/git_hub-logo.png" height="72"/></a></div>
 
-Wekan is an open-source and collaborative kanban board application.
+Mattermost is an open source alternative to Slack.
 
-Wekan, formerly LibreBoard, is an open-source and collaborative Trello icon Trello -like kanban board application.
-<div align="center"> <img src="/images/wekan.png" width="800" /></a> </div>
+Mattermost is a secure, open source platform for communication, collaboration, and workflow orchestration across tools and teams.
+
+As an alternative to proprietary SaaS messaging, Mattermost brings all your team communication into one place, making it searchable and accessible anywhere. It’s written in Golang and React and runs as a production-ready Linux binary under an MIT license with either MySQL or Postgres.
+<div align="center"> <img src="/images/mattermost.png" width="800" /></a> </div>
+<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<br><br>
+<h3 id="nextcloud"> NEXTCLOUD </h3>
+
+>Links: <div><a href="https://nextcloud.com"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/nextcloud"><img src="/images/git_hub-logo.png" height="72"/></a></div>
+
+Regain control over your data
+
+Nextcloud Hub integrates the four key Nextcloud products Files, Talk, Groupware and Office into a single platform, optimizing the flow of collaboration.
+
+Nextcloud is a suite of client-server software for creating and using file hosting services. Nextcloud provides functionally similar to Dropbox, Office 365 or Google Drive when used with integrated office suites Collabora Online or OnlyOffice. It can be hosted in the cloud or on-premises. It is scalable from home office software based on the low-cost Raspberry Pi all the way through to full sized data centers that support millions of users
+<div align="center"> <img src="/images/nextcloud.png" width="800" /></a> </div>
 <div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h3 id="openproject"> OPENPROJECT </h3>
@@ -536,18 +518,6 @@ It integrates with a number of different SCM:s including Subversion and Git. It 
 <div align="center"> <img src="/images/REDMINE.jpg" width="800" /></a> </div>
 <div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
-<h3 id="erp-next"> ERPNEXT </h3>
-
->Links: <div><a href="https://erpnext.com"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/frappe/erpnext"><img src="/images/git_hub-logo.png" height="72"/></a></div>
-
-ERPNext is a cost-effective ERP solution to run your business using on-demand, software-as-a-service platform.
-
-Offers modules like Accounting, Sales, Purchase, Inventory, Human Resource, Projects, Production & Maintenance which are present in most of the real-world business processes.
-
-Open source and licensed under GNU GPL v3. It's free to use on your own server. Built on Python.
-<div align="center"> <img src="/images/erpnext.jpg" width="800" /></a> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
-<br><br>
 <h3 id="suite-crm"> SUITECRM </h3>
 
 >Links: <div><a href="https://suitecrm.com"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/salesagility/SuiteCRM"><img src="/images/git_hub-logo.png" height="72"/></a></div>
@@ -580,6 +550,36 @@ A six-month release cycle is maintained with bug fix and security releases being
 <div align="center"> <img src="/images/suitecrm.png" width="800" /></a> </div>
 <div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br><br>
+<h3 id="wekan"> WEKAN </h3>
+
+>Links: <div><a href="https://wekan.github.io"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/wekan"><img src="/images/git_hub-logo.png" height="72"/></a></div>
+
+Wekan is an open-source and collaborative kanban board application.
+
+Wekan, formerly LibreBoard, is an open-source and collaborative Trello icon Trello -like kanban board application.
+<div align="center"> <img src="/images/wekan.png" width="800" /></a> </div>
+<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<br><br>
+<h3 id="zulip"> ZULIP </h3>
+
+>Links: <div><a href="https://zulip.com"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/zulip/zulip"><img src="/images/git_hub-logo.png" height="72"/></a></div>
+
+Powerful group chat, with threaded conversations
+
+Running a Zulip server, Self-host Zulip directly on Ubuntu or Debian Linux, in Docker
+
+Zulip is the only modern team chat app that is designed for both live and asynchronous conversations. Zulip topics create a separate space for each discussion, so different conversations will never get in each other's way. Teams of all sizes rely on Zulip - Fortune 500 companies, open-source projects, startups, and many others. Zulip is 100% open-source enterprise-grade software, self-hosted or in the cloud.
+
+Zulip can transform how your organization communicates:
+
+- Leaders can prioritize their time and batch-reply to messages, and thus effectively participate in the chat community.
+- More discussions can be moved from meetings and email to chat.
+- Individual contributors can do focused work instead of paging through GIFs making sure they don’t miss anything important.
+- Remote workers can participate in an equal way to people present in person.
+- Employees don’t need to be glued to their keyboard or phone in order to avoid missing out on important conversations.
+<div align="center"> <img src="/images/zulip.png" width="800" /></a> </div>
+<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<br><br>
 <h2 id="dashboards" align="center">DASHBOARDS</h2>
 <br><br>
 <h3 id="dashy"> DASHY </h3>
