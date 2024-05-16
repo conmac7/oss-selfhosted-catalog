@@ -1040,7 +1040,7 @@ Unofficial Bitwarden® compatible server ( See [Bitwarden](#bitwarden) )
 WireGuard® is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography. It aims to be faster, simpler, leaner, and more useful than IPsec, while avoiding the massive headache. It intends to be considerably more performant than OpenVPN. WireGuard is designed as a general-purpose VPN for running on embedded interfaces and super computers alike, fit for many different circumstances.
 
 Designed with the goals of ease of use, high speed performance, and low attack surface. It aims for better performance and more power than IPsec and OpenVPN, two common tunneling protocols. The WireGuard protocol passes traffic over UDP
-<div align="center"> <img src="/images/wireguards.jpg" width="800" /> </div>
+<div align="center"> <img src="/images/wireguards.jpg" width="640" /> </div>
 <div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h2 id="search-engines">SEARCH ENGINES</h2>
