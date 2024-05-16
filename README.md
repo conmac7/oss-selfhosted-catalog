@@ -414,7 +414,7 @@ A free and open-source community discussion platform.
 <br><br>
 <h3 id="friendica"> FRIENDICA </h3>
 
->Links: <div><a href="https://friendi.ca"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/friendica/friendica"><img src="/images/git_hub-logo.png" height="72"/></a></div>
+>Links: <div><a href="https://friendi.ca"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://venera.social/network"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/friendica/friendica"><img src="/images/git_hub-logo.png" height="72"/></a></div>
 
 Distributed social network. With focus on decentralization, privacy, interoperability.
 
