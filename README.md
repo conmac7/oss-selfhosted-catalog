@@ -400,7 +400,7 @@ Mastodon is a Social networking that's not for sale.
 
 Your home feed should be filled with what matters to you most, not what a corporation thinks you should see. Radically different social media, back in the hands of the people.
 <div align="center"> <img src="/images/mastodon.png" width="800" /></a> </div>
-<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#socialss"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
 <h3 id="peertube"> PEERTUBE </h3>
 
