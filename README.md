@@ -34,6 +34,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
         - [OPNsense](#opnsense)<p id="unused"></p>
         - [pfSense](#pfSense)<p id="unused"></p>
         - [phpMyAdmin](#php-my-admin)<p id="unused"></p>
+        - [Remotely](#remotely)<p id="unused"></p>
         - [RustDesk](#rustdesk)<p id="unused"></p>
         - [Webmin](#webmin)<p id="unused"></p><p id="socialss"></p>
         - [Zabbix](#zabbix)<p id="unused"></p><br>
@@ -50,6 +51,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
         - [Minds](#minds)<p id="unused"></p>
         - [odysee](#odysee)<p id="unused"></p>
         - [PeerTube](#peertube)<p id="colab"></p>
+        - [Rocket.Chat](#rocket-chat)<p id="colab"></p>
         - [PixelFed](#pixelfed)<p id="unused"></p>
         - [Pleroma](#pleroma)<p id="unused"></p>
         - [Tox](#tox)<p id="unused"></p><br>
@@ -389,9 +391,17 @@ phpMyAdmin is a popular tool among web developers and database administrators du
 <div align="center"> <img src="/images/phpmyadmin.jpg" width="800" /></a> </div>
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#adminn"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
+<h3 id="remotely"> REMOTELY </h3>
+
+>Links: <div><a href="https://github.com/immense/Remotely"><img src="/images/git_hub-logo.png" height="72"/></div>
+
+A remote control and remote scripting solution, built with .NET 8, Blazor, and SignalR.
+<div align="center"> <img src="/images/remotely.png" width="800" /></a> </div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#adminn"><img src="/images/back-to-current.png" width="120" /></div>
+<br><br>
 <h3 id="rustdesk"> RUSTDESK </h3>
 
->Links: <div><a href="https://rustdesk.com"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/rustdesk"><img src="/images/git_hub-logo.png" height="72"/></div>
+>Links: <div><a href="https://github.com/rustdesk"><img src="/images/git_hub-logo.png" height="72"/></div>
 
 Open source virtual / remote desktop infrastructure for everyone! Alternative to proprietary TeamViewer and AnyDesk.
 
@@ -600,6 +610,22 @@ If you have a minimum amount of time and technical skills, creating your own pla
 <div align="center"> <img src="/images/peertube.png" width="800" /></a> </div>
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#socialss"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
+<h3 id="rocket-chat"> ROCKET.CHAT </h3>
+
+>Links: <div><a href="https://www.rocket.chat"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/RocketChat/Rocket.Chat"><img src="/images/git_hub-logo.png" height="72"/></a></div>
+
+
+open-source fully customizable communications platform developed in JavaScript for organizations with high standards of data protection.
+
+Secure and compliant collaboration platform. Own your data, customize anything, integrate everything.
+
+- Team collaboration - A single point for secure internal and cross-company collaboration.
+- Omnichannel customer service - Engage in seamless interactions with customers regardless of how they connect with you.
+- Chat engine - Create customized messaging experiences within your mobile or web app.
+- Marketplace - Choose a wide range of apps and native integrations that help your business communicate more effectively.
+<div align="center"> <img src="/images/rocketchat.png" width="800" /></a> </div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#socialss"><img src="/images/back-to-current.png" width="120" /></div>
+<br><br>   
 <h3 id="pixelfed"> PIXELFED </h3>
 
 >Links: <div><a href="https://pixelfed.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://pixelfed.social"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/pixelfed"><img src="/images/git_hub-logo.png" height="72"/></a></div>
