@@ -71,15 +71,15 @@ Finally, the aim of this collection is not to catalog every single open-source a
     - [Wallabag](#wallabag)
     - [Xournal++](#xournalpp)
 - [Operating Systems (OSS)](#oss-operating-systems)
-  - [SerenityOS](#serenity-os)
-  - [KolibriOS](#kolibri-os)
-  - [illumos](#illumos)
-  - [OpenIndiana](#open-indiana)
   - [Haiku](#Haiku)
+  - [illumos](#illumos)
+  - [KolibriOS](#kolibri-os)
+  - [OpenIndiana](#open-indiana)
+  - [SerenityOS](#serenity-os)
 - [Virtualization](#virtualization)
   - [Proxmox Virtual Environment](#proxmox)
-  - [Xen Project](#xen-project)
   - [SmartOS](#smart-os)
+  - [Xen Project](#xen-project)
 <br><br><br>
 --------------------
 <h2 id="admin-it-networking" align="center">ADMIN(APP, NETWORK, SYS, WEB) - CMS - IT - NETWORKING</h2>
