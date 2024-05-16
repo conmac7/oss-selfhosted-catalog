@@ -500,7 +500,7 @@ Features:
 <br><br>
 <h3 id="odysee"> ODYSEE </h3>
 
->Links: <div><a href="https://odysee.comv"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/OdyseeTeam"><img src="/images/git_hub-logo.png" height="72"/></a></a></div>
+>Links: <div><a href="https://odysee.com"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/OdyseeTeam"><img src="/images/git_hub-logo.png" height="72"/></a></a></div>
 
 Launch your own channel | Watch, view, and share content
 
