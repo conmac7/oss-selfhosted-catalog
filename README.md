@@ -700,7 +700,7 @@ Democratizing data and giving service control back to your hands.
 
 Project CasaOS started as a community-based open-source project focused on delivering a simple home cloud experience around the Docker ecosystem. CasaOS aims to redefine the private cloud digital experience for creators and developers through data democratization and enabling everyone to take that goal to a new scale.
 <div align="center"> <img src="/images/casaos.png" width="800" /></a> </div>
-<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#home-serverr"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br><br>
 <h3 id="umbrel"> UMBREL </h3>
   
@@ -712,7 +712,7 @@ An OS for running a server in your home. Self-host open source apps like Nextclo
 - Run your private cloud with Nextcloud
 - Run your own node and achieve unparalleled privacy by connecting your wallet directly to your Bitcoin node. This ensures that your wallet company can’t spy on your transactions, or worse — lie to you.
 <div align="center"> <img src="/images/umbrel.png" width="800" /></a> </div>
-<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#home-serverr"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
 <h2 id="media-management" align="center">███MEDIA MANAGEMENT (AUDIOBOOKS - EBOOKS/PDF - DOCUMENTS - MOVIES - MUSIC - PODCASTS - PHOTOS - TV SHOWS - VIDEOS)███</h2>
 <br><br>
