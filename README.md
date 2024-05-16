@@ -84,40 +84,79 @@ Finally, the aim of this collection is not to catalog every single open-source a
 --------------------
 <h2 id="admin-it-networking" align="center">ADMIN(APP, NETWORK, SYS, WEB) - CMS - IT - NETWORKING</h2>
 <br><br>
-<h3 id="pfSense"> PFSENSE </h3>
+<h3 id="flarum"> FLARUM </h3>
 
->Links: <div><a href="https://www.pfsense.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/pfsense/pfsense"><img src="/images/git_hub-logo.png" height="72"/></div>
+>Links: <div><a href="https://flarum.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/flarum/flarum"><img src="/images/git_hub-logo.png" height="72"/></div>
 
-pfSense is a free and open-source software distribution based on FreeBSD that is designed to function as a firewall and router. It provides a wide range of features for network security, traffic management, and network connectivity. 
+Flarum is the next-generation forum software that makes online discussion fun. It's simple, fast, and free.
 
-- Firewall: pfSense offers a stateful packet inspection firewall with advanced filtering capabilities, allowing users to create custom rules to control incoming and outgoing network traffic.
-- Virtual Private Network (VPN): pfSense supports various VPN protocols, including OpenVPN, IPsec, and L2TP/IPsec, enabling secure remote access and site-to-site connections.
-- Routing and NAT: pfSense can act as a router, performing Network Address Translation (NAT) and enabling advanced routing features like static routes, policy-based routing, and load balancing.
-- Captive Portal: pfSense includes a captive portal feature that can be used to authenticate users before granting them access to the network, often used in public Wi-Fi hotspots or guest networks.
-- Traffic Shaping and QoS: pfSense allows users to prioritize and shape network traffic based on various criteria, ensuring that critical applications or services receive the necessary bandwidth.
-- Intrusion Detection and Prevention (IDS/IPS): pfSense integrates with tools like Snort and Suricata, providing intrusion detection and prevention capabilities to identify and block potential threats.
-- Monitoring and Reporting: pfSense offers various monitoring and reporting tools, including real-time traffic monitoring, bandwidth usage monitoring, and detailed logging capabilities.
-pfSense is widely used in small and medium-sized businesses, as well as home networks, providing a comprehensive and flexible solution for network security, routing, and connectivity management.
-<div align="center"> <img src="/images/pfSense.jpg" width="800" /></a> </div>
+Flarum is free, open-source forum software with a focus on simplicity. You can use Flarum to easily set up a discussion forum for your website. Flarum is developed openly on GitHub.
+
+It is the combined successor of esoTalk and FluxBB. It aims to be:
+
+- Fast and simple. No clutter, no bloat, no complex dependencies. Flarum is built with PHP so it’s quick and easy to deploy. The interface is powered by Mithril, a performant JavaScript framework with a tiny footprint.
+- Beautiful and responsive. This is forum software for humans. Flarum is carefully designed to be consistent and intuitive across platforms, out-of-the-box. It’s backed by LESS, so themeing is a cinch.
+- Powerful and extensible. Customize, extend, and integrate Flarum to suit your community. Flarum’s architecture is amazingly flexible, prioritizing comprehensive APIs and great documentation.
+<div align="center"> <img src="/images/flarum.png" width="800" /></a> </div>
 <div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
-<h3 id="opnsense"> OPNSENSE </h3>
+<h3 id="Freedombox"> FREEDOMBOX </h3>
 
->Links: <div><a href="https://opnsense.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/opnsense"><img src="/images/git_hub-logo.png" height="72"/></div>
+>Links: <div><a href="https://freedombox.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://salsa.debian.org/freedombox-team/"><img src="/images/debian.png" height="72"/></div>
 
-OPNsense is an open-source, FreeBSD-based firewall and routing platform that is designed to provide network security and connectivity features. It is a fork of the popular pfSense project and aims to offer a more modular and extensible architecture.
+FreedomBox is a private server for non-experts: it lets you install and configure server applications with only a few clicks. It runs on cheap hardware of your choice, uses your internet connection and power, and is under your control.
 
-- Firewall: OPNsense includes a stateful packet inspection firewall with advanced filtering capabilities, allowing users to create custom rules to control incoming and outgoing network traffic.
-- Virtual Private Network (VPN): OPNsense supports various VPN protocols, including OpenVPN, IPsec, and L2TP/IPsec, enabling secure remote access and site-to-site connections.
-- Routing and NAT: OPNsense can function as a router, performing Network Address Translation (NAT) and enabling advanced routing features like static routes, policy-based routing, and load balancing.
-- Intrusion Detection and Prevention (IDS/IPS): OPNsense integrates with tools like Suricata, providing intrusion detection and prevention capabilities to identify and block potential threats.
-- Traffic Shaping and QoS: OPNsense allows users to prioritize and shape network traffic based on various criteria, ensuring that critical applications or services receive the necessary bandwidth.
-- Captive Portal: OPNsense includes a captive portal feature that can be used to authenticate users before granting them access to the network, often used in public Wi-Fi hotspots or guest networks.
-- Monitoring and Reporting: OPNsense offers various monitoring and reporting tools, including real-time traffic monitoring, bandwidth usage monitoring, and detailed logging capabilities.
-- High Availability: OPNsense supports high availability configurations, enabling failover and redundancy for critical network services.
-- Modular Architecture: OPNsense adopts a modular approach, allowing users to install and enable additional plugins and packages to extend its functionality, such as web servers, mail servers, or additional security tools.
-OPNsense is designed to be a highly customizable and extensible firewall and routing solution, suitable for small and medium-sized businesses, as well as home networks, providing a comprehensive set of network security and connectivity features.
-<div align="center"> <img src="/images/opnsense.png" width="800" /></a> </div>
+Build your own FreedomBox by downloading and setting up on your hardware of choice.
+- File Sharing
+- VPN server
+- Decentralized Replacement for WhatsApp
+- Proxy Server
+- Host a Blog or a Wiki
+- Host your Personal Website Right from your Home
+- Synchronize your calender and contacts
+- Share media and take backups from all devices on your home network.
+- FreedomBox can be your Network Attached Storage (NAS).
+<div align="center"> <img src="/images/freedombox.jpg" width="800" /></a> </div>
+<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<br><br>
+<h3 id="grafana"> GRAFANA </h3>
+
+>Links: <div><a href="https://grafana.com"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/grafana/grafana"><img src="/images/git_hub-logo.png" height="72"/></div>
+
+Open-source metrics dashboard and graph editor for Graphite, Elasticsearch, OpenTSDB, Prometheus and InfluxDB.
+
+Provides a powerful and elegant way to create, explore, and share dashboards and data with your team and the world.
+
+Grafana is most commonly used for visualizing time series data for Internet infrastructure and application analytics but many use it in other domains including industrial sensors, home automation, weather, and process control.
+
+Works with Graphite, Elasticsearch, Cloudwatch, Prometheus, InfluxDB & More.
+
+Features pluggable panels and data sources allowing easy extensibility and a variety of panels, including fully featured graph panels with rich visualization options. There is built in support for many of the most popular time series data sources.
+<div align="center"> <img src="/images/grafana.png" width="800" /></a> </div>
+<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<br><br>
+<h3 id="grav"> GRAV </h3>
+
+>Links: <div><a href="https://getgrav.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/getgrav"><img src="/images/git_hub-logo.png" height="72"/></div>
+
+Free software, self-hosted content management system (CMS) written in the PHP programming language and based on the Symfony web application framework. It uses a flat file database for both backend and frontend.
+
+Grav is designed to have a shallow learning curve, and to be easy to set up. The focus of Grav is speed and simplicity, rather than an abundance of built-in features that come at the expense of complexity.
+
+The modern open source flat-file CMS
+
+Grav is an easy to use, yet powerful, opensource CMS that requires no database. In a nutshell, installing Grav is a matter of unzipping the file. It is fast, has sophisticated caching, and a light footprint for optimal performance.
+
+Content is just simple markdown files in folders, with no complicated databases to deal with. A powerful API and extensive hooks allow for plugins to extend Grav. Flexible Twig templating allows easy realization of your designs.
+<div align="center"> <img src="/images/grav.png" width="800" /></a> </div>
+<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<br><br>
+<h3 id="librespeed"> LIBRESPEED </h3>
+
+>Links: <div><a href="https://librespeed.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/librespeed/speedtest"><img src="/images/git_hub-logo.png" height="72"/></div>
+
+A speed test tool that can be run on your LAN or hosted in the cloud. This is available as a Self-Hosted container as well as at librespeed.org.
+<div align="center"> <img src="/images/librespeed.png" height="400" /></a> </div>
 <div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h3 id="netmaker"> NETMAKER </h3>
@@ -140,110 +179,40 @@ Netmaker is a software tool that creates secure virtual networks. It uses WireGu
 <div align="center"> <img src="/images/netmaker.png" width="800" /></a> </div>
 <div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
-<h3 id="zabbix"> ZABBIX </h3>
+<h3 id="opnsense"> OPNSENSE </h3>
 
->Links: <div><a href="https://www.zabbix.com"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/zabbix/zabbix"><img src="/images/git_hub-logo.png" height="72"/></div>
+>Links: <div><a href="https://opnsense.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/opnsense"><img src="/images/git_hub-logo.png" height="72"/></div>
 
-Zabbix is an open-source software application that is used for monitoring various IT components, such as networks, servers, virtual machines, and cloud services. It provides a comprehensive solution for collecting and analyzing data from different sources, allowing administrators to monitor the performance, availability, and overall health of their IT infrastructure.
+OPNsense is an open-source, FreeBSD-based firewall and routing platform that is designed to provide network security and connectivity features. It is a fork of the popular pfSense project and aims to offer a more modular and extensible architecture.
 
-- Network Monitoring: Zabbix can monitor various network devices, including routers, switches, firewalls, and load balancers. It can collect metrics such as bandwidth usage, interface status, and traffic patterns.
-- Server Monitoring: Zabbix can monitor physical and virtual servers, tracking metrics like CPU usage, memory utilization, disk space, and process status. It supports various operating systems, including Linux, Windows, and Unix-like systems.
-- Application Monitoring: Zabbix can monitor the performance and availability of specific applications and services running on monitored systems, such as web servers, databases, and messaging systems.
-- Cloud Monitoring: Zabbix supports monitoring cloud environments, including public clouds like Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP), as well as private clouds.
-- Alerting and Notifications: Zabbix can generate alerts and notifications based on predefined thresholds or conditions. These alerts can be sent via various channels, such as email, SMS, or instant messaging services, enabling administrators to take prompt action.
-- Data Visualization and Reporting: Zabbix provides a web-based interface for visualizing monitoring data through customizable dashboards, graphs, and reports. This helps administrators quickly identify issues and analyze historical trends.
-- Distributed Monitoring: Zabbix supports a distributed monitoring architecture, allowing administrators to scale the monitoring system by deploying multiple Zabbix servers and proxies to handle large environments.
-- Automation and Scripting: Zabbix offers automation capabilities through its built-in scripting engine, enabling administrators to automate tasks, execute remote commands, and integrate with other systems or tools.
-- Third-Party Integration: Zabbix can integrate with various third-party tools and services, such as configuration management systems, incident management platforms, and collaboration tools, enabling a more comprehensive monitoring and management solution.
-Zabbix is widely used by IT professionals, system administrators, and DevOps teams for monitoring and managing complex IT infrastructures, ensuring high availability, performance, and efficient resource utilization.
-
-Run Zabbix on-premise or in the cloud
-<div align="center"> <img src="/images/zabbix.png" width="800" /></a> </div>
+- Firewall: OPNsense includes a stateful packet inspection firewall with advanced filtering capabilities, allowing users to create custom rules to control incoming and outgoing network traffic.
+- Virtual Private Network (VPN): OPNsense supports various VPN protocols, including OpenVPN, IPsec, and L2TP/IPsec, enabling secure remote access and site-to-site connections.
+- Routing and NAT: OPNsense can function as a router, performing Network Address Translation (NAT) and enabling advanced routing features like static routes, policy-based routing, and load balancing.
+- Intrusion Detection and Prevention (IDS/IPS): OPNsense integrates with tools like Suricata, providing intrusion detection and prevention capabilities to identify and block potential threats.
+- Traffic Shaping and QoS: OPNsense allows users to prioritize and shape network traffic based on various criteria, ensuring that critical applications or services receive the necessary bandwidth.
+- Captive Portal: OPNsense includes a captive portal feature that can be used to authenticate users before granting them access to the network, often used in public Wi-Fi hotspots or guest networks.
+- Monitoring and Reporting: OPNsense offers various monitoring and reporting tools, including real-time traffic monitoring, bandwidth usage monitoring, and detailed logging capabilities.
+- High Availability: OPNsense supports high availability configurations, enabling failover and redundancy for critical network services.
+- Modular Architecture: OPNsense adopts a modular approach, allowing users to install and enable additional plugins and packages to extend its functionality, such as web servers, mail servers, or additional security tools.
+OPNsense is designed to be a highly customizable and extensible firewall and routing solution, suitable for small and medium-sized businesses, as well as home networks, providing a comprehensive set of network security and connectivity features.
+<div align="center"> <img src="/images/opnsense.png" width="800" /></a> </div>
 <div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
-<h3 id="grafana"> GRAFANA </h3>
+<h3 id="pfSense"> PFSENSE </h3>
 
->Links: <div><a href="https://grafana.com"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/grafana/grafana"><img src="/images/git_hub-logo.png" height="72"/></div>
+>Links: <div><a href="https://www.pfsense.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/pfsense/pfsense"><img src="/images/git_hub-logo.png" height="72"/></div>
 
-Open-source metrics dashboard and graph editor for Graphite, Elasticsearch, OpenTSDB, Prometheus and InfluxDB.
+pfSense is a free and open-source software distribution based on FreeBSD that is designed to function as a firewall and router. It provides a wide range of features for network security, traffic management, and network connectivity. 
 
-Provides a powerful and elegant way to create, explore, and share dashboards and data with your team and the world.
-
-Grafana is most commonly used for visualizing time series data for Internet infrastructure and application analytics but many use it in other domains including industrial sensors, home automation, weather, and process control.
-
-Works with Graphite, Elasticsearch, Cloudwatch, Prometheus, InfluxDB & More.
-
-Features pluggable panels and data sources allowing easy extensibility and a variety of panels, including fully featured graph panels with rich visualization options. There is built in support for many of the most popular time series data sources.
-<div align="center"> <img src="/images/grafana.png" width="800" /></a> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
-<br><br>
-<h3 id="Freedombox"> FREEDOMBOX </h3>
-
->Links: <div><a href="https://freedombox.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://salsa.debian.org/freedombox-team/"><img src="/images/debian.png" height="72"/></div>
-
-FreedomBox is a private server for non-experts: it lets you install and configure server applications with only a few clicks. It runs on cheap hardware of your choice, uses your internet connection and power, and is under your control.
-
-Build your own FreedomBox by downloading and setting up on your hardware of choice.
-- File Sharing
-- VPN server
-- Decentralized Replacement for WhatsApp
-- Proxy Server
-- Host a Blog or a Wiki
-- Host your Personal Website Right from your Home
-- Synchronize your calender and contacts
-- Share media and take backups from all devices on your home network.
-- FreedomBox can be your Network Attached Storage (NAS).
-<div align="center"> <img src="/images/freedombox.jpg" width="800" /></a> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
-<br><br>
-<h3 id="librespeed"> LIBRESPEED </h3>
-
->Links: <div><a href="https://librespeed.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/librespeed/speedtest"><img src="/images/git_hub-logo.png" height="72"/></div>
-
-A speed test tool that can be run on your LAN or hosted in the cloud. This is available as a Self-Hosted container as well as at librespeed.org.
-<div align="center"> <img src="/images/librespeed.png" height="400" /></a> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
-<br><br>
-<h3 id="webmin"> WEBMIN </h3>
-
->Links: <div><a href="https://webmin.com"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/webmin"><img src="/images/git_hub-logo.png" height="72"/></div>
-
-Web-based system administration interface for Unix that supports user account setup and more.
-
-Webmin is a web-based system configuration tool for Unix-like systems, although recent versions can also be installed and run on Windows. It allows to configure operating system internals, such as users, disk quotas, services or configuration files, as well as modify and control open source apps, such as the Apache HTTP Server, PHP or MySQL. It is written mainly in HTML and Perl
-<div align="center"> <img src="/images/WEBMIN.png" width="800" /></a> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
-<br><br>
-<h3 id="grav"> GRAV </h3>
-
->Links: <div><a href="https://getgrav.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/getgrav"><img src="/images/git_hub-logo.png" height="72"/></div>
-
-Free software, self-hosted content management system (CMS) written in the PHP programming language and based on the Symfony web application framework. It uses a flat file database for both backend and frontend.
-
-Grav is designed to have a shallow learning curve, and to be easy to set up. The focus of Grav is speed and simplicity, rather than an abundance of built-in features that come at the expense of complexity.
-
-The modern open source flat-file CMS
-
-Grav is an easy to use, yet powerful, opensource CMS that requires no database. In a nutshell, installing Grav is a matter of unzipping the file. It is fast, has sophisticated caching, and a light footprint for optimal performance.
-
-Content is just simple markdown files in folders, with no complicated databases to deal with. A powerful API and extensive hooks allow for plugins to extend Grav. Flexible Twig templating allows easy realization of your designs.
-<div align="center"> <img src="/images/grav.png" width="800" /></a> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
-<br><br>
-<h3 id="flarum"> FLARUM </h3>
-
->Links: <div><a href="https://flarum.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/flarum/flarum"><img src="/images/git_hub-logo.png" height="72"/></div>
-
-Flarum is the next-generation forum software that makes online discussion fun. It's simple, fast, and free.
-
-Flarum is free, open-source forum software with a focus on simplicity. You can use Flarum to easily set up a discussion forum for your website. Flarum is developed openly on GitHub.
-
-It is the combined successor of esoTalk and FluxBB. It aims to be:
-
-- Fast and simple. No clutter, no bloat, no complex dependencies. Flarum is built with PHP so it’s quick and easy to deploy. The interface is powered by Mithril, a performant JavaScript framework with a tiny footprint.
-- Beautiful and responsive. This is forum software for humans. Flarum is carefully designed to be consistent and intuitive across platforms, out-of-the-box. It’s backed by LESS, so themeing is a cinch.
-- Powerful and extensible. Customize, extend, and integrate Flarum to suit your community. Flarum’s architecture is amazingly flexible, prioritizing comprehensive APIs and great documentation.
-<div align="center"> <img src="/images/flarum.png" width="800" /></a> </div>
+- Firewall: pfSense offers a stateful packet inspection firewall with advanced filtering capabilities, allowing users to create custom rules to control incoming and outgoing network traffic.
+- Virtual Private Network (VPN): pfSense supports various VPN protocols, including OpenVPN, IPsec, and L2TP/IPsec, enabling secure remote access and site-to-site connections.
+- Routing and NAT: pfSense can act as a router, performing Network Address Translation (NAT) and enabling advanced routing features like static routes, policy-based routing, and load balancing.
+- Captive Portal: pfSense includes a captive portal feature that can be used to authenticate users before granting them access to the network, often used in public Wi-Fi hotspots or guest networks.
+- Traffic Shaping and QoS: pfSense allows users to prioritize and shape network traffic based on various criteria, ensuring that critical applications or services receive the necessary bandwidth.
+- Intrusion Detection and Prevention (IDS/IPS): pfSense integrates with tools like Snort and Suricata, providing intrusion detection and prevention capabilities to identify and block potential threats.
+- Monitoring and Reporting: pfSense offers various monitoring and reporting tools, including real-time traffic monitoring, bandwidth usage monitoring, and detailed logging capabilities.
+pfSense is widely used in small and medium-sized businesses, as well as home networks, providing a comprehensive and flexible solution for network security, routing, and connectivity management.
+<div align="center"> <img src="/images/pfSense.jpg" width="800" /></a> </div>
 <div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h3 id="php-my-admin"> PHPMYADMIN </h3>
@@ -279,6 +248,37 @@ A remote desktop software, the open source TeamViewer alternative, works out of 
 - Chat
 - TCP Tunneling
 <div align="center"> <img src="/images/rustdesk.png" width="800" /></a> </div>
+<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<br><br>
+<h3 id="webmin"> WEBMIN </h3>
+
+>Links: <div><a href="https://webmin.com"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/webmin"><img src="/images/git_hub-logo.png" height="72"/></div>
+
+Web-based system administration interface for Unix that supports user account setup and more.
+
+Webmin is a web-based system configuration tool for Unix-like systems, although recent versions can also be installed and run on Windows. It allows to configure operating system internals, such as users, disk quotas, services or configuration files, as well as modify and control open source apps, such as the Apache HTTP Server, PHP or MySQL. It is written mainly in HTML and Perl
+<div align="center"> <img src="/images/WEBMIN.png" width="800" /></a> </div>
+<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<br><br>
+<h3 id="zabbix"> ZABBIX </h3>
+
+>Links: <div><a href="https://www.zabbix.com"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/zabbix/zabbix"><img src="/images/git_hub-logo.png" height="72"/></div>
+
+Zabbix is an open-source software application that is used for monitoring various IT components, such as networks, servers, virtual machines, and cloud services. It provides a comprehensive solution for collecting and analyzing data from different sources, allowing administrators to monitor the performance, availability, and overall health of their IT infrastructure.
+
+- Network Monitoring: Zabbix can monitor various network devices, including routers, switches, firewalls, and load balancers. It can collect metrics such as bandwidth usage, interface status, and traffic patterns.
+- Server Monitoring: Zabbix can monitor physical and virtual servers, tracking metrics like CPU usage, memory utilization, disk space, and process status. It supports various operating systems, including Linux, Windows, and Unix-like systems.
+- Application Monitoring: Zabbix can monitor the performance and availability of specific applications and services running on monitored systems, such as web servers, databases, and messaging systems.
+- Cloud Monitoring: Zabbix supports monitoring cloud environments, including public clouds like Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP), as well as private clouds.
+- Alerting and Notifications: Zabbix can generate alerts and notifications based on predefined thresholds or conditions. These alerts can be sent via various channels, such as email, SMS, or instant messaging services, enabling administrators to take prompt action.
+- Data Visualization and Reporting: Zabbix provides a web-based interface for visualizing monitoring data through customizable dashboards, graphs, and reports. This helps administrators quickly identify issues and analyze historical trends.
+- Distributed Monitoring: Zabbix supports a distributed monitoring architecture, allowing administrators to scale the monitoring system by deploying multiple Zabbix servers and proxies to handle large environments.
+- Automation and Scripting: Zabbix offers automation capabilities through its built-in scripting engine, enabling administrators to automate tasks, execute remote commands, and integrate with other systems or tools.
+- Third-Party Integration: Zabbix can integrate with various third-party tools and services, such as configuration management systems, incident management platforms, and collaboration tools, enabling a more comprehensive monitoring and management solution.
+Zabbix is widely used by IT professionals, system administrators, and DevOps teams for monitoring and managing complex IT infrastructures, ensuring high availability, performance, and efficient resource utilization.
+
+Run Zabbix on-premise or in the cloud
+<div align="center"> <img src="/images/zabbix.png" width="800" /></a> </div>
 <div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h2 id="socials" align="center">CHATTING - SELF-HOSTED MEDIA PLATFORMS - SOCIAL NETWORKING - DAILYMOTION/YOUTUBE ALTERNATIVES</h2>
