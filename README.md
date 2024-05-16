@@ -580,110 +580,73 @@ A six-month release cycle is maintained with bug fix and security releases being
 <div align="center"> <img src="/images/suitecrm.png" width="800" /></a> </div>
 <div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br><br>
-<h2 id="oss-operating-systems" align="center">OPERATING SYSTEMS (OSS)</h2>
+<h2 id="dashboards" align="center">DASHBOARDS</h2>
 <br><br>
-<h3 id="serenity-os"> SERENITYOS </h3>
+<h3 id="dashy"> DASHY </h3>
 
->Links: <div><a href="https://www.serenityos.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/SerenityOS/serenity"><img src="/images/git_hub-logo.png" height="72" /></a></div>
+>Links: <div><a href="https://dashy.to"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/Lissy93/dashy"><img src="/images/git_hub-logo.png" height="72"/></div>
 
-SerenityOS is a free and open source desktop operating system that has been in continuous development since 2018. Initially the one-man project of Swedish programmer Andreas Kling, SerenityOS is now developed by a community of hobbyists.
+Dashy is an open-source web application that serves as a highly customizable dashboard or homepage for accessing various web applications, services, and resources. It provides a single interface to organize and quickly access frequently used websites, web apps, cloud services, and local applications.
 
-The system supports the x86-64 instruction set, features a preemptive kernel, and hosts multiple complex applications including its own web browser and integrated development environment (IDE)
-
-SerenityOS aims to be a modern Unix-like operating system, with a look and feel that emulates 1990s operating systems such as Microsoft Windows and Mac OS. Incorporating third-party code into the system is discouraged.
-
-The web browser for instance, does not use a preexisting web engine such as WebKit, instead using its own known as LibWeb. There is a collection of ported software, such as GCC, Git and Doom, with varying levels of functionality.
-
-Development does not adhere to a release cycle; as such, there are no releases. Additionally, no binary distributions are provided and prospects are expected to build the system from source.
-
-The system is written in what the authors call "Serenity C++", a variant of C++ that lacks exceptions and features its own standard library.
-<div align="center"> <img src="/images/serenity-os.png" width="800" /> </div>
+- Web Application Dashboard: Dashy allows users to create a personalized dashboard where they can add links, bookmarks, or shortcuts to their favorite web applications, cloud services, and online tools. This provides a centralized access point for all the web resources they need.
+- Local Application Integration: Dashy supports integrating local applications or services running on the user's machine or network, making it easy to launch and access them from the same dashboard.
+- Customizable Layout and Themes: Users can customize the layout, appearance, and themes of their Dashy dashboard to suit their preferences. They can organize links into sections, add icons, and rearrange the layout as desired.
+- Authentication and Access Control: Dashy offers various authentication methods, including built-in user accounts, OAuth, and support for external identity providers. It also allows users to set up access control and permissions for different sections or resources.
+- Cloud Sync and Backup: Dashy supports syncing and backing up dashboard configurations to cloud storage services like Google Drive, Dropbox, or NextCloud, ensuring that users can easily restore or migrate their dashboards.
+- Monitoring and Status Indicators: Dashy can display status indicators for services and applications, allowing users to quickly identify if a particular resource is online or offline.
+- Search and Navigation: Dashy includes a search functionality that enables users to quickly find and access specific resources within their dashboard.
+- Responsive Design: The dashboard is designed to be responsive and accessible across different devices and screen sizes, making it convenient to use on desktops, tablets, or mobile devices.
+Dashy is a versatile tool that helps users streamline their workflow by providing a centralized and customizable hub for accessing their frequently used web resources, local applications, and cloud services, all from a single interface.
+<div align="center"> <img src="/images/dashy.gif" width="800" /></a> </div>
 <div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
-<h3 id="kolibri-os"> KOLIBRIOS </h3>
+<h3 id="heimdall"> HEIMDALL </h3>
 
->Links: <div><a href="https://kolibrios.org/en/"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/KolibriOS"><img src="/images/git_hub-logo.png" height="72" /></a></div>
+>Links: <div><a href="https://heimdall.site"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/linuxserver/Heimdall"><img src="/images/git_hub-logo.png" height="72"/></div>
 
-Colibri is a tiny yet incredibly powerful and fast operating system. Requires only a few megabyte disk space and 8MB of RAM to run. Kolibri features a rich set of applications that include word processor, image viewer, graphical editor, web browser and well over 30 exciting games. Full FAT12/16/32 support is implemented, as well as read-only support for NTFS, ISO9660 and Ext2/3/4. Drivers are written for popular sound, network and graphics cards.
+Heimdall is an open-source dashboard application designed to provide a user-friendly interface for accessing various web applications and services. It functions as a centralized hub or homepage, allowing users to organize and quickly navigate to their frequently used tools and resources.
 
-Applications that start instantly, immediately after clicking an icon, without annoying hourglass pointers. This speed is achieved since the core parts of KolibriOS (kernel and drivers) are written entirely in FASM assembly language
-<div align="center"> <img src="/images/KolibriOS.png" width="800" /> </div>
+- Web Application Dashboard: Heimdall serves as a web-based dashboard where users can add links, bookmarks, or shortcuts to their favorite web applications, cloud services, and online tools. This provides a centralized access point for all the web resources they need.
+- Customizable Layout: Users can customize the layout and appearance of their Heimdall dashboard by arranging tiles or panels in a grid-based layout. They can also upload custom icons and banners to personalize the look and feel.
+- Service Monitoring: Heimdall can monitor the status of various services or applications and display visual indicators (e.g., green for online, red for offline) on the corresponding tiles. This helps users quickly identify if a particular resource is available or not.
+- User Authentication: Heimdall supports user authentication, allowing users to secure their dashboard and control access to specific resources or sections.
+- Responsive Design: The dashboard is designed to be responsive, ensuring that it adapts and remains usable across different devices and screen sizes, including desktops, tablets, and mobile devices.
+- Self-Hosting: Heimdall is a self-hosted application, which means users can install it on their own servers or local machines, providing them with complete control over their data and customizations
+- Integration with Docker and Other Platforms: Heimdall can be easily deployed and run using Docker containers, making it compatible with various platforms and environments.
+<div align="center"> <img src="/images/heimdall.png" width="800" /></a> </div>
 <div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
-<h3 id="illumos"> ILLUMOS </h3>
+<h3 id="homarr"> HOMARR </h3>
 
->Links: <div><a href="https://www.illumos.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/illumos/illumos-gate"><img src="/images/git_hub-logo.png" height="72" /></a></div>
+>Links: <div><a href="https://homarr.dev"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/ajnart/homarr"><img src="/images/git_hub-logo.png" height="72"/></div>
 
-illumos is a Unix operating system which provides next-generation features for downstream distributions, including advanced system debugging, next generation filesystem, networking, and virtualization options.
+Homarr is an open-source, self-hosted application dashboard that provides a unified and user-friendly interface for accessing various web-based applications and services. It acts as a central hub or homepage, allowing users to organize and quickly navigate to their frequently used tools and resources.
+
+- Web Application Dashboard: Homarr serves as a web-based dashboard where users can add links, bookmarks, or shortcuts to their favorite web applications, cloud services, and online tools. This provides a centralized access point for all the web resources they need.
+- Customizable Layout and Themes: Users can customize the layout and appearance of their Homarr dashboard by arranging tiles or panels in a grid-based layout. They can also apply different themes and styles to personalize the look and feel of the dashboard.
+- Service Monitoring: Homarr can monitor the status of various services or applications and display visual indicators (e.g., green for online, red for offline) on the corresponding tiles. This helps users quickly identify if a particular resource is available or not.
+- User Authentication: Homarr supports user authentication, allowing users to secure their dashboard and control access to specific resources or sections.
+- Responsive Design: The dashboard is designed to be responsive, ensuring that it adapts and remains usable across different devices and screen sizes, including desktops, tablets, and mobile devices.
+- Integration with External Services: Homarr can integrate with external services and tools, such as Kubernetes clusters, to display information and provide quick access to resources within those environments.
+- Customizable Metadata and Icons: Users can customize the metadata and icons associated with each application or service tile, making it easier to identify and organize their resources.
+- Self-Hosting: Homarr is a self-hosted application, which means users can install it on their own servers or local machines, providing them with complete control over their data and customizations.
+Homarr is designed to simplify and streamline the management of various web-based applications and services by providing a centralized, customizable, and user-friendly dashboard.
+<div align="center"> <img src="/images/homarr.gif" width="800" /></a> </div>
 <div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
-<h3 id="open-indiana"> OPENINDIANA </h3>
+<h3 id="homepage"> HOMEPAGE </h3>
 
->Links: <div><a href="https://www.openindiana.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/openindiana"><img src="/images/git_hub-logo.png" height="72" /></a></div>
+>Links: <div><a href="https://gethomepage.dev/latest/"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/gethomepage/homepage"><img src="/images/git_hub-logo.png" height="72"/></div>
 
-OpenIndiana is a free and open-source illumos distribution descended from UNIX System V Release 4 via the OpenSolaris operating system. Forked from OpenSolaris after OpenSolaris was discontinued by Oracle Corporation
-<div align="center"> <img src="/images/OpenIndiana.png" width="800" /></div>
+Homepage It's a self-hosted customizable dashboard application designed for personal servers. It allows you to create a dashboard with widgets displaying information about your server's health, applications, and other data. It integrates with many services and is known for being easy to use and secure.
+
+- Homepage allows you to build a dashboard that perfectly suits your needs. You can add widgets and buttons to display information about various services running on your system.
+- It integrates with over 100 services, so you can easily pull data and display it on your dashboard. This could include things like server health, application statuses, or even weather updates.
+- Being statically generated, Homepage is known for its speed and security.
+- Configuration is done through YAML files or Docker labels, making it relatively easy to set up and use.
+<div align="center"> <img src="/images/homepage_.png" width="800" /></a> </div>
 <div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
-<h3 id="Haiku"> HAIKU </h3>
-
->Links: <div><a href="https://www.haiku-os.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://git.haiku-os.org"><img src="/images/git_share.png" height="72" /></a></div>
-
-Haiku is an open source operating system under constant development. Specifically targeting personal computing, Haiku is a fast, efficient, simple to use, easy to learn, and yet very powerful system for computer users of all levels.
-
-Additionally, Haiku offers something over other open source platforms which is quite unique: The project consists of a single team writing everything from the kernel, drivers, userland services, tool kit, and graphics stack to the included desktop applications and preflets
-
-The key highlights that distinguish Haiku from other operating systems include:
-
-- Specific focus on personal computing
-- Custom kernel designed for responsiveness
-- Fully threaded design for great efficiency with multi-processor/core CPUs
-- Rich object-oriented API for faster development
-- Database-like file system (BFS) with support for indexed metadata
-- Unified, cohesive interface
-<div align="center"> <img src="/images/maxresdefault.jpg" width="800" /></a> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
-<br><br><br>
-<h2 id="virtualization" align="center">VIRTUALIZATION</h2>
-<br><br>
-<h3 id="proxmox"> PROXMOX VIRTUAL ENVIRONMENT </h3>
-
->Links: <div><a href="https://www.proxmox.com/en/proxmox-virtual-environment/overview"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://git.proxmox.com"><img src="/images/git_share.png" height="72" /></a></div>
-
-Proxmox Virtual Environment (Proxmox VE or PVE) is a hyper-converged infrastructure open-source software. It is a hosted hypervisor that can run operating systems including Linux and Windows on x64 hardware.
-
-It is a Debian-based Linux distribution with a modified Ubuntu LTS kernel and allows deployment and management of virtual machines and containers. Proxmox VE includes a web console and command-line tools, and provides a REST API for third-party tools.
-
-Two types of virtualization are supported: container-based with LXC (starting from version 4.0 replacing OpenVZ used in version up to 3.4, included, and full virtualization with KVM. It includes a web-based management interface.
-
-Is described as 'complete and easy to use Open Source virtualization platform for running Virtual Appliances and Virtual Machines. Proxmox VE tightly integrates KVM hypervisor and LXC containers, software-defined storage and networking
-
-functionality on a single' and is a very popular Virtualization tool in the network & admin category
-<div align="center"> <img src="/images/proxmox.png" width="800" /></a> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
-<br><br>
-<h3 id="xen-project"> XEN PROJECT </h3>
-
->Links: <div><a href="https://xenproject.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://xenbits.xen.org/gitweb/?p=xen.git"><img src="/images/git_share.png" height="72" /></a><a href="https://github.com/xen-project/xen"><img src="/images/git_hub-logo.png" height="72" /></a></div>
-
-Powerful open source industry standard for virtualization. It is a native (bare-metal) hypervisor providing services that allow multiple computer operating systems to execute on the same computer hardware concurrently.
-<div align="center"> <img src="/images/xen.png" width="800" /></a> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
-<br><br>
-<h3 id="smart-os"> SMARTOS </h3>
-
->Links: <div><a href="https://www.tritondatacenter.com/smartos"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/TritonDataCenter/smartos-live"><img src="/images/git_hub-logo.png" height="72"/></a></div>
-
-SmartOS is a specialized Type 1 Hypervisor platform based on Illumos. It supports two types of virtualization:
-
-OS Virtual Machines (Zones): A light-weight virtualization solution offering a complete and secure userland environment on a single global kernel, offering true bare metal performance and all the features Illumos has, namely dynamic introspection via DTrace
-
-KVM Virtual Machines: A full virtualization solution for running a variety of guest OS's including Linux, Windows, *BSD, Plan9 and more
-
-SmartOS is a "live OS", it is always booted via PXE, ISO, or USB Key and runs entirely from memory, allowing the local disks to be used entirely for hosting virtual machines without wasting disks for the root OS. This architecture has a variety of advantages including increased security, no need for patching, fast upgrades and recovery.
-<div align="center"> <img src="/images/smartos.png" width="800" /></a> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
-<br><br><br>
 <h2 id="homeserver-personalcloud" align="center">HOME SERVER - PERSONAL CLOUD</h2>
 <br><br>
 <h3 id="umbrel"> UMBREL </h3>
@@ -710,6 +673,43 @@ Project CasaOS started as a community-based open-source project focused on deliv
 <div align="center"> <img src="/images/casaos.png" width="800" /></a> </div>
 <div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br><br>
+<h2 id="nas" align="center">NAS</h2>
+<br><br>
+<h3 id="true-nas"> TRUENAS </h3>
+
+>Links: <div><a href="https://www.truenas.com"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/truenas"><img src="/images/git_hub-logo.png" height="72"/></div>
+
+(formerly FreeNAS) is a free NAS (Network-Attached Storage) server, supporting: CIFS (samba), FTP, NFS, AFP, RSYNC, iSCSI protocols, S.M.A.R.T., local user authentication, Software RAID (0,1,5) with a Full WEB configuration interface.
+
+- File Sharing: TrueNAS allows you to create and manage network file shares using popular protocols like SMB/CIFS (for Windows), NFS (for Unix-like systems), and AFP (for macOS). These file shares can be accessed by multiple clients on the network simultaneously.
+- Storage Management: TrueNAS provides a user-friendly web interface for managing various storage configurations, including disk pools (ZFS pools), RAID arrays, disk encryption, snapshots, and replication.
+- Data Protection: TrueNAS leverages the robust ZFS file system, which offers features like data integrity, snapshots, and replication for backup and recovery purposes.
+- Virtualization: TrueNAS includes support for running virtual machines (VMs) using bhyve (FreeBSD's hypervisor) or integrating with other virtualization solutions like Kubernetes and Docker.
+- Cloud Integration: TrueNAS can integrate with various cloud storage services, such as Amazon S3, Microsoft Azure, and Google Cloud, enabling cloud backup, replication, and data transfer
+- Plugins and Jails: TrueNAS supports plugins and FreeBSD jails, which allow users to install and run additional software or services on the NAS system, such as media servers, web servers, or backup tools.
+- High Availability: TrueNAS can be configured for high availability setups, ensuring data redundancy and minimizing downtime in case of hardware failures.
+<div align="center"> <img src="/images/true-nas.png" width="800" /></a> </div>
+<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<br><br>
+<h3 id="openmediavault"> OPENMEDIAVAULT </h3>
+
+>Links: <div><a href="https://www.openmediavault.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/openmediavault"><img src="/images/git_hub-logo.png" height="72"/></div>
+
+OpenMediaVault (OMV) is an open-source network-attached storage (NAS) solution based on the Debian Linux operating system. It provides a user-friendly web-based interface for managing and administering storage devices, services, and applications on a NAS server. It contains services like SSH, (S)FTP, SMB/CIFS, DAAP media server, RSync, BitTorrent client and many more.
+
+- Storage Management: OMV allows you to create and manage various storage configurations, including RAID arrays, disk pools, logical volumes, and file systems. It supports multiple file systems, such as ext4, XFS, and Btrfs.
+- File Sharing: OMV enables you to set up and configure file sharing services like Samba (SMB/CIFS) for Windows clients, NFS for Unix-like systems, and AFP for macOS clients. It also supports WebDAV for web-based file access.
+- User and Access Management: OMV provides tools for managing user accounts, groups, and access permissions, allowing you to control who can access shared folders and with what level of permissions.
+- Plugin System: OMV has a plugin system that allows you to extend its functionality by installing additional plugins or applications. There are many available plugins for services like media servers, web servers, backup solutions, and more.
+- Backup and Snapshot Management: OMV supports creating and managing backups of your data, either locally or to remote destinations like network shares or cloud storage. It also supports taking snapshots of your file systems for data protection and recovery.
+- Monitoring and Reporting: OMV provides monitoring tools to track system resources, disk usage, and other performance metrics. It also generates reports and logs for troubleshooting and auditing purposes.
+- SMART Monitoring: OMV can monitor the health of your hard drives using the Self-Monitoring, Analysis, and Reporting Technology (SMART) system, alerting you to potential disk failures.
+- Remote Access: OMV includes features for remote access and administration, allowing you to manage your NAS server from a web browser or via secure shell (SSH) connections.
+- Docker and Virtual Machine Support: OMV can be extended to run Docker containers and virtual machines, enabling you to host additional services or applications on your NAS server.
+- Self-Hosting: OpenMediaVault is a self-hosted solution, meaning you can install and run it on your own hardware, providing you with complete control over your data and configuration.
+<div align="center"> <img src="/images/openmediavault.png" width="800" /></a> </div>
+<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<br><br>
 <h2 id="productivity-office" align="center">OFFICE - PRODUCTIVITY</h2>
 
 <br><br><br>
@@ -840,107 +840,107 @@ wallabag is a self hostable application for saving web pages: Save and classify 
 <div align="center"> <img src="/images/wallabag.png" width="800" /></a> </div>
 <div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
-<h2 id="nas" align="center">NAS</h2>
+<h2 id="oss-operating-systems" align="center">OPERATING SYSTEMS (OSS)</h2>
 <br><br>
-<h3 id="true-nas"> TRUENAS </h3>
+<h3 id="serenity-os"> SERENITYOS </h3>
 
->Links: <div><a href="https://www.truenas.com"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/truenas"><img src="/images/git_hub-logo.png" height="72"/></div>
+>Links: <div><a href="https://www.serenityos.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/SerenityOS/serenity"><img src="/images/git_hub-logo.png" height="72" /></a></div>
 
-(formerly FreeNAS) is a free NAS (Network-Attached Storage) server, supporting: CIFS (samba), FTP, NFS, AFP, RSYNC, iSCSI protocols, S.M.A.R.T., local user authentication, Software RAID (0,1,5) with a Full WEB configuration interface.
+SerenityOS is a free and open source desktop operating system that has been in continuous development since 2018. Initially the one-man project of Swedish programmer Andreas Kling, SerenityOS is now developed by a community of hobbyists.
 
-- File Sharing: TrueNAS allows you to create and manage network file shares using popular protocols like SMB/CIFS (for Windows), NFS (for Unix-like systems), and AFP (for macOS). These file shares can be accessed by multiple clients on the network simultaneously.
-- Storage Management: TrueNAS provides a user-friendly web interface for managing various storage configurations, including disk pools (ZFS pools), RAID arrays, disk encryption, snapshots, and replication.
-- Data Protection: TrueNAS leverages the robust ZFS file system, which offers features like data integrity, snapshots, and replication for backup and recovery purposes.
-- Virtualization: TrueNAS includes support for running virtual machines (VMs) using bhyve (FreeBSD's hypervisor) or integrating with other virtualization solutions like Kubernetes and Docker.
-- Cloud Integration: TrueNAS can integrate with various cloud storage services, such as Amazon S3, Microsoft Azure, and Google Cloud, enabling cloud backup, replication, and data transfer
-- Plugins and Jails: TrueNAS supports plugins and FreeBSD jails, which allow users to install and run additional software or services on the NAS system, such as media servers, web servers, or backup tools.
-- High Availability: TrueNAS can be configured for high availability setups, ensuring data redundancy and minimizing downtime in case of hardware failures.
-<div align="center"> <img src="/images/true-nas.png" width="800" /></a> </div>
+The system supports the x86-64 instruction set, features a preemptive kernel, and hosts multiple complex applications including its own web browser and integrated development environment (IDE)
+
+SerenityOS aims to be a modern Unix-like operating system, with a look and feel that emulates 1990s operating systems such as Microsoft Windows and Mac OS. Incorporating third-party code into the system is discouraged.
+
+The web browser for instance, does not use a preexisting web engine such as WebKit, instead using its own known as LibWeb. There is a collection of ported software, such as GCC, Git and Doom, with varying levels of functionality.
+
+Development does not adhere to a release cycle; as such, there are no releases. Additionally, no binary distributions are provided and prospects are expected to build the system from source.
+
+The system is written in what the authors call "Serenity C++", a variant of C++ that lacks exceptions and features its own standard library.
+<div align="center"> <img src="/images/serenity-os.png" width="800" /> </div>
 <div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
-<h3 id="openmediavault"> OPENMEDIAVAULT </h3>
+<h3 id="kolibri-os"> KOLIBRIOS </h3>
 
->Links: <div><a href="https://www.openmediavault.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/openmediavault"><img src="/images/git_hub-logo.png" height="72"/></div>
+>Links: <div><a href="https://kolibrios.org/en/"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/KolibriOS"><img src="/images/git_hub-logo.png" height="72" /></a></div>
 
-OpenMediaVault (OMV) is an open-source network-attached storage (NAS) solution based on the Debian Linux operating system. It provides a user-friendly web-based interface for managing and administering storage devices, services, and applications on a NAS server. It contains services like SSH, (S)FTP, SMB/CIFS, DAAP media server, RSync, BitTorrent client and many more.
+Colibri is a tiny yet incredibly powerful and fast operating system. Requires only a few megabyte disk space and 8MB of RAM to run. Kolibri features a rich set of applications that include word processor, image viewer, graphical editor, web browser and well over 30 exciting games. Full FAT12/16/32 support is implemented, as well as read-only support for NTFS, ISO9660 and Ext2/3/4. Drivers are written for popular sound, network and graphics cards.
 
-- Storage Management: OMV allows you to create and manage various storage configurations, including RAID arrays, disk pools, logical volumes, and file systems. It supports multiple file systems, such as ext4, XFS, and Btrfs.
-- File Sharing: OMV enables you to set up and configure file sharing services like Samba (SMB/CIFS) for Windows clients, NFS for Unix-like systems, and AFP for macOS clients. It also supports WebDAV for web-based file access.
-- User and Access Management: OMV provides tools for managing user accounts, groups, and access permissions, allowing you to control who can access shared folders and with what level of permissions.
-- Plugin System: OMV has a plugin system that allows you to extend its functionality by installing additional plugins or applications. There are many available plugins for services like media servers, web servers, backup solutions, and more.
-- Backup and Snapshot Management: OMV supports creating and managing backups of your data, either locally or to remote destinations like network shares or cloud storage. It also supports taking snapshots of your file systems for data protection and recovery.
-- Monitoring and Reporting: OMV provides monitoring tools to track system resources, disk usage, and other performance metrics. It also generates reports and logs for troubleshooting and auditing purposes.
-- SMART Monitoring: OMV can monitor the health of your hard drives using the Self-Monitoring, Analysis, and Reporting Technology (SMART) system, alerting you to potential disk failures.
-- Remote Access: OMV includes features for remote access and administration, allowing you to manage your NAS server from a web browser or via secure shell (SSH) connections.
-- Docker and Virtual Machine Support: OMV can be extended to run Docker containers and virtual machines, enabling you to host additional services or applications on your NAS server.
-- Self-Hosting: OpenMediaVault is a self-hosted solution, meaning you can install and run it on your own hardware, providing you with complete control over your data and configuration.
-<div align="center"> <img src="/images/openmediavault.png" width="800" /></a> </div>
+Applications that start instantly, immediately after clicking an icon, without annoying hourglass pointers. This speed is achieved since the core parts of KolibriOS (kernel and drivers) are written entirely in FASM assembly language
+<div align="center"> <img src="/images/KolibriOS.png" width="800" /> </div>
 <div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
-<h2 id="dashboards" align="center">DASHBOARDS</h2>
-<br><br>
-<h3 id="dashy"> DASHY </h3>
+<h3 id="illumos"> ILLUMOS </h3>
 
->Links: <div><a href="https://dashy.to"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/Lissy93/dashy"><img src="/images/git_hub-logo.png" height="72"/></div>
+>Links: <div><a href="https://www.illumos.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/illumos/illumos-gate"><img src="/images/git_hub-logo.png" height="72" /></a></div>
 
-Dashy is an open-source web application that serves as a highly customizable dashboard or homepage for accessing various web applications, services, and resources. It provides a single interface to organize and quickly access frequently used websites, web apps, cloud services, and local applications.
-
-- Web Application Dashboard: Dashy allows users to create a personalized dashboard where they can add links, bookmarks, or shortcuts to their favorite web applications, cloud services, and online tools. This provides a centralized access point for all the web resources they need.
-- Local Application Integration: Dashy supports integrating local applications or services running on the user's machine or network, making it easy to launch and access them from the same dashboard.
-- Customizable Layout and Themes: Users can customize the layout, appearance, and themes of their Dashy dashboard to suit their preferences. They can organize links into sections, add icons, and rearrange the layout as desired.
-- Authentication and Access Control: Dashy offers various authentication methods, including built-in user accounts, OAuth, and support for external identity providers. It also allows users to set up access control and permissions for different sections or resources.
-- Cloud Sync and Backup: Dashy supports syncing and backing up dashboard configurations to cloud storage services like Google Drive, Dropbox, or NextCloud, ensuring that users can easily restore or migrate their dashboards.
-- Monitoring and Status Indicators: Dashy can display status indicators for services and applications, allowing users to quickly identify if a particular resource is online or offline.
-- Search and Navigation: Dashy includes a search functionality that enables users to quickly find and access specific resources within their dashboard.
-- Responsive Design: The dashboard is designed to be responsive and accessible across different devices and screen sizes, making it convenient to use on desktops, tablets, or mobile devices.
-Dashy is a versatile tool that helps users streamline their workflow by providing a centralized and customizable hub for accessing their frequently used web resources, local applications, and cloud services, all from a single interface.
-<div align="center"> <img src="/images/dashy.gif" width="800" /></a> </div>
+illumos is a Unix operating system which provides next-generation features for downstream distributions, including advanced system debugging, next generation filesystem, networking, and virtualization options.
 <div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
-<h3 id="heimdall"> HEIMDALL </h3>
+<h3 id="open-indiana"> OPENINDIANA </h3>
 
->Links: <div><a href="https://heimdall.site"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/linuxserver/Heimdall"><img src="/images/git_hub-logo.png" height="72"/></div>
+>Links: <div><a href="https://www.openindiana.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/openindiana"><img src="/images/git_hub-logo.png" height="72" /></a></div>
 
-Heimdall is an open-source dashboard application designed to provide a user-friendly interface for accessing various web applications and services. It functions as a centralized hub or homepage, allowing users to organize and quickly navigate to their frequently used tools and resources.
-
-- Web Application Dashboard: Heimdall serves as a web-based dashboard where users can add links, bookmarks, or shortcuts to their favorite web applications, cloud services, and online tools. This provides a centralized access point for all the web resources they need.
-- Customizable Layout: Users can customize the layout and appearance of their Heimdall dashboard by arranging tiles or panels in a grid-based layout. They can also upload custom icons and banners to personalize the look and feel.
-- Service Monitoring: Heimdall can monitor the status of various services or applications and display visual indicators (e.g., green for online, red for offline) on the corresponding tiles. This helps users quickly identify if a particular resource is available or not.
-- User Authentication: Heimdall supports user authentication, allowing users to secure their dashboard and control access to specific resources or sections.
-- Responsive Design: The dashboard is designed to be responsive, ensuring that it adapts and remains usable across different devices and screen sizes, including desktops, tablets, and mobile devices.
-- Self-Hosting: Heimdall is a self-hosted application, which means users can install it on their own servers or local machines, providing them with complete control over their data and customizations
-- Integration with Docker and Other Platforms: Heimdall can be easily deployed and run using Docker containers, making it compatible with various platforms and environments.
-<div align="center"> <img src="/images/heimdall.png" width="800" /></a> </div>
+OpenIndiana is a free and open-source illumos distribution descended from UNIX System V Release 4 via the OpenSolaris operating system. Forked from OpenSolaris after OpenSolaris was discontinued by Oracle Corporation
+<div align="center"> <img src="/images/OpenIndiana.png" width="800" /></div>
 <div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
-<h3 id="homarr"> HOMARR </h3>
+<h3 id="Haiku"> HAIKU </h3>
 
->Links: <div><a href="https://homarr.dev"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/ajnart/homarr"><img src="/images/git_hub-logo.png" height="72"/></div>
+>Links: <div><a href="https://www.haiku-os.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://git.haiku-os.org"><img src="/images/git_share.png" height="72" /></a></div>
 
-Homarr is an open-source, self-hosted application dashboard that provides a unified and user-friendly interface for accessing various web-based applications and services. It acts as a central hub or homepage, allowing users to organize and quickly navigate to their frequently used tools and resources.
+Haiku is an open source operating system under constant development. Specifically targeting personal computing, Haiku is a fast, efficient, simple to use, easy to learn, and yet very powerful system for computer users of all levels.
 
-- Web Application Dashboard: Homarr serves as a web-based dashboard where users can add links, bookmarks, or shortcuts to their favorite web applications, cloud services, and online tools. This provides a centralized access point for all the web resources they need.
-- Customizable Layout and Themes: Users can customize the layout and appearance of their Homarr dashboard by arranging tiles or panels in a grid-based layout. They can also apply different themes and styles to personalize the look and feel of the dashboard.
-- Service Monitoring: Homarr can monitor the status of various services or applications and display visual indicators (e.g., green for online, red for offline) on the corresponding tiles. This helps users quickly identify if a particular resource is available or not.
-- User Authentication: Homarr supports user authentication, allowing users to secure their dashboard and control access to specific resources or sections.
-- Responsive Design: The dashboard is designed to be responsive, ensuring that it adapts and remains usable across different devices and screen sizes, including desktops, tablets, and mobile devices.
-- Integration with External Services: Homarr can integrate with external services and tools, such as Kubernetes clusters, to display information and provide quick access to resources within those environments.
-- Customizable Metadata and Icons: Users can customize the metadata and icons associated with each application or service tile, making it easier to identify and organize their resources.
-- Self-Hosting: Homarr is a self-hosted application, which means users can install it on their own servers or local machines, providing them with complete control over their data and customizations.
-Homarr is designed to simplify and streamline the management of various web-based applications and services by providing a centralized, customizable, and user-friendly dashboard.
-<div align="center"> <img src="/images/homarr.gif" width="800" /></a> </div>
+Additionally, Haiku offers something over other open source platforms which is quite unique: The project consists of a single team writing everything from the kernel, drivers, userland services, tool kit, and graphics stack to the included desktop applications and preflets
+
+The key highlights that distinguish Haiku from other operating systems include:
+
+- Specific focus on personal computing
+- Custom kernel designed for responsiveness
+- Fully threaded design for great efficiency with multi-processor/core CPUs
+- Rich object-oriented API for faster development
+- Database-like file system (BFS) with support for indexed metadata
+- Unified, cohesive interface
+<div align="center"> <img src="/images/maxresdefault.jpg" width="800" /></a> </div>
+<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<br><br><br>
+<h2 id="virtualization" align="center">VIRTUALIZATION</h2>
+<br><br>
+<h3 id="proxmox"> PROXMOX VIRTUAL ENVIRONMENT </h3>
+
+>Links: <div><a href="https://www.proxmox.com/en/proxmox-virtual-environment/overview"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://git.proxmox.com"><img src="/images/git_share.png" height="72" /></a></div>
+
+Proxmox Virtual Environment (Proxmox VE or PVE) is a hyper-converged infrastructure open-source software. It is a hosted hypervisor that can run operating systems including Linux and Windows on x64 hardware.
+
+It is a Debian-based Linux distribution with a modified Ubuntu LTS kernel and allows deployment and management of virtual machines and containers. Proxmox VE includes a web console and command-line tools, and provides a REST API for third-party tools.
+
+Two types of virtualization are supported: container-based with LXC (starting from version 4.0 replacing OpenVZ used in version up to 3.4, included, and full virtualization with KVM. It includes a web-based management interface.
+
+Is described as 'complete and easy to use Open Source virtualization platform for running Virtual Appliances and Virtual Machines. Proxmox VE tightly integrates KVM hypervisor and LXC containers, software-defined storage and networking
+
+functionality on a single' and is a very popular Virtualization tool in the network & admin category
+<div align="center"> <img src="/images/proxmox.png" width="800" /></a> </div>
 <div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
-<h3 id="homepage"> HOMEPAGE </h3>
+<h3 id="xen-project"> XEN PROJECT </h3>
 
->Links: <div><a href="https://gethomepage.dev/latest/"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/gethomepage/homepage"><img src="/images/git_hub-logo.png" height="72"/></div>
+>Links: <div><a href="https://xenproject.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://xenbits.xen.org/gitweb/?p=xen.git"><img src="/images/git_share.png" height="72" /></a><a href="https://github.com/xen-project/xen"><img src="/images/git_hub-logo.png" height="72" /></a></div>
 
-Homepage It's a self-hosted customizable dashboard application designed for personal servers. It allows you to create a dashboard with widgets displaying information about your server's health, applications, and other data. It integrates with many services and is known for being easy to use and secure.
-
-- Homepage allows you to build a dashboard that perfectly suits your needs. You can add widgets and buttons to display information about various services running on your system.
-- It integrates with over 100 services, so you can easily pull data and display it on your dashboard. This could include things like server health, application statuses, or even weather updates.
-- Being statically generated, Homepage is known for its speed and security.
-- Configuration is done through YAML files or Docker labels, making it relatively easy to set up and use.
-<div align="center"> <img src="/images/homepage_.png" width="800" /></a> </div>
+Powerful open source industry standard for virtualization. It is a native (bare-metal) hypervisor providing services that allow multiple computer operating systems to execute on the same computer hardware concurrently.
+<div align="center"> <img src="/images/xen.png" width="800" /></a> </div>
 <div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
+<h3 id="smart-os"> SMARTOS </h3>
+
+>Links: <div><a href="https://www.tritondatacenter.com/smartos"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/TritonDataCenter/smartos-live"><img src="/images/git_hub-logo.png" height="72"/></a></div>
+
+SmartOS is a specialized Type 1 Hypervisor platform based on Illumos. It supports two types of virtualization:
+
+OS Virtual Machines (Zones): A light-weight virtualization solution offering a complete and secure userland environment on a single global kernel, offering true bare metal performance and all the features Illumos has, namely dynamic introspection via DTrace
+
+KVM Virtual Machines: A full virtualization solution for running a variety of guest OS's including Linux, Windows, *BSD, Plan9 and more
+
+SmartOS is a "live OS", it is always booted via PXE, ISO, or USB Key and runs entirely from memory, allowing the local disks to be used entirely for hosting virtual machines without wasting disks for the root OS. This architecture has a variety of advantages including increased security, no need for patching, fast upgrades and recovery.
+<div align="center"> <img src="/images/smartos.png" width="800" /></a> </div>
+<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<br><br><br>
