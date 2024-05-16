@@ -470,7 +470,7 @@ If you have a minimum amount of time and technical skills, creating your own pla
 <br><br>
 <h3 id="pixelfed"> PIXELFED </h3>
 
->Links: <div><a href="https://pixelfed.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/pixelfed"><img src="/images/git_hub-logo.png" height="72"/></a></div>
+>Links: <div><a href="https://pixelfed.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://pixelfed.social"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/pixelfed"><img src="/images/git_hub-logo.png" height="72"/></a></div>
 
 A free and ethical photo sharing platform, powered by ActivityPub federation.
 
