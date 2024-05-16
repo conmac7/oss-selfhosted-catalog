@@ -107,8 +107,8 @@ Finally, the aim of this collection is not to catalog every single open-source a
 <sup>Colin Viebrock, Public domain, via Wikimedia Commons:<br>
 https://commons.wikimedia.org/wiki/File:Open_Source_Initiative.svg<br>
 https://viebrock.ca<br>
-https://opensource.org/osi-logo-files</sup>
-https://opensource.org
+https://opensource.org/osi-logo-files<br>
+https://opensource.org</sup>
 <br><br>
 <h2 id="software" align="center">SOFTWARE</h2>
 <br><br>
