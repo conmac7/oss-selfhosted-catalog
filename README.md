@@ -711,8 +711,51 @@ OpenMediaVault (OMV) is an open-source network-attached storage (NAS) solution b
 <div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h2 id="productivity-office" align="center">OFFICE - PRODUCTIVITY</h2>
+<br><br>
+<h3 id="baserow"> BASEROW </h3>
 
-<br><br><br>
+>Links: <div><a href="https://baserow.io"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://gitlab.com/baserow/baserow"><img src="/images/git_share.png" height="72"/></a><a href="https://github.com/bram2w/baserow"><img src="/images/git_hub-logo.png" height="72"/></a></div>
+
+Baserow organizes all your data into tables that are easy to create, collaborate on and look through. When there’s one database for all workflows running in your company, everyone knows exactly where to look for what.
+
+Open source no-code database and Airtable alternative
+
+Create your own online database without technical experience. Our user-friendly no-code tool gives you the powers of a developer without leaving your browser.
+
+Self-hosted: Host your own instance on-premise or in the cloud
+<div align="center"> <img src="/images/baserow.png" width="800" /></a> </div>
+<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<br><br>
+<h3 id="bookstack"> BOOKSTACK </h3>
+
+>Links: <div><a href="https://www.bookstackapp.com"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/BookStackApp/BookStack"><img src="/images/git_hub-logo.png" height="72"/></div>
+
+BookStack is a simple, self-hosted, easy-to-use platform for organizing and storing information.
+
+Documentation/wiki software aimed for a simple, self-hosted, and easy-to-use platform. Based on Laravel, a PHP framework, BookStack is released under the MIT License. It uses the ideas of books to organise pages and store information
+<div align="center"> <img src="/images/bookstack.png" width="800" /></a> </div>
+<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<br><br>
+<h3 id="firefly-iii"> FIREFLY III </h3>
+
+>Links: <div><a href="https://www.firefly-iii.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/firefly-iii"><img src="/images/git_hub-logo.png" height="72"/></div>
+
+Financial manager. It can help you keep track of expenses, income, budgets and everything in between. It even supports credit cards, shared household accounts and savings accounts! It’s pretty fancy. You should use it to save and organize money.
+
+Personal financial management is pretty difficult, and everybody has their own approach to it. Some people make budgets, other people limit their cashflow by throwing away their credit cards, others try to increase their current cashflow. There are tons of ways to save and earn money.
+<div align="center"> <img src="/images/fireflyiii.png" width="800" /></a> </div>
+<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<br><br>
+<h3 id="notesnook"> NOTESNOOK </h3>
+
+>Links: <div><a href="https://notesnook.com"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/streetwriters/notesnook"><img src="/images/git_hub-logo.png" height="72"/></div>
+
+Open source zero knowledge private note taking. Write notes with freedom, no spying, no tracking.
+
+An end-to-end encrypted note taking alternative to Evernote
+<div align="center"> <img src="/images/notesnook.png" width="800" /></a> </div>
+<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<br><br>
 <h3 id="only-office"> ONLYOFFICE </h3>
 
 >Links: <div><a href="https://www.onlyoffice.com"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/ONLYOFFICE"><img src="/images/git_hub-logo.png" height="72"/></a></div>
@@ -732,6 +775,24 @@ ONLYOFFICE offers a secure online office suite highly compatible with MS Office 
 <div align="center"> <img src="/images/onlyoffice.png" width="800" /></a> </div>
 <div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
+<h3 id="Penpot"> PENTOP </h3>
+
+>Links: <div><a href="https://penpot.app"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/penpot/penpot"><img src="/images/git_hub-logo.png" height="72"/></div>
+
+Penpot is the first open-source design and prototyping tool meant for Product teams.
+<div align="center"> <img src="/images/penpot.jpg" width="800" /></a> </div>
+<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<br><br>
+<h3 id="standard-notes"> STANDARDNOTES </h3>
+
+>Links: <div><a href="https://standardnotes.com"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/standardnotes/app"><img src="/images/git_hub-logo.png" height="72"/></div>
+
+Standard Notes helps you gain control in a world that often feels out of control. Protect your life's work with end-to-end encryption, advanced security, and unmatched privacy controls.
+- App:End-to-end encrypted notes app
+- Server ecosystem for Standard Notes; fully self-hostable
+<div align="center"> <img src="/images/standard-notes.png" width="800" /></a> </div>
+<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<br><br>
 <h3 id="tag-spaces"> TAGSPACES </h3>
 
 >Links: <div><a href="https://www.tagspaces.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/tagspaces/tagspaces"><img src="/images/git_hub-logo.png" height="72"/></a></div>
@@ -742,30 +803,6 @@ Cross-platform file tagging
 
 Organize your documents, photos, e-books, music, recipes or invoices in the same way on almost every platform. We currently support Windows, macOS, Linux and Android. With the help of tags, you can do research better or you can manage projects using the GTD methodology or you can organize your tasks in Kanban boards. The application can persists the tags in the file names and as a consequence, the tagging information is not vendor locked. The absence of a database, makes syncing of the tag meta information easy across different devices with services like Dropbox, Google Drive or Nextcloud. TagSpaces features basic file management operations, so it can be used as tag-based file manager.
 <div align="center"> <img src="/images/tagspaces.png" width="800" /></a> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
-<br><br>
-<h3 id="baserow"> BASEROW </h3>
-
->Links: <div><a href="https://baserow.io"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://gitlab.com/baserow/baserow"><img src="/images/git_share.png" height="72"/></a><a href="https://github.com/bram2w/baserow"><img src="/images/git_hub-logo.png" height="72"/></a></div>
-
-Baserow organizes all your data into tables that are easy to create, collaborate on and look through. When there’s one database for all workflows running in your company, everyone knows exactly where to look for what.
-
-Open source no-code database and Airtable alternative
-
-Create your own online database without technical experience. Our user-friendly no-code tool gives you the powers of a developer without leaving your browser.
-
-Self-hosted: Host your own instance on-premise or in the cloud
-<div align="center"> <img src="/images/baserow.png" width="800" /></a> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
-<br><br>
-<h3 id="firefly-iii"> FIREFLY III </h3>
-
->Links: <div><a href="https://www.firefly-iii.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/firefly-iii"><img src="/images/git_hub-logo.png" height="72"/></div>
-
-Financial manager. It can help you keep track of expenses, income, budgets and everything in between. It even supports credit cards, shared household accounts and savings accounts! It’s pretty fancy. You should use it to save and organize money.
-
-Personal financial management is pretty difficult, and everybody has their own approach to it. Some people make budgets, other people limit their cashflow by throwing away their credit cards, others try to increase their current cashflow. There are tons of ways to save and earn money.
-<div align="center"> <img src="/images/fireflyiii.png" width="800" /></a> </div>
 <div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h3 id="turtl"> TURTL </h3>
@@ -782,52 +819,6 @@ Want more control of your data? Install your own Turtl server at home or at work
 <div align="center"> <img src="/images/turtl-desktop-application.png" width="800" /></a> </div>
 <div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
-<h3 id="standard-notes"> STANDARDNOTES </h3>
-
->Links: <div><a href="https://standardnotes.com"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/standardnotes/app"><img src="/images/git_hub-logo.png" height="72"/></div>
-
-Standard Notes helps you gain control in a world that often feels out of control. Protect your life's work with end-to-end encryption, advanced security, and unmatched privacy controls.
-- App:End-to-end encrypted notes app
-- Server ecosystem for Standard Notes; fully self-hostable
-<div align="center"> <img src="/images/standard-notes.png" width="800" /></a> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
-<br><br>
-<h3 id="notesnook"> NOTESNOOK </h3>
-
->Links: <div><a href="https://notesnook.com"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/streetwriters/notesnook"><img src="/images/git_hub-logo.png" height="72"/></div>
-
-Open source zero knowledge private note taking. Write notes with freedom, no spying, no tracking.
-
-An end-to-end encrypted note taking alternative to Evernote
-<div align="center"> <img src="/images/notesnook.png" width="800" /></a> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
-<br><br>
-<h3 id="xournalpp"> XOURNAL++ </h3>
-
->Links: <div><a href="https://xournalpp.github.io"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/xournalpp/xournalpp"><img src="/images/git_hub-logo.png" height="72"/></div>
-
-Xournal++ is a hand note taking software written in C++ with the target of flexibility, functionality and speed.
-<div align="center"> <img src="/images/xournalpp.png" width="800" /></a> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
-<br><br>
-<h3 id="bookstack"> BOOKSTACK </h3>
-
->Links: <div><a href="https://www.bookstackapp.com"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/BookStackApp/BookStack"><img src="/images/git_hub-logo.png" height="72"/></div>
-
-BookStack is a simple, self-hosted, easy-to-use platform for organizing and storing information.
-
-Documentation/wiki software aimed for a simple, self-hosted, and easy-to-use platform. Based on Laravel, a PHP framework, BookStack is released under the MIT License. It uses the ideas of books to organise pages and store information
-<div align="center"> <img src="/images/bookstack.png" width="800" /></a> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
-<br><br>
-<h3 id="Penpot"> PENTOP </h3>
-
->Links: <div><a href="https://penpot.app"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/penpot/penpot"><img src="/images/git_hub-logo.png" height="72"/></div>
-
-Penpot is the first open-source design and prototyping tool meant for Product teams.
-<div align="center"> <img src="/images/penpot.jpg" width="800" /></a> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
-<br><br>
 <h3 id="wallabag"> WALLABAG </h3>
 
 >Links: <div><a href="https://wallabag.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/wallabag/wallabag"><img src="/images/git_hub-logo.png" height="72"/></div>
@@ -838,6 +829,14 @@ wallabag is a self hostable application for saving web pages: Save and classify 
 - If you're a developer and you want to connect your application to wallabag, we offer you an API.
 - You can use wallabag on your computer, thanks to our web application. But you can also take wallabag everywhere. For example, it's possible to save an article on your laptop at work, start to read it on your smartphone in the subway and finish reading it on your ereader in your bed.
 <div align="center"> <img src="/images/wallabag.png" width="800" /></a> </div>
+<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<br><br>
+<h3 id="xournalpp"> XOURNAL++ </h3>
+
+>Links: <div><a href="https://xournalpp.github.io"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/xournalpp/xournalpp"><img src="/images/git_hub-logo.png" height="72"/></div>
+
+Xournal++ is a hand note taking software written in C++ with the target of flexibility, functionality and speed.
+<div align="center"> <img src="/images/xournalpp.png" width="800" /></a> </div>
 <div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h2 id="oss-operating-systems" align="center">OPERATING SYSTEMS (OSS)</h2>
