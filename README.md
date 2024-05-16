@@ -675,22 +675,6 @@ An OS for running a server in your home. Self-host open source apps like Nextclo
 <br><br>
 <h2 id="nas" align="center">NAS</h2>
 <br><br>
-<h3 id="true-nas"> TRUENAS </h3>
-
->Links: <div><a href="https://www.truenas.com"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/truenas"><img src="/images/git_hub-logo.png" height="72"/></div>
-
-(formerly FreeNAS) is a free NAS (Network-Attached Storage) server, supporting: CIFS (samba), FTP, NFS, AFP, RSYNC, iSCSI protocols, S.M.A.R.T., local user authentication, Software RAID (0,1,5) with a Full WEB configuration interface.
-
-- File Sharing: TrueNAS allows you to create and manage network file shares using popular protocols like SMB/CIFS (for Windows), NFS (for Unix-like systems), and AFP (for macOS). These file shares can be accessed by multiple clients on the network simultaneously.
-- Storage Management: TrueNAS provides a user-friendly web interface for managing various storage configurations, including disk pools (ZFS pools), RAID arrays, disk encryption, snapshots, and replication.
-- Data Protection: TrueNAS leverages the robust ZFS file system, which offers features like data integrity, snapshots, and replication for backup and recovery purposes.
-- Virtualization: TrueNAS includes support for running virtual machines (VMs) using bhyve (FreeBSD's hypervisor) or integrating with other virtualization solutions like Kubernetes and Docker.
-- Cloud Integration: TrueNAS can integrate with various cloud storage services, such as Amazon S3, Microsoft Azure, and Google Cloud, enabling cloud backup, replication, and data transfer
-- Plugins and Jails: TrueNAS supports plugins and FreeBSD jails, which allow users to install and run additional software or services on the NAS system, such as media servers, web servers, or backup tools.
-- High Availability: TrueNAS can be configured for high availability setups, ensuring data redundancy and minimizing downtime in case of hardware failures.
-<div align="center"> <img src="/images/true-nas.png" width="800" /></a> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
-<br><br>
 <h3 id="openmediavault"> OPENMEDIAVAULT </h3>
 
 >Links: <div><a href="https://www.openmediavault.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/openmediavault"><img src="/images/git_hub-logo.png" height="72"/></div>
@@ -708,6 +692,22 @@ OpenMediaVault (OMV) is an open-source network-attached storage (NAS) solution b
 - Docker and Virtual Machine Support: OMV can be extended to run Docker containers and virtual machines, enabling you to host additional services or applications on your NAS server.
 - Self-Hosting: OpenMediaVault is a self-hosted solution, meaning you can install and run it on your own hardware, providing you with complete control over your data and configuration.
 <div align="center"> <img src="/images/openmediavault.png" width="800" /></a> </div>
+<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<br><br>
+<h3 id="true-nas"> TRUENAS </h3>
+
+>Links: <div><a href="https://www.truenas.com"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/truenas"><img src="/images/git_hub-logo.png" height="72"/></div>
+
+(formerly FreeNAS) is a free NAS (Network-Attached Storage) server, supporting: CIFS (samba), FTP, NFS, AFP, RSYNC, iSCSI protocols, S.M.A.R.T., local user authentication, Software RAID (0,1,5) with a Full WEB configuration interface.
+
+- File Sharing: TrueNAS allows you to create and manage network file shares using popular protocols like SMB/CIFS (for Windows), NFS (for Unix-like systems), and AFP (for macOS). These file shares can be accessed by multiple clients on the network simultaneously.
+- Storage Management: TrueNAS provides a user-friendly web interface for managing various storage configurations, including disk pools (ZFS pools), RAID arrays, disk encryption, snapshots, and replication.
+- Data Protection: TrueNAS leverages the robust ZFS file system, which offers features like data integrity, snapshots, and replication for backup and recovery purposes.
+- Virtualization: TrueNAS includes support for running virtual machines (VMs) using bhyve (FreeBSD's hypervisor) or integrating with other virtualization solutions like Kubernetes and Docker.
+- Cloud Integration: TrueNAS can integrate with various cloud storage services, such as Amazon S3, Microsoft Azure, and Google Cloud, enabling cloud backup, replication, and data transfer
+- Plugins and Jails: TrueNAS supports plugins and FreeBSD jails, which allow users to install and run additional software or services on the NAS system, such as media servers, web servers, or backup tools.
+- High Availability: TrueNAS can be configured for high availability setups, ensuring data redundancy and minimizing downtime in case of hardware failures.
+<div align="center"> <img src="/images/true-nas.png" width="800" /></a> </div>
 <div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h2 id="productivity-office" align="center">OFFICE - PRODUCTIVITY</h2>
