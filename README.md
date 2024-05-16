@@ -62,9 +62,12 @@ Finally, the aim of this collection is not to catalog every single open-source a
         - [Zulip](#zulip)<p id="unused"></p><br>
     - [Dashboards](#dashboards)<p id="unused"></p>
         - [Dashy](#dashy)<p id="unused"></p>
-        - [Heimdall](#heimdall)<p id="unused"></p>
+        - [Heimdall](#heimdall)<p id="filezharing"></p>
         - [Homarr](#homarr)<p id="home-serverr"></p>
         - [homepage](#homepage)<p id="unused"></p><br>
+    - [File Sharing - P2P](#filesharing-p2p2)<p id="unused"></p>
+        - [ShareDrop](#sharedrop)<p id="unused"></p>
+        - [Snapdrop](#snapdrop)<p id="unused"></p><br>
     - [Home Server - Personal Cloud](#homeserver-personalcloud)<p id="unused"></p>
         - [CasaOS](#casa-os)<p id="mediaa-mngmnt"></p>
         - [Umbrel](#umbrel)<p id="unused"></p><br>
@@ -859,6 +862,34 @@ Homepage It's a self-hosted customizable dashboard application designed for pers
 <div align="center"> <img src="/images/homepage_.png" width="800" /></a> </div>
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#dashh"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
+<h2 id="filesharing-p2p2" align="center">███FILE SHARING - P2P███</h2>
+<br><br>
+<h3 id="sharedrop"> SHAREDROP </h3>
+
+>Links: <div><a href="https://www.sharedrop.io"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/szimek/sharedrop"><img src="/images/git_hub-logo.png" height="72"/></div>
+
+ShareDrop is a web application inspired by Apple AirDrop service. It allows you to transfer files directly between devices, without having to upload them to any server first. It uses WebRTC for secure peer-to-peer file transfer and Firebase for presence management and WebRTC signaling.
+
+ShareDrop allows you to send files to other devices in the same local network (i.e. devices with the same public IP address) without any configuration - simply open https://www.sharedrop.io on all devices and they will see each other. It also allows you to send files between networks - just click the + button in the top right corner of the page to create a room with a unique URL and share this URL with other people you want to send a file to. Once they open this page in a browser on their devices, you'll see each other's avatars.
+
+The main difference between ShareDrop and AirDrop is that ShareDrop requires Internet connection to discover other devices, while AirDrop doesn't need one, as it creates ad-hoc wireless network between them. On the other hand, ShareDrop allows you to share files between mobile (Android and iOS) and desktop devices and even between networks.
+<div align="center"> <img src="/images/sharedrop.png" width="800" /></a> </div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#filezharing"><img src="/images/back-to-current.png" width="120" /></div>
+<br><br>
+<h3 id="snapdrop"> SNAPDROP </h3>
+
+>Links: <div><a href="https://snapdrop.net"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/RobinLinus/snapdrop"><img src="/images/git_hub-logo.png" height="72"/></div>
+
+ Local file sharing in your browser. Inspired by Apple's Airdrop.
+
+Snapdrop is built with the following awesome technologies:
+- Vanilla HTML5 / ES6 / CSS3 frontend
+- WebRTC / WebSockets
+- NodeJS backend
+- Progressive Web App
+<div align="center"> <img src="/images/snapdrop.png" width="800" /></a> </div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#filezharing"><img src="/images/back-to-current.png" width="120" /></div>
+<br><br>    
 <h2 id="homeserver-personalcloud" align="center">███HOME SERVER - PERSONAL CLOUD███</h2>
 <br><br>
 <h3 id="casa-os"> CASAOS </h3>
