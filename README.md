@@ -16,6 +16,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
 
 ## Table of contents
 - [Credits - Licenses](#credits-licenses)
+    - [Open Source Initiative](#open-source-initiative)
 - [Software](#software)
     - [Admin(app, network, sys, web) - CMS - IT - Networking](#admin-it-networking)
         - [Flarum](#flarum)
@@ -100,6 +101,9 @@ Finally, the aim of this collection is not to catalog every single open-source a
 <br><br>
 --------------------
 <h2 id="credits-licenses" align="center">CREDITS - LICENSES</h2>
+<br><br>
+<h3 id="open-source-initiative"> OPEN SOURCE INITIATIVE </h3>
+
 <br><br>
 <h2 id="software" align="center">SOFTWARE</h2>
 <br><br>
