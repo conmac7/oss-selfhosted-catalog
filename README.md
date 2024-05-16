@@ -605,7 +605,7 @@ A six-month release cycle is maintained with bug fix and security releases being
 <div align="center"> <img src="/images/suitecrm.png" width="800" /></a> </div>
 <div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br><br>
-<h2 id="socials" align="center">SOCIAL NETWORKING - CHATTING - SELF-HOSTED MEDIA PLATFORMS - YOUTUBE/DAILYMOTION ALTERNATIVES</h2>
+<h2 id="socials" align="center">CHATTING - SELF-HOSTED MEDIA PLATFORMS - SOCIAL NETWORKING - DAILYMOTION/YOUTUBE ALTERNATIVES</h2>
 <br><br>
 <h3 id="mastodon"> MASTODON </h3>
 
