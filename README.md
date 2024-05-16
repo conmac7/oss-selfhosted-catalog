@@ -29,10 +29,10 @@ Finally, the aim of this collection is not to catalog every single open-source a
         - [OPNsense](#opnsense)
         - [pfSense](#pfSense)
         - [phpMyAdmin](#php-my-admin)
-        - [RustDesk](#rustdesk)
+        - [RustDesk](#rustdesk)<p id="socialss"></p>
         - [Webmin](#webmin)
         - [Zabbix](#zabbix)
-    - [Chatting - Self-hosted Media Platforms - Social Networking - Dailymotion/Youtube Alternatives](#socials) <p id="socialss"></p>
+    - [Chatting - Self-hosted Media Platforms - Social Networking - Dailymotion/Youtube Alternatives](#socials)
         - [Diaspora](#diaspora)
         - [friendica](#friendica)
         - [Funkwhale](#funkwhale)
