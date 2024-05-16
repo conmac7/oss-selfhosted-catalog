@@ -1198,7 +1198,7 @@ Our first prototype relies on open APIs and focuses on photos as its first media
 
 It will go beyond simple search to aggregate results from across the hundreds of public repositories into a single ledger, and also facilitate the use and re-use through tools like curated lists, saved searches, one- or no-click attribution, and provenance.
 <div align="center"> <img src="/images/openverse.png" width="800" /> </div>
-<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#searchh"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
 <h3 id="yacy"> YACY </h3>
 
@@ -1218,7 +1218,7 @@ It is fully decentralized, all users of the search engine network are equal, the
 Compared to semi-distributed search engines, the YaCy-network has a distributed architecture. All YaCy-peers are equal and no central server exists. It can be run either in a crawling mode or as a local proxy server, indexing web pages visited by the person running YaCy on their computer.
 <div align="center"> <img src="/images/yacy1.png" width="800" /> </div>
 <div align="center"> <img src="/images/yacy2.png" width="800" /> </div>
-<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#searchh"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
 <h2 id="virtualization" align="center">███VIRTUALIZATION███</h2>
 <br><br>
