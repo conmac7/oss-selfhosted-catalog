@@ -713,8 +713,8 @@ An OS for running a server in your home. Self-host open source apps like Nextclo
 <h3 id="librephotos"> LIBREPHOTOS </h3>
 
 >Links: <div><a href="https://demo2.librephotos.com/login"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/LibrePhotos"><img src="/images/git_hub-logo.png" height="72"/></div>
-<sup>username:demo</sup><br>
-<sup>password:demo1234</sup>
+<sup>uname: demo</sup><br>
+<sup>pass: demo1234</sup>
 
 
 
