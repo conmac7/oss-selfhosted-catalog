@@ -100,7 +100,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
 - [Useful Links](#useful-links)
 <br><br>
 --------------------
-<h2 id="credits-licenses" align="center">▬▬▬CREDITS - LICENSES───</h2>
+<h2 id="credits-licenses" align="center">►►►CREDITS - LICENSES───</h2>
 <p id="license"></p>
 <br><br>
 <h3 id="open-source-initiative"> OPEN SOURCE INITIATIVE (LOGO) </h3>
