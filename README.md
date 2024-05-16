@@ -918,7 +918,7 @@ It also mitigates UDP-based amplification attacks by requiring a question to be 
 
 Anonymized DNSCrypt is a protocol extension proposed in 2019 to further improve DNS privacy
 <div align="center"> <img src="/images/dnscrypt.png" width="800" /> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="80" /></div>
 <br><br>
 <h3 id="kodachi"> KODACHI (LINUX DISTRO) </h3>
 
