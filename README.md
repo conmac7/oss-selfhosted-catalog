@@ -20,7 +20,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
     - [Open Source Initiative (Logo)](#open-source-initiative)<p id="adminn"></p><br>
 - [Software](#software)<p id="unused"></p>
     - [Admin(app, network, sys, web) - CMS - IT - Networking](#admin-it-networking)<p id="unused"></p>
-        - [Fastfetch](#fastfetch) (The King is Dead, long live the King)<p id="unused"></p>
+        - [Fastfetch](#fastfetch) <sup>(The King is Dead, long live the King)</sup><p id="unused"></p>
         - [Flarum](#flarum)<p id="unused"></p>
         - [Freedombox](#freedombox)<p id="unused"></p>
         - [Glances](#glances)<p id="unused"></p>
