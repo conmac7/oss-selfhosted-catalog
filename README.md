@@ -130,7 +130,7 @@ It is the combined successor of esoTalk and FluxBB. It aims to be:
 - Beautiful and responsive. This is forum software for humans. Flarum is carefully designed to be consistent and intuitive across platforms, out-of-the-box. It’s backed by LESS, so themeing is a cinch.
 - Powerful and extensible. Customize, extend, and integrate Flarum to suit your community. Flarum’s architecture is amazingly flexible, prioritizing comprehensive APIs and great documentation.
 <div align="center"> <img src="/images/flarum.png" width="800" /></a> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h3 id="Freedombox"> FREEDOMBOX </h3>
 
