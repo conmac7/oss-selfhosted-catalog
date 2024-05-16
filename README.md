@@ -37,6 +37,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
     - [Chatting - Self-hosted Media Platforms - Social Networking - Dailymotion/Youtube Alternatives](#socials)
         - [Diaspora](#diaspora)<p id="unused"></p>
         - [Discuit](#discuit)<p id="unused"></p>
+        - [D.Tube](#d-tube)<p id="unused"></p>
         - [friendica](#friendica)<p id="unused"></p>
         - [Funkwhale](#funkwhale)<p id="unused"></p>
         - [Jitsi Meet](#jitsi-meet)<p id="unused"></p>
@@ -413,6 +414,14 @@ A free and open-source community discussion platform.
 <div align="center"> <img src="/images/discuit.png" width="800" /></a> </div>
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#socialss"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
+<h3 id="d-tube"> D.TUBE </h3>
+
+>Links: <div><a href="https://d.tube"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/dtube/dtube"><img src="/images/git_hub-logo.png" height="72"/></a></div>
+
+A full-featured video sharing website, decentralized.
+<div align="center"> <img src="/images/dtube.png" width="800" /></a> </div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#socialss"><img src="/images/back-to-current.png" width="120" /></div>
+<br><br>    
 <h3 id="friendica"> FRIENDICA </h3>
 
 >Links: <div><a href="https://friendi.ca"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://venera.social/network"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/friendica/friendica"><img src="/images/git_hub-logo.png" height="72"/></a></div>
