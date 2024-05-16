@@ -53,22 +53,22 @@ Finally, the aim of this collection is not to catalog every single open-source a
         - [Zulip](#zulip)
     - [Dashboards](#dashboards)
         - [Dashy](#dashy)
-        - [Heimdall](#heimdall)
+        - [Heimdall](#heimdall)<p id="home-serverr"></p>
         - [Homarr](#homarr)
         - [homepage](#homepage)
-    - [Home Server - Personal Cloud](#homeserver-personalcloud) <p id="home-serverr"></p>
+    - [Home Server - Personal Cloud](#homeserver-personalcloud)<p id="mediaa-mngmnt"></p>
         - [CasaOS](#casa-os)
         - [Umbrel](#umbrel)
-    - [Media Management (Audiobooks - Ebooks/PDF - Documents - Movies - Music - Podcasts - Photos - TV Shows - Videos)](#media-management) <p id="mediaa-mngmnt"></p>
+    - [Media Management (Audiobooks - Ebooks/PDF - Documents - Movies - Music - Podcasts - Photos - TV Shows - Videos)](#media-management)
         - [digiKam](#digikam) 
         - [Immich](#immich)
-        - [Jellyfin](#jellyfin)
+        - [Jellyfin](#jellyfin)<p id="nasss"></p>
         - [LibrePhotos](#librephotos)
         - [PhotoPrism](#photoprism)
-    - [NAS](#nas) <p id="nasss"></p>
+    - [NAS](#nas)<p id="office"></p>
         - [openmediavault](#openmediavault)
         - [TrueNas](#true-nas)
-    - [Office - Productivity](#productivity-office) <p id="office"></p>
+    - [Office - Productivity](#productivity-office)
         - [Baserow](#baserow)
         - [Bookstack](#bookstack)
         - [Firefly III](#firefly-iii)
@@ -77,16 +77,16 @@ Finally, the aim of this collection is not to catalog every single open-source a
         - [Penpot](#penpot)
         - [Standard Notes](#standard-notes)
         - [TagSpaces](#tag-spaces)
-        - [Turtl](#turtl)
+        - [Turtl](#turtl)<p id="ossopsys"></p>
         - [Wallabag](#wallabag)
         - [Xournal++](#xournalpp)
-    - [Operating Systems (OSS)](#oss-operating-systems) <p id="ossopsys"></p>
+    - [Operating Systems (OSS)](#oss-operating-systems)
       - [Haiku](#Haiku)
       - [illumos](#illumos)
-      - [KolibriOS](#kolibri-os)
+      - [KolibriOS](#kolibri-os)<p id="privacyy"></p>
       - [OpenIndiana](#open-indiana)
       - [SerenityOS](#serenity-os)
-    - [Privacy - Security](#privacy-security) <p id="privacyy"></p>
+    - [Privacy - Security](#privacy-security)
       - [Addy (FKA AnonAddy)](#addy)
       - [Bitwarden](#bitwarden)
       - [DNSCrypt](#dns-crypt)
@@ -94,17 +94,17 @@ Finally, the aim of this collection is not to catalog every single open-source a
       - [Kodachi (Linux Distro)](#kodachi)
       - [OpenVPN](#open-vpn)
       - [Portmaster](#portmaster)
-      - [SoftEther VPN](#softether-vpn)
+      - [SoftEther VPN](#softether-vpn)<p id="searchh"></p>
       - [vaultwarden](#vaultwarden)
       - [WireGuard](#wire-guard)
-    - [Search Engines](#search-engines) <p id="searchh"></p>
+    - [Search Engines](#search-engines)<p id="virtualizatione"></p>
       - [Openverse](#openverse)
       - [YaCy](#yacy)
-    - [Virtualization](#virtualization) <p id="virtualizatione"></p>
-      - [Proxmox Virtual Environment](#proxmox)
+    - [Virtualization](#virtualization)
+      - [Proxmox Virtual Environment](#proxmox)<p id="linkz"></p>
       - [SmartOS](#smart-os)
       - [Xen Project](#xen-project)
-    - [Useful Links](#useful-links) <p id="linkz"></p>
+    - [Useful Links](#useful-links) 
       - [ipleak.net](#ipleak-net)
       - [ping.eu](#ping-eu)
 <br><br>
