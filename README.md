@@ -64,10 +64,12 @@ Finally, the aim of this collection is not to catalog every single open-source a
         - [CasaOS](#casa-os)<p id="mediaa-mngmnt"></p>
         - [Umbrel](#umbrel)<p id="unused"></p><br>
     - [Media Management (Audiobooks - Ebooks/PDF - Documents - Movies - Music - Podcasts - Photos - TV Shows - Videos)](#media-management)<p id="unused"></p>
+        - [Docspell](#docspell)<p id="unused"></p>
         - [digiKam](#digikam)<p id="unused"></p>
         - [Immich](#immich)<p id="unused"></p>
         - [Jellyfin](#jellyfin)<p id="unused"></p>
         - [LibrePhotos](#librephotos)<p id="nasss"></p>
+        - [Mayan EDMS](#mayan-edms)<p id="unused"></p>
         - [PhotoPrism](#photoprism)<p id="unused"></p><br>
     - [NAS](#nas)<p id="unused"></p>
         - [openmediavault](#openmediavault)<p id="officeee"></p>
@@ -819,6 +821,21 @@ An OS for running a server in your home. Self-host open source apps like Nextclo
 <br><br>
 <h3 id="digikam"> DIGIKAM </h3>
 
+>Links: <div><a href="https://docspell.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/eikek/docspell"><img src="/images/git_hub-logo.png" height="72"/></div>
+
+Assist in organizing your piles of documents, resulting from scanners, e-mails and other sources with miminal effort.
+
+Docspell is a personal document organizer. Or sometimes called a "Document Management System" (DMS). You'll need a scanner to convert your papers into files. Docspell can then assist in organizing the resulting mess 😉. It can unify your files from scanners, emails and other sources. It is targeted for home use, i.e. families, households and also for smaller groups/companies.
+
+You can associate tags, set correspondends and lots of other predefined and custom metadata. If your documents are associated with such meta data, you can quickly find them later using the search feature. But adding this manually is a tedious task. Docspell can help by suggesting correspondents, guessing tags or finding dates using machine learning. It can learn metadata from existing documents and find things using NLP. This makes adding metadata to your documents a lot easier. For machine learning, it relies on the free (GPL) Stanford Core NLP library.
+
+Docspell also runs OCR (if needed) on your documents, can provide fulltext search and has great e-mail integration. Everything is accessible via a REST/HTTP api. A mobile friendly SPA web application is the default user interface. An Android app exists for conveniently uploading files from your phone/tablet and a cli. The feature overview lists some more points.
+<div align="center"> <img src="/images/docspell.png" width="800" /></a> </div>
+<div align="center"> <img src="/images/docspell2.png" width="800" /></a> </div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#mediaa-mngmnt"><img src="/images/back-to-current.png" width="120" /></div>
+<br><br>    
+<h3 id="digikam"> DIGIKAM </h3>
+
 >Links: <div><a href="https://www.digikam.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/KDE/digikam"><img src="/images/git_hub-logo.png" height="72"/></div>
 
 digiKam is an advanced open-source digital photo management application that runs on Linux, Windows, and macOS. The application provides a comprehensive set of tools for importing, managing, editing, and sharing photos and raw files.
@@ -895,6 +912,20 @@ Unlike commercial service that store your photos in the cloud and scan/index the
 <div align="center"> <img src="/images/librephotos.png" width="800" /></a> </div>
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#mediaa-mngmnt"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
+<h3 id="mayan-edms"> MAYAN EDMS </h3>
+
+>Links: <div><a href="https://www.mayan-edms.com"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/mayan-edms/Mayan-EDMS"><img src="/images/git_hub-logo.png" height="72"/></div>
+
+Mayan EDMS is a document management system. Its main purpose is to store, introspect, and categorize files, with a strong emphasis on preserving the contextual and business information of documents. It can also OCR, preview, label, sign, send, and receive thoses files. Other features of interest are its workflow system, role based access control, and REST API.
+
+- Find what you need with advanced search, tagging and categorization capabilities.
+- Automate you business processes with workflows.
+- Secure your documents with the role based access control.
+- Web based, cross platform, free open source.
+- Ontegrates with your existing hardware for no initial investment and low total cost of ownership.
+<div align="center"> <img src="/images/mayan-edms.jpg" width="800" /></a> </div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#mediaa-mngmnt"><img src="/images/back-to-current.png" width="120" /></div>
+<br><br>c 
 <h3 id="photoprism"> PHOTOPRRISM </h3>
 
 >Links: <div><a href="https://www.photoprism.app"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/photoprism"><img src="/images/git_hub-logo.png" height="72"/></div>
