@@ -76,7 +76,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
   - [KolibriOS](#kolibri-os)
   - [OpenIndiana](#open-indiana)
   - [SerenityOS](#serenity-os)
-- [Privacy - Security)](#privacy-security)
+- [Privacy - Security](#privacy-security)
   - [Kodachi (Linux Distro)](#kodachi)
 - [Virtualization](#virtualization)
   - [Proxmox Virtual Environment](#proxmox)
