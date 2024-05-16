@@ -1074,7 +1074,7 @@ Open-source anonymous email forwarding, create unlimited email aliases for free.
 - Reply to forwarded emails anonymously without revealing your true email address
 You can always just fire up your own server and self-host this application. You'll need to know about server administration and PHP. You can find more information here https://github.com/anonaddy/anonaddy#self-hosting
 <div align="center"> <img src="/images/anonaddy.png" width="800" /> </div>
-<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#privacyy"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
 <h3 id="Bitwarden"> BITWARDEN </h3>
 
@@ -1086,10 +1086,8 @@ The platform offers a variety of client applications including a web interface, 
 
 Bitwarden offers a free cloud-hosted service as well as the ability to self-host
 <div align="center"> <img src="/images/Bitwarden.png" width="800" /> </div>
-<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#privacyy"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
-
-
 <h3 id="dns-crypt"> DNSCRYPT </h3>
 
 >Links: <div><a href="https://dnscrypt.info/"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/dnscrypt"><img src="/images/git_hub-logo.png" height="72" /></a></div>
@@ -1100,7 +1098,7 @@ It also mitigates UDP-based amplification attacks by requiring a question to be 
 
 Anonymized DNSCrypt is a protocol extension proposed in 2019 to further improve DNS privacy
 <div align="center"> <img src="/images/dnsproxyclient.png" width="480" /> </div>
-<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#privacyy"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
 <h3 id="ipfs"> IPFS (INTERPLANETARY FILESYSTEM) </h3>
 
@@ -1115,7 +1113,7 @@ It offers two approaches:
 - content-addressing (ipfs://)
 - uploader-addressing (ipns://) allowing for mutable sites.
 <div align="center"> <img src="/images/ipfs.jpg" width="480" /> </div>
-<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#privacyy"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
 <h3 id="kodachi"> KODACHI (LINUX DISTRO) </h3>
 
@@ -1131,7 +1129,7 @@ All connections to the Internet are forced to go through the VPN then Tor networ
 
 Leave no trace on the computer you are using unless you ask it explicitly.
 <div align="center"> <img src="/images/kodachi.png" width="800" /> </div>
-<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#privacyy"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
 <h3 id="open-vpn"> OPENVPN </h3>
 
@@ -1143,7 +1141,7 @@ OpenVPN allows peers to authenticate each other using pre-shared secret keys, ce
 
 It uses the OpenSSL encryption library extensively, as well as the TLS protocol, and contains many security and control features. It uses a custom security protocol that utilizes SSL/TLS for key exchange. It is capable of traversing network address translators (NATs) and firewalls
 <div align="center"> <img src="/images/openvpn.jpg" width="512" /> </div>
-<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#privacyy"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
 <h3 id="portmaster"> PORTMASTER </h3>
 
@@ -1156,7 +1154,7 @@ With Portmaster's great defaults your privacy improves without any effort. And i
 - Secure Your DNS by Default
 - Set Global & per‑App Settings
 <div align="center"> <img src="/images/portmaster.png" width="800" /> </div>
-<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#privacyy"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
 <h3 id="softether-vpn"> SOFTETHER VPN </h3>
 
@@ -1164,7 +1162,7 @@ With Portmaster's great defaults your privacy improves without any effort. And i
 
 SoftEther VPN ("SoftEther" means "Software Ethernet") is one of the world's most powerful and easy-to-use multi-protocol VPN software. It runs on Windows, Linux, Mac, FreeBSD and Solaris.
 <div align="center"> <img src="/images/SOFTETHERVPN.jpg" width="640" /> </div>
-<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#privacyy"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
 <h3 id="vaultwarden"> VAULTWARDEN </h3>
 
@@ -1172,7 +1170,7 @@ SoftEther VPN ("SoftEther" means "Software Ethernet") is one of the world's most
 
 Unofficial Bitwarden® compatible server ( See [Bitwarden](#bitwarden) )
 <div align="center"> <img src="/images/vaultwarden.jpg" width="800" /> </div>
-<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#privacyy"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
 <h3 id="wire-guard"> WIREGUARD </h3>
 
@@ -1182,7 +1180,7 @@ WireGuard® is an extremely simple yet fast and modern VPN that utilizes state-o
 
 Designed with the goals of ease of use, high speed performance, and low attack surface. It aims for better performance and more power than IPsec and OpenVPN, two common tunneling protocols. The WireGuard protocol passes traffic over UDP
 <div align="center"> <img src="/images/wireguards.jpg" width="640" /> </div>
-<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#privacyy"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
 <h2 id="search-engines" align="center">███SEARCH ENGINES███</h2>
 <br><br>
