@@ -58,7 +58,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
         - [OpenProject](#openproject)<p id="unused"></p>
         - [Redmine](#redmine)<p id="unused"></p>
         - [SuiteCRM](#suite-crm)<p id="unused"></p>
-        - [WeKan](#wekan)<p id="dashh"></p>
+        - [WeKan](#wekan)<p id="dashh"></p><p id="webalternativez"></p>
         - [Zulip](#zulip)<p id="unused"></p><br>
     - [Communication protocol - Information System - Internet Protocol - Transfer Protocol -  WEB Alternatives](#web-alts)<p id="unused"></p>
         - [Hyphanet](#hyphanet)<p id="unused"></p>
@@ -73,7 +73,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
         - [OnionShare](#onionshare)<p id="unused"></p>
         - [ShareDrop](#sharedrop)<p id="unused"></p>
         - [Snapdrop](#snapdrop)<p id="unused"></p><br>
-    - [Home Server - Personal Cloud](#homeserver-personalcloud)<p id="webalternativez"></p>
+    - [Home Server - Personal Cloud](#homeserver-personalcloud)<p id="mediaa-mngmnt"></p>
         - [CasaOS](#casa-os)<p id="mediaa-mngmnt"></p>
         - [Umbrel](#umbrel)<p id="unused"></p><br>
     - [Media Management (Audiobooks - Ebooks/PDF - Documents - Movies - Music - Podcasts - Photos - TV Shows - Videos)](#media-management)<p id="unused"></p>
