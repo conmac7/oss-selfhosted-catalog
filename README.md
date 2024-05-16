@@ -65,6 +65,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
         - [Fediverse](#fediverse)<p id="unused"></p>
         - [Hyphanet](#hyphanet)<p id="unused"></p>
         - [IPFS (InterPlanetary File System)](#ipfs)<p id="unused"></p>
+        - [Solid](#solid)<p id="unused"></p>        
         - [WebTorrent](#webtorrent)<p id="unused"></p>
         - [ZeroNet](#zeronet)<p id="unused"></p><br>
     - [Dashboards](#dashboards)<p id="unused"></p>
@@ -853,6 +854,25 @@ It offers two approaches:
 <div align="center"> <img src="/images/ipfs.jpg" width="600" /> </div>
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#webalternativez"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
+<h3 id="solid"> SOLID </h3>
+  
+>Links: <div><a href="https://solidproject.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/solid/"><img src="/images/git_hub-logo.png" height="72"/></a></div>
+
+Solid (Social Linked Data)[1] is a web decentralization project.
+
+The project "aims to radically change the way Web applications work today, resulting in true data ownership as well as improved privacy by developing a platform for linked-data applications that are completely decentralized and fully under users' control rather than controlled by other entities. The ultimate goal of Solid is to allow users to have full control of their own data, including access control and storage location. To that end, Tim Berners-Lee formed a company called Inrupt to help build a commercial ecosystem to fuel Solid.
+
+In more detail, Solid consists of the following components:
+
+- An organized collection of standards and data formats/vocabularies providing the same capabilities that centralized social media services offer, such as identity, authentication, login, permission lists, contact management, messaging, feed subscriptions, comments, discussions, and others.
+- Specifications and design notes describing a REST API to extend existing standards, to guide developers building servers or applications.
+- Servers that implement the Solid specification.
+- A test suite for testing and validating Solid implementations.
+- An ecosystem of social applications, identity providers, and helper libraries that run on the Solid platform.
+- A community providing documentation, discussion, tutorials, and presentations.
+<div align="center"> <img src="/images/solid-pod-tour.svg" width="800" /></a> </div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#webalternativez"><img src="/images/back-to-current.png" width="120" /></div>
+<br><br>c    
 <h3 id="webtorrent"> WEBTORRENT </h3>
   
 >Links: <div><a href="https://webtorrent.io"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/webtorrent/webtorrent"><img src="/images/git_hub-logo.png" height="72"/></a></div>
