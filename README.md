@@ -1046,7 +1046,7 @@ Designed with the goals of ease of use, high speed performance, and low attack s
 <div align="center"> <img src="/images/wireguards.jpg" width="640" /> </div>
 <div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
-<h2 id="search-engines">SEARCH ENGINES</h2>
+<h2 id="search-engines align="center">SEARCH ENGINES</h2>
 <br><br>
 <h3 id="openverse"> OPENVERSE </h3>
 
