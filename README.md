@@ -1,6 +1,6 @@
-<a id="top"></a><h1 align="center"> Open Source & Self-Hosted Catalog </h1>
+<h1 align="center"> Open Source & Self-Hosted Catalog </h1>
 
-<div align="center"> <img src="/images/Open_Source_Initiative.png" width="240" /></div> <div align="center"> <a href="#license"><sup>Credits-License(Logo)</a></sup></div>
+<div align="center"> <img src="/images/Open_Source_Initiative.png" width="240" /></div> <div align="center"> <a href="#licensee"><sup>Credits-License(Logo)</a></sup></div>
 
 This is a curated collection of open-source and self-hosted software programs. This catalog serves as a comprehensive guide, featuring a title, corresponding links(homepage, github, git), a concise description and an image for each listed software. 
 
@@ -102,7 +102,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
 <br><br>
 --------------------
 <h2 id="credits-licenses" align="center">███CREDITS - LICENSES███</h2>
-<p id="license"></p>
+<p id="licensee"></p>
 <br><br>
 <h3 id="open-source-initiative"> OPEN SOURCE INITIATIVE (LOGO) </h3>
 <div> <img src="/images/Open_Source_Initiative.png" height="32" /> <sup>This work is titled 'Open Source Initiative' , created by Colin Viebrock licensed under CC BY 2.5 - https://creativecommons.org/licenses/by/2.5/</sup> </div>
