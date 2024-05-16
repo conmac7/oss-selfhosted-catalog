@@ -63,6 +63,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
     - [Communication protocol - Information System - Internet Protocol - Transfer Protocol -  WEB Alternatives](#web-alts)<p id="unused"></p>
         - [Hyphanet](#hyphanet)<p id="unused"></p>
         - [IPFS (InterPlanetary File System)](#ipfs)<p id="unused"></p>
+        - [WebTorrent](#webtorrent)<p id="unused"></p>
         - [ZeroNet](#zeronet)<p id="unused"></p><br>
     - [Dashboards](#dashboards)<p id="unused"></p>
         - [Dashy](#dashy)<p id="unused"></p>
@@ -832,6 +833,18 @@ It offers two approaches:
 <div align="center"> <img src="/images/ipfs.jpg" width="600" /> </div>
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#webalternativez"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
+<h3 id="webtorrent"> WEBTORRENT </h3>
+  
+>Links: <div><a href="https://webtorrent.io"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/webtorrent/webtorrent"><img src="/images/git_hub-logo.png" height="72"/></a></div>
+
+WebTorrent is a peer-to-peer (P2P) streaming torrent client written in JavaScript
+
+The idea behind WebTorrent is to make a BitTorrent-like protocol that works on the web browser, maintaining as much compatibility with BitTorrent as possible
+
+The WebTorrent Desktop bridges the two networks of WebRTC-based WebTorrent and TCP/UDP-based BitTorrent simultaneously. The BitTorrent client Vuze (formerly Azureus) less gracefully but adequately functionally incorporated WebTorrent adding simultaneous network bridging to their software.
+<div align="center"> <img src="/images/webtorrent.png" width="800" /></a> </div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#webalternativez"><img src="/images/back-to-current.png" width="120" /></div>
+<br><br>    
 <h3 id="zeronet"> ZERONET </h3>
   
 >Links: <div><a href="https://zeronet.io"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/HelloZeroNet/ZeroNet"><img src="/images/git_hub-logo.png" height="72"/></a></div>
