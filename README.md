@@ -37,8 +37,8 @@ Finally, the aim of this collection is not to catalog every single open-source a
         - [friendica](#friendica)<p id="unused"></p>
         - [Funkwhale](#funkwhale)<p id="unused"></p>
         - [Jitsi Meet](#jitsi-meet)<p id="unused"></p>
-        - [mastodon](#mastodon)<p id="colab"></p>
-        - [PeerTube](#peertube)<p id="unused"></p>
+        - [mastodon](#mastodon)<p id="unused"></p>
+        - [PeerTube](#peertube)<p id="colab"></p>
         - [Pleroma](#pleroma)<p id="unused"></p><br>
     - [Collaboration Platforms - CRM - ERP - Project Management](#colab-erp-crm)<p id="unused"></p>
         - [Element](#element)<p id="unused"></p>
@@ -48,8 +48,8 @@ Finally, the aim of this collection is not to catalog every single open-source a
         - [Nextcloud](#nextcloud)<p id="unused"></p>
         - [OpenProject](#openproject)<p id="unused"></p>
         - [Redmine](#redmine)<p id="unused"></p>
-        - [SuiteCRM](#suite-crm)<p id="dashh"></p>
-        - [WeKan](#wekan)<p id="unused"></p>
+        - [SuiteCRM](#suite-crm)<p id="unused"></p>
+        - [WeKan](#wekan)<p id="dashh"></p>
         - [Zulip](#zulip)<p id="unused"></p><br>
     - [Dashboards](#dashboards)<p id="unused"></p>
         - [Dashy](#dashy)<p id="unused"></p>
