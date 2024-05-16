@@ -913,7 +913,7 @@ Heimdall is an open-source dashboard application designed to provide a user-frie
 <div align="center"> <img src="/images/heimdall.png" width="800" /></a> </div>
 <div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
-<h3 id="homarr"> MOMARR </h3>
+<h3 id="homarr"> HOMARR </h3>
 
 >Links: <div><a href="https://homarr.dev"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/ajnart/homarr"><img src="/images/git_hub-logo.png" height="72"/></div>
 
