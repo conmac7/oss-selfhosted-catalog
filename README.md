@@ -281,7 +281,7 @@ A remote desktop software, the open source TeamViewer alternative, works out of 
 <div align="center"> <img src="/images/rustdesk.png" width="800" /></a> </div>
 <div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
-<h2 id="oss-operating-systems" align="center">OSS OPERATING SYSTEMS</h2>
+<h2 id="oss-operating-systems" align="center">OPERATING SYSTEMS (OSS)</h2>
 <br><br>
 <h3 id="serenity-os"> SERENITYOS </h3>
 
