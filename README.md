@@ -35,6 +35,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
         - [Webmin](#webmin)<p id="unused"></p><p id="socialss"></p>
         - [Zabbix](#zabbix)<p id="unused"></p><br>
     - [Chatting - Self-hosted Media Platforms - Social Networking - Dailymotion/Youtube Alternatives](#socials)<p id="unused"></p>
+        - [Bluesky](#bluesky)<p id="unused"></p>
         - [Diaspora](#diaspora)<p id="unused"></p>
         - [Discuit](#discuit)<p id="unused"></p>
         - [D.Tube](#d-tube)<p id="unused"></p>
@@ -394,6 +395,16 @@ Run Zabbix on-premise or in the cloud
 <br><br>
 <h2 id="socials" align="center">███CHATTING - SELF-HOSTED MEDIA PLATFORMS - SOCIAL NETWORKING - DAILYMOTION/YOUTUBE ALTERNATIVES███</h2>
 <br><br>
+<h3 id="bluesky"> BLUESKY </h3>
+
+>Links: <div><a href="https://bsky.social/about/"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://bsky.app"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/bluesky-social"><img src="/images/git_hub-logo.png" height="72"/></a></div>
+
+Bluesky, also known as Bluesky Social, is a decentralized microblogging social platform.
+
+In addition to its website, the service is also accessible via apps for iOS and Android. The service is focused on microblogging, and has been called "Twitter-like"
+<div align="center"> <img src="/images/bluesky.png" width="800" /></a> </div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#socialss"><img src="/images/back-to-current.png" width="120" /></div>
+<br><br>   
 <h3 id="diaspora"> DIASPORA </h3>
 
 >Links: <div><a href="https://diasporafoundation.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/diaspora/diaspora"><img src="/images/git_hub-logo.png" height="72"/></a></div>
