@@ -32,9 +32,9 @@ Finally, the aim of this collection is not to catalog every single open-source a
         - [pfSense](#pfSense)<p id="unused"></p>
         - [phpMyAdmin](#php-my-admin)<p id="unused"></p>
         - [RustDesk](#rustdesk)<p id="unused"></p>
-        - [Webmin](#webmin)<p id="socialss"></p>
+        - [Webmin](#webmin)
         - [Zabbix](#zabbix)<p id="unused"></p><br>
-    - [Chatting - Self-hosted Media Platforms - Social Networking - Dailymotion/Youtube Alternatives](#socials)<p id="unused"></p>
+    - [Chatting - Self-hosted Media Platforms - Social Networking - Dailymotion/Youtube Alternatives](#socials)<p id="unused"></p><p id="socialss"></p>
         - [Diaspora](#diaspora)<p id="unused"></p>
         - [friendica](#friendica)<p id="unused"></p>
         - [Funkwhale](#funkwhale)<p id="unused"></p>
