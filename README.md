@@ -78,7 +78,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
       - [OpenIndiana](#open-indiana)
       - [SerenityOS](#serenity-os)
     - [Privacy - Security](#privacy-security)
-      - [Addy](#addy)
+      - [Addy (FKA Annonaddy)](#addy)
       - [Bitwarden](#bitwarden)
       - [DNSCrypt](#dns-crypt)
       - [IPFS (InterPlanetary File System)](#ipfs)
