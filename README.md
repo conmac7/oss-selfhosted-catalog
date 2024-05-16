@@ -105,8 +105,8 @@ Finally, the aim of this collection is not to catalog every single open-source a
 <h3 id="open-source-initiative"> OPEN SOURCE INITIATIVE (LOGO) </h3>
 <div> <img src="/images/Open_Source_Initiative.png" height="32" /> <sup>This work is titled 'Open Source Initiative' , created by Colin Viebrock licensed under CC BY 2.5 - https://creativecommons.org/licenses/by/2.5/</sup> </div>
 <sup>Colin Viebrock, Public domain, via Wikimedia Commons:<br>
-https://commons.wikimedia.org/wiki/File:Open_Source_Initiative.svg<br>
 https://viebrock.ca<br>
+https://commons.wikimedia.org/wiki/File:Open_Source_Initiative.svg<br>
 https://opensource.org/osi-logo-files<br>
 https://opensource.org</sup>
 <br><br>
