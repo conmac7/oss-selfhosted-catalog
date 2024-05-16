@@ -729,9 +729,18 @@ Netmaker enables you to create relays, gateways, full VPN meshes, and even zero 
 
 >Links: <div><a href="https://www.zabbix.com"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/zabbix/zabbix"><img src="/images/git_hub-logo.png" height="72"/></div>
 
-Zabbix is an open-source software tool to monitor IT infrastructure such as networks, servers, virtual machines, and cloud services. Zabbix collects and displays basic metrics.
+Zabbix is an open-source software application that is used for monitoring various IT components, such as networks, servers, virtual machines, and cloud services. It provides a comprehensive solution for collecting and analyzing data from different sources, allowing administrators to monitor the performance, availability, and overall health of their IT infrastructure.
 
-Zabbix is designed primarily as an IT infrastructure monitoring tool. New features are generally released every six months to major versions and every 1.5 years to LTS versions.
+- Network Monitoring: Zabbix can monitor various network devices, including routers, switches, firewalls, and load balancers. It can collect metrics such as bandwidth usage, interface status, and traffic patterns.
+- Server Monitoring: Zabbix can monitor physical and virtual servers, tracking metrics like CPU usage, memory utilization, disk space, and process status. It supports various operating systems, including Linux, Windows, and Unix-like systems.
+- Application Monitoring: Zabbix can monitor the performance and availability of specific applications and services running on monitored systems, such as web servers, databases, and messaging systems.
+- Cloud Monitoring: Zabbix supports monitoring cloud environments, including public clouds like Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP), as well as private clouds.
+- Alerting and Notifications: Zabbix can generate alerts and notifications based on predefined thresholds or conditions. These alerts can be sent via various channels, such as email, SMS, or instant messaging services, enabling administrators to take prompt action.
+- Data Visualization and Reporting: Zabbix provides a web-based interface for visualizing monitoring data through customizable dashboards, graphs, and reports. This helps administrators quickly identify issues and analyze historical trends.
+- Distributed Monitoring: Zabbix supports a distributed monitoring architecture, allowing administrators to scale the monitoring system by deploying multiple Zabbix servers and proxies to handle large environments.
+- Automation and Scripting: Zabbix offers automation capabilities through its built-in scripting engine, enabling administrators to automate tasks, execute remote commands, and integrate with other systems or tools.
+- Third-Party Integration: Zabbix can integrate with various third-party tools and services, such as configuration management systems, incident management platforms, and collaboration tools, enabling a more comprehensive monitoring and management solution.
+Zabbix is widely used by IT professionals, system administrators, and DevOps teams for monitoring and managing complex IT infrastructures, ensuring high availability, performance, and efficient resource utilization.
 
 Run Zabbix on-premise or in the cloud
 <div align="center"> <img src="/images/zabbix.png" width="800" /></a> </div>
