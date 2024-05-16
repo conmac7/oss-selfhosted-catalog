@@ -42,6 +42,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
         - [mastodon](#mastodon)<p id="unused"></p>
         - [PeerTube](#peertube)<p id="colab"></p>
         - [Pleroma](#pleroma)<p id="unused"></p><br>
+        - [Tox](#tox)<p id="unused"></p>
     - [Collaboration Platforms - CRM - ERP - Project Management](#colab-erp-crm)<p id="unused"></p>
         - [Element](#element)<p id="unused"></p>
         - [ERPNext](#erp-next)<p id="unused"></p>
@@ -476,6 +477,27 @@ Start using Pleroma by joining an existing Pleroma instance or check the install
 <div align="center"> <img src="/images/pleroma.png" width="800" /></a> </div>
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#socialss"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
+<h3 id="tox"> TOX </h3>
+
+>Links: <div><a href="https://tox.chat"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/TokTok/c-toxcore"><img src="/images/git_share.png" height="72"/></a></div>
+
+Tox is a peer to peer (serverless) instant messenger aimed at making security and privacy easy to obtain for regular users. It uses libsodium (based on NaCl) for its encryption and authentication.
+
+Tox is easy-to-use software that connects you with friends and family without anyone else listening in. While other big-name services require you to pay for features, Tox is completely free and comes without advertising
+
+- Instant messaging
+- Voice
+- Video
+- Screen sharing
+- File sharing
+- Groups
+- Encrypted
+Everything you do with Tox is encrypted using open-source libraries. The only people who can see your conversations are the people you're talking with.
+- Distributed
+Tox has no central servers
+<div align="center"> <img src="/images/qtox.png" width="800" /></a> </div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#socialss"><img src="/images/back-to-current.png" width="120" /></div>
+<br><br>    
 <h2 id="colab-erp-crm" align="center">███COLLABORATION PLATFORMS - CRM - ERP - PROJECT MANAGEMENT███</h2>
 <br><br>
 <h3 id="element"> ELEMENT </h3>
