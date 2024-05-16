@@ -15,7 +15,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
 --------------------
 
 ## Table of contents
-- [Admin(app, network, sys, web) - IT - Networking - CMS](#admin-it-networking)
+- [Admin(app, network, sys, web) - CMS - IT - Networking](#admin-it-networking)
     - [Flarum](#flarum)
     - [Freedombox](#freedombox)
     - [Grafana](#grafana)
@@ -28,7 +28,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
     - [RustDesk](#rustdesk)
     - [Webmin](#webmin)
     - [Zabbix](#zabbix)
-- [OSS Operating Systems](#oss-operating-systems)
+- [Operating Systems (OSS)](#oss-operating-systems)
   - [SerenityOS](#serenity-os)
   - [KolibriOS](#kolibri-os)
   - [illumos](#illumos)
@@ -41,7 +41,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
 - [Home Server - Personal Cloud](#homeserver-personalcloud)
     - [Umbrel](#umbrel) 
     - [CasaOS](#casa-os)
-- [Collaboration Platforms - Project Management - ERP - CRM](#colab-erp-crm)
+- [Collaboration Platforms - CRM - ERP - Project Management](#colab-erp-crm)
     - [Zulip](#zulip)
     - [Element](#element)
     - [Nextcloud](#nextcloud)
@@ -52,7 +52,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
     - [Redmine](#redmine)
     - [ERPNext](#erp-next)
     - [SuiteCRM](#suite-crm)
-- [Social Networking - Chatting - Self-hosted Media Platforms - Youtube/Dailymotion Alternatives](#socials)
+- [Chatting - Self-hosted Media Platforms - Social Networking - Dailymotion/Youtube Alternatives](#socials)
     - [mastodon](#mastodon)
     - [Pleroma](#pleroma)
     - [Diaspora](#diaspora)
@@ -60,7 +60,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
     - [PeerTube](#peertube)
     - [Funkwhale](#funkwhale)
     - [Jitsi Meet](#jitsi-meet)
-- [Productivity - Office](#productivity-office)
+- [Office - Productivity](#productivity-office)
     - [ONLYOFFICE](#only-office)
     - [TagSpaces](#tag-spaces)
     - [Baserow](#baserow)
@@ -82,7 +82,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
     - [homepage](#homepage)
 <br><br><br>
 --------------------
-<h2 id="admin-it-networking" align="center">ADMIN (APP, NETWORK, SYS, WEB) - IT - NETWORKING - CMS-</h2>
+<h2 id="admin-it-networking" align="center">Admin(app, network, sys, web) - CMS - IT - Networking</h2>
 <br><br>
 <h3 id="pfSense"> PFSENSE </h3>
 
