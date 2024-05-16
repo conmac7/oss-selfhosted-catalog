@@ -42,6 +42,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
         - [Jitsi Meet](#jitsi-meet)<p id="unused"></p>
         - [mastodon](#mastodon)<p id="unused"></p>
         - [Minds](#minds)<p id="unused"></p>
+        - [odysee](#odysee)<p id="unused"></p>
         - [PeerTube](#peertube)<p id="colab"></p>
         - [PixelFed](#pixelfed)<p id="unused"></p>
         - [Pleroma](#pleroma)<p id="unused"></p>
@@ -495,6 +496,16 @@ Features:
 - Monetization
 - Rewards
 <div align="center"> <img src="/images/minds.png" width="800" /></a> </div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#socialss"><img src="/images/back-to-current.png" width="120" /></div>
+<br><br>
+<h3 id="odysee"> ODYSEE </h3>
+
+>Links: <div><a href="https://odysee.comv"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/OdyseeTeam"><img src="/images/git_hub-logo.png" height="72"/></a></a></div>
+
+Launch your own channel | Watch, view, and share content
+
+Available on Web, Android & iOS
+<div align="center"> <img src="/images/odysee.png" width="800" /></a> </div>
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#socialss"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
 <h3 id="peertube"> PEERTUBE </h3>
