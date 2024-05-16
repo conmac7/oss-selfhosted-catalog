@@ -17,96 +17,96 @@ Finally, the aim of this collection is not to catalog every single open-source a
 
 ## Table of Contents 
 - [Credits - Licenses](#credits-licenses)<p id="adminn"></p>
-    - [Open Source Initiative (Logo)](#open-source-initiative)
-- [Software](#software)
-    - [Admin(app, network, sys, web) - CMS - IT - Networking](#admin-it-networking)
-        - [Flarum](#flarum)
-        - [Freedombox](#freedombox)
-        - [Grafana](#grafana)
-        - [Grav](#grav)
-        - [LibreSpeed](#librespeed)
-        - [Netmaker](#netmaker)
-        - [OPNsense](#opnsense)
-        - [pfSense](#pfSense)
-        - [phpMyAdmin](#php-my-admin)
+    - [Open Source Initiative (Logo)](#open-source-initiative)<p id="unused"></p>
+- [Software](#software)<p id="unused"></p>
+    - [Admin(app, network, sys, web) - CMS - IT - Networking](#admin-it-networking)<p id="unused"></p>
+        - [Flarum](#flarum)<p id="unused"></p>
+        - [Freedombox](#freedombox)<p id="unused"></p>
+        - [Grafana](#grafana)<p id="unused"></p>
+        - [Grav](#grav)<p id="unused"></p>
+        - [LibreSpeed](#librespeed)<p id="unused"></p>
+        - [Netmaker](#netmaker)<p id="unused"></p>
+        - [OPNsense](#opnsense)<p id="unused"></p>
+        - [pfSense](#pfSense)<p id="unused"></p>
+        - [phpMyAdmin](#php-my-admin)<p id="unused"></p>
         - [RustDesk](#rustdesk)<p id="socialss"></p>
-        - [Webmin](#webmin)
-        - [Zabbix](#zabbix)
-    - [Chatting - Self-hosted Media Platforms - Social Networking - Dailymotion/Youtube Alternatives](#socials)
-        - [Diaspora](#diaspora)
-        - [friendica](#friendica)
-        - [Funkwhale](#funkwhale)
-        - [Jitsi Meet](#jitsi-meet)
+        - [Webmin](#webmin)<p id="unused"></p>
+        - [Zabbix](#zabbix)<p id="unused"></p>
+    - [Chatting - Self-hosted Media Platforms - Social Networking - Dailymotion/Youtube Alternatives](#socials)<p id="unused"></p>
+        - [Diaspora](#diaspora)<p id="unused"></p>
+        - [friendica](#friendica)<p id="unused"></p>
+        - [Funkwhale](#funkwhale)<p id="unused"></p>
+        - [Jitsi Meet](#jitsi-meet)<p id="unused"></p>
         - [mastodon](#mastodon)<p id="colab"></p>
-        - [PeerTube](#peertube)
-        - [Pleroma](#pleroma)
-    - [Collaboration Platforms - CRM - ERP - Project Management](#colab-erp-crm)
-        - [Element](#element)
-        - [ERPNext](#erp-next)
-        - [Kanboard](#kanboard)
-        - [Mattermost](#mattermost)
-        - [Nextcloud](#nextcloud)
-        - [OpenProject](#openproject)
-        - [Redmine](#redmine)
+        - [PeerTube](#peertube)<p id="unused"></p>
+        - [Pleroma](#pleroma)<p id="unused"></p>
+    - [Collaboration Platforms - CRM - ERP - Project Management](#colab-erp-crm)<p id="unused"></p>
+        - [Element](#element)<p id="unused"></p>
+        - [ERPNext](#erp-next)<p id="unused"></p>
+        - [Kanboard](#kanboard)<p id="unused"></p>
+        - [Mattermost](#mattermost)<p id="unused"></p>
+        - [Nextcloud](#nextcloud)<p id="unused"></p>
+        - [OpenProject](#openproject)<p id="unused"></p>
+        - [Redmine](#redmine)<p id="unused"></p>
         - [SuiteCRM](#suite-crm)<p id="dashh"></p>
-        - [WeKan](#wekan)
-        - [Zulip](#zulip)
-    - [Dashboards](#dashboards)
-        - [Dashy](#dashy)
+        - [WeKan](#wekan)<p id="unused"></p>
+        - [Zulip](#zulip)<p id="unused"></p>
+    - [Dashboards](#dashboards)<p id="unused"></p>
+        - [Dashy](#dashy)<p id="unused"></p>
         - [Heimdall](#heimdall)<p id="home-serverr"></p>
-        - [Homarr](#homarr)
-        - [homepage](#homepage)
+        - [Homarr](#homarr)<p id="unused"></p>
+        - [homepage](#homepage)<p id="unused"></p>
     - [Home Server - Personal Cloud](#homeserver-personalcloud)<p id="mediaa-mngmnt"></p>
-        - [CasaOS](#casa-os)
-        - [Umbrel](#umbrel)
-    - [Media Management (Audiobooks - Ebooks/PDF - Documents - Movies - Music - Podcasts - Photos - TV Shows - Videos)](#media-management)
-        - [digiKam](#digikam) 
-        - [Immich](#immich)
+        - [CasaOS](#casa-os)<p id="unused"></p>
+        - [Umbrel](#umbrel)<p id="unused"></p>
+    - [Media Management (Audiobooks - Ebooks/PDF - Documents - Movies - Music - Podcasts - Photos - TV Shows - Videos)](#media-management)<p id="unused"></p>
+        - [digiKam](#digikam)<p id="unused"></p>
+        - [Immich](#immich)<p id="unused"></p>
         - [Jellyfin](#jellyfin)<p id="nasss"></p>
-        - [LibrePhotos](#librephotos)
-        - [PhotoPrism](#photoprism)
+        - [LibrePhotos](#librephotos)<p id="unused"></p>
+        - [PhotoPrism](#photoprism)<p id="unused"></p>
     - [NAS](#nas)<p id="officeee"></p>
-        - [openmediavault](#openmediavault)
-        - [TrueNas](#true-nas)
-    - [Office - Productivity](#productivity-office)
-        - [Baserow](#baserow)
-        - [Bookstack](#bookstack)
-        - [Firefly III](#firefly-iii)
-        - [Notesnook](#notesnook)
-        - [ONLYOFFICE](#only-office)
-        - [Penpot](#penpot)
-        - [Standard Notes](#standard-notes)
-        - [TagSpaces](#tag-spaces)
+        - [openmediavault](#openmediavault)<p id="unused"></p>
+        - [TrueNas](#true-nas)<p id="unused"></p>
+    - [Office - Productivity](#productivity-office)<p id="unused"></p>
+        - [Baserow](#baserow)<p id="unused"></p>
+        - [Bookstack](#bookstack)<p id="unused"></p>
+        - [Firefly III](#firefly-iii)<p id="unused"></p>
+        - [Notesnook](#notesnook)<p id="unused"></p>
+        - [ONLYOFFICE](#only-office)<p id="unused"></p>
+        - [Penpot](#penpot)<p id="unused"></p>
+        - [Standard Notes](#standard-notes)<p id="unused"></p>
+        - [TagSpaces](#tag-spaces)<p id="unused"></p>
         - [Turtl](#turtl)<p id="ossopsys"></p>
-        - [Wallabag](#wallabag)
-        - [Xournal++](#xournalpp)
-    - [Operating Systems (OSS)](#oss-operating-systems)
-      - [Haiku](#Haiku)
-      - [illumos](#illumos)
+        - [Wallabag](#wallabag)<p id="unused"></p>
+        - [Xournal++](#xournalpp)<p id="unused"></p>
+    - [Operating Systems (OSS)](#oss-operating-systems)<p id="unused"></p>
+      - [Haiku](#Haiku)<p id="unused"></p>
+      - [illumos](#illumos)<p id="unused"></p>
       - [KolibriOS](#kolibri-os)<p id="privacyy"></p>
-      - [OpenIndiana](#open-indiana)
-      - [SerenityOS](#serenity-os)
-    - [Privacy - Security](#privacy-security)
-      - [Addy (FKA AnonAddy)](#addy)
-      - [Bitwarden](#bitwarden)
-      - [DNSCrypt](#dns-crypt)
-      - [IPFS (InterPlanetary File System)](#ipfs)
-      - [Kodachi (Linux Distro)](#kodachi)
-      - [OpenVPN](#open-vpn)
-      - [Portmaster](#portmaster)
+      - [OpenIndiana](#open-indiana)<p id="unused"></p>
+      - [SerenityOS](#serenity-os)<p id="unused"></p>
+    - [Privacy - Security](#privacy-security)<p id="unused"></p>
+      - [Addy (FKA AnonAddy)](#addy)<p id="unused"></p>
+      - [Bitwarden](#bitwarden)<p id="unused"></p>
+      - [DNSCrypt](#dns-crypt)<p id="unused"></p>
+      - [IPFS (InterPlanetary File System)](#ipfs)<p id="unused"></p>
+      - [Kodachi (Linux Distro)](#kodachi)<p id="unused"></p>
+      - [OpenVPN](#open-vpn)<p id="unused"></p>
+      - [Portmaster](#portmaster)<p id="unused"></p>
       - [SoftEther VPN](#softether-vpn)<p id="searchh"></p>
-      - [vaultwarden](#vaultwarden)
-      - [WireGuard](#wire-guard)
+      - [vaultwarden](#vaultwarden)<p id="unused"></p>
+      - [WireGuard](#wire-guard)<p id="unused"></p>
     - [Search Engines](#search-engines)<p id="virtualizatione"></p>
-      - [Openverse](#openverse)
-      - [YaCy](#yacy)
-    - [Virtualization](#virtualization)
+      - [Openverse](#openverse)<p id="unused"></p>
+      - [YaCy](#yacy)<p id="unused"></p>
+    - [Virtualization](#virtualization)<p id="unused"></p>
       - [Proxmox Virtual Environment](#proxmox)<p id="linkz"></p>
-      - [SmartOS](#smart-os)
-      - [Xen Project](#xen-project)
-    - [Useful Links](#useful-links) 
-      - [ipleak.net](#ipleak-net)
-      - [ping.eu](#ping-eu)
+      - [SmartOS](#smart-os)<p id="unused"></p>
+      - [Xen Project](#xen-project)<p id="unused"></p>
+    - [Useful Links](#useful-links) <p id="unused"></p>
+      - [ipleak.net](#ipleak-net)<p id="unused"></p>
+      - [ping.eu](#ping-eu)<p id="unused"></p>
 <br><br>
 --------------------
 <h2 id="credits-licenses" align="center">███CREDITS - LICENSES███</h2>
