@@ -411,7 +411,7 @@ Project CasaOS started as a community-based open-source project focused on deliv
 <div align="center"> <img src="/images/casaos.png" width="800" /></a> </div>
 <div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br><br>
-<h2 id="colab-erp-crm" align="center">COLLABORATION PLATFORMS - PROJECT MANAGEMENT - ERP - CRM</h2>
+<h2 id="colab-erp-crm" align="center">COLLABORATION PLATFORMS - CRM - ERP - PROJECT MANAGEMENT</h2>
 <br><br>
 <h3 id="zulip"> ZULIP </h3>
 
