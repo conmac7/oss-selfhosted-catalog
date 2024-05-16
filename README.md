@@ -71,6 +71,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
     - [Office - Productivity](#productivity-office)<p id="unused"></p>
         - [Baserow](#baserow)<p id="unused"></p>
         - [Bookstack](#bookstack)<p id="unused"></p>
+        - [Linkwarden](#linkwarden)<p id="unused"></p>
         - [Firefly III](#firefly-iii)<p id="unused"></p>
         - [Notesnook](#notesnook)<p id="unused"></p>
         - [ONLYOFFICE](#only-office)<p id="unused"></p>
@@ -899,6 +900,16 @@ Financial manager. It can help you keep track of expenses, income, budgets and e
 
 Personal financial management is pretty difficult, and everybody has their own approach to it. Some people make budgets, other people limit their cashflow by throwing away their credit cards, others try to increase their current cashflow. There are tons of ways to save and earn money.
 <div align="center"> <img src="/images/fireflyiii.png" width="800" /></a> </div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#officeee"><img src="/images/back-to-current.png" width="120" /></div>
+<br><br>
+<h3 id="linkwarden"> LINKWARDEN </h3>
+
+>Links: <div><a href="https://linkwarden.app"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/linkwarden"><img src="/images/git_hub-logo.png" height="72"/></div>
+
+Linkwarden is a self-hosted, open-source bookmark manager to collect, organize and archive webpages.
+
+The objective is to organize useful webpages and articles you find across the web in one place, and since useful webpages can go away (see the inevitability of Link Rot), Linkwarden also saves a copy of each webpage as a Screenshot and PDF, ensuring accessibility even if the original content is no longer available.
+<div align="center"> <img src="/images/linkwarden.jpeg" width="800" /></a> </div>
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#officeee"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
 <h3 id="notesnook"> NOTESNOOK </h3>
