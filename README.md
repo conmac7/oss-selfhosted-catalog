@@ -149,7 +149,7 @@ Build your own FreedomBox by downloading and setting up on your hardware of choi
 - Share media and take backups from all devices on your home network.
 - FreedomBox can be your Network Attached Storage (NAS).
 <div align="center"> <img src="/images/freedombox.jpg" width="800" /></a> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h3 id="grafana"> GRAFANA </h3>
 
@@ -165,7 +165,7 @@ Works with Graphite, Elasticsearch, Cloudwatch, Prometheus, InfluxDB & More.
 
 Features pluggable panels and data sources allowing easy extensibility and a variety of panels, including fully featured graph panels with rich visualization options. There is built in support for many of the most popular time series data sources.
 <div align="center"> <img src="/images/grafana.png" width="800" /></a> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h3 id="grav"> GRAV </h3>
 
@@ -181,7 +181,7 @@ Grav is an easy to use, yet powerful, opensource CMS that requires no database. 
 
 Content is just simple markdown files in folders, with no complicated databases to deal with. A powerful API and extensive hooks allow for plugins to extend Grav. Flexible Twig templating allows easy realization of your designs.
 <div align="center"> <img src="/images/grav.png" width="800" /></a> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h3 id="librespeed"> LIBRESPEED </h3>
 
@@ -189,7 +189,7 @@ Content is just simple markdown files in folders, with no complicated databases 
 
 A speed test tool that can be run on your LAN or hosted in the cloud. This is available as a Self-Hosted container as well as at librespeed.org.
 <div align="center"> <img src="/images/librespeed.png" height="400" /></a> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h3 id="netmaker"> NETMAKER </h3>
 
@@ -209,7 +209,7 @@ Netmaker is a software tool that creates secure virtual networks. It uses WireGu
 - Automated Configuration: Netmaker can automatically generate and distribute configuration files for clients, simplifying the process of connecting to the VPN network.
 - Self-Hosted and Containerized: Netmaker is a self-hosted solution that can be deployed on various platforms, including bare-metal servers, virtual machines, or containerized environments like Docker and Kubernetes.
 <div align="center"> <img src="/images/netmaker.png" width="800" /></a> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h3 id="opnsense"> OPNSENSE </h3>
 
@@ -228,7 +228,7 @@ OPNsense is an open-source, FreeBSD-based firewall and routing platform that is 
 - Modular Architecture: OPNsense adopts a modular approach, allowing users to install and enable additional plugins and packages to extend its functionality, such as web servers, mail servers, or additional security tools.
 OPNsense is designed to be a highly customizable and extensible firewall and routing solution, suitable for small and medium-sized businesses, as well as home networks, providing a comprehensive set of network security and connectivity features.
 <div align="center"> <img src="/images/opnsense.png" width="800" /></a> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h3 id="pfSense"> PFSENSE </h3>
 
@@ -245,7 +245,7 @@ pfSense is a free and open-source software distribution based on FreeBSD that is
 - Monitoring and Reporting: pfSense offers various monitoring and reporting tools, including real-time traffic monitoring, bandwidth usage monitoring, and detailed logging capabilities.
 pfSense is widely used in small and medium-sized businesses, as well as home networks, providing a comprehensive and flexible solution for network security, routing, and connectivity management.
 <div align="center"> <img src="/images/pfSense.jpg" width="800" /></a> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h3 id="php-my-admin"> PHPMYADMIN </h3>
 
@@ -263,7 +263,7 @@ phpMyAdmin is a free and open-source web-based application written in PHP that p
 - Advanced Features: It includes additional features like support for multiple database servers, database search and replace, database relations (foreign keys), and more.
 phpMyAdmin is a popular tool among web developers and database administrators due to its user-friendly interface, which simplifies many common database management tasks. It is often bundled with web server software like Apache or included in web hosting control panels.
 <div align="center"> <img src="/images/phpmyadmin.jpg" width="800" /></a> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h3 id="rustdesk"> RUSTDESK </h3>
 
@@ -280,7 +280,7 @@ A remote desktop software, the open source TeamViewer alternative, works out of 
 - Chat
 - TCP Tunneling
 <div align="center"> <img src="/images/rustdesk.png" width="800" /></a> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h3 id="webmin"> WEBMIN </h3>
 
@@ -290,7 +290,7 @@ Web-based system administration interface for Unix that supports user account se
 
 Webmin is a web-based system configuration tool for Unix-like systems, although recent versions can also be installed and run on Windows. It allows to configure operating system internals, such as users, disk quotas, services or configuration files, as well as modify and control open source apps, such as the Apache HTTP Server, PHP or MySQL. It is written mainly in HTML and Perl
 <div align="center"> <img src="/images/WEBMIN.png" width="800" /></a> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h3 id="zabbix"> ZABBIX </h3>
 
@@ -311,7 +311,7 @@ Zabbix is widely used by IT professionals, system administrators, and DevOps tea
 
 Run Zabbix on-premise or in the cloud
 <div align="center"> <img src="/images/zabbix.png" width="800" /></a> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h2 id="socials" align="center">███CHATTING - SELF-HOSTED MEDIA PLATFORMS - SOCIAL NETWORKING - DAILYMOTION/YOUTUBE ALTERNATIVES███</h2>
 <br><br>
@@ -335,7 +335,7 @@ The online social world where you are in control. based on three key philosophie
 - Privacy
   In diaspora you own your data. You don’t sign over rights to a corporation or other interest who could use it. In addition, you choose who sees what you share, using Aspects. With diaspora*, your friends, your habits, and your content is your business ... not ours!
 <div align="center"> <img src="/images/diaspora.png" width="800" /></a> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h3 id="friendica"> FRIENDICA </h3>
 
@@ -355,7 +355,7 @@ The second option is to install your own server at https://github.com/friendica/
 
 Friendica runs on commodity hosting platforms powered by PHP/MySQL/Apache. If you can install Drupal or Wordpress you can probably install Friendica. A single Friendica installation supports up to several thousand members.
 <div align="center"> <img src="/images/friendica.png" width="800" /></a> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h3 id="funkwhale"> FUNWHALE </h3>
 
@@ -365,7 +365,7 @@ Funkwhale is a community-driven project that lets you listen and share music and
 
 You can browse your Music by artist, album, genre, playlist, or record label, as well as by direct searches. Funkwhale gives you access to your playlists, favorite tracks, and artists everywhere, from a web interface or the wide range of compatible apps for every platform. Funkwhale music streaming is available on all Android and iOS devices via compatible applications like DSub, and on desktop computers for unlimited duration’s.
 <div align="center"> <img src="/images/funkwhale.png" width="800" /></a> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h3 id="jitsi-meet"> JITSI MEET </h3>
 
@@ -381,7 +381,7 @@ Go ahead, video chat with the whole team. In fact, invite everyone you know. Jit
 - Pick fun meeting URLs for every meeting
 - Trade messages and emojis while you video conference, with integrated chat.
 <div align="center"> <img src="/images/JITSIMEET.jpg" width="800" /></a> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h3 id="mastodon"> MASTODON </h3>
 
@@ -391,7 +391,7 @@ Mastodon is a Social networking that's not for sale.
 
 Your home feed should be filled with what matters to you most, not what a corporation thinks you should see. Radically different social media, back in the hands of the people.
 <div align="center"> <img src="/images/mastodon.png" width="800" /></a> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h3 id="peertube"> PEERTUBE </h3>
 
@@ -401,7 +401,7 @@ PeerTube is a free, decentralized and federated video platform developed as an a
 
 If you have a minimum amount of time and technical skills, creating your own platform (also called "instance") on your server is the best way to take advantage of PeerTube.
 <div align="center"> <img src="/images/peertube.png" width="800" /></a> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h3 id="Pleroma"> PLEROMA </h3>
 
@@ -416,7 +416,7 @@ Pleroma is the server implementation, and comes bundled with PleromaFE, the defa
 Start using Pleroma by joining an existing Pleroma instance or check the installation guide to setting up your own server.
 
 <div align="center"> <img src="/images/pleroma.png" width="800" /></a> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h2 id="colab-erp-crm" align="center">███COLLABORATION PLATFORMS - CRM - ERP - PROJECT MANAGEMENT███</h2>
 <br><br>
@@ -441,7 +441,7 @@ To host your own copy of Element, the quickest bet is to use a pre-built release
 - Configure the app by copying config.sample.json to config.json and modifying it. See the configuration docs for details.
 - Enter the URL into your browser and log into Element!
 <div align="center"> <img src="/images/element.png" width="800" /></a> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h3 id="erp-next"> ERPNEXT </h3>
 
@@ -453,7 +453,7 @@ Offers modules like Accounting, Sales, Purchase, Inventory, Human Resource, Proj
 
 Open source and licensed under GNU GPL v3. It's free to use on your own server. Built on Python.
 <div align="center"> <img src="/images/erpnext.jpg" width="800" /></a> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h3 id="kanboard"> KANBOARD </h3>
 
@@ -471,7 +471,7 @@ There is no fancy user interface, Kanboard focus on simplicity and minimalism. T
 - Self-hosted
 - Super simple installation
 <div align="center"> <img src="/images/kanboard.gif" width="800" /></a> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h3 id="mattermost"> MATTERMOST </h3>
 
@@ -483,7 +483,7 @@ Mattermost is a secure, open source platform for communication, collaboration, a
 
 As an alternative to proprietary SaaS messaging, Mattermost brings all your team communication into one place, making it searchable and accessible anywhere. It’s written in Golang and React and runs as a production-ready Linux binary under an MIT license with either MySQL or Postgres.
 <div align="center"> <img src="/images/mattermost.png" width="800" /></a> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h3 id="nextcloud"> NEXTCLOUD </h3>
 
@@ -495,7 +495,7 @@ Nextcloud Hub integrates the four key Nextcloud products Files, Talk, Groupware 
 
 Nextcloud is a suite of client-server software for creating and using file hosting services. Nextcloud provides functionally similar to Dropbox, Office 365 or Google Drive when used with integrated office suites Collabora Online or OnlyOffice. It can be hosted in the cloud or on-premises. It is scalable from home office software based on the low-cost Raspberry Pi all the way through to full sized data centers that support millions of users
 <div align="center"> <img src="/images/nextcloud.png" width="800" /></a> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h3 id="openproject"> OPENPROJECT </h3>
 
@@ -519,7 +519,7 @@ OpenProject is a web-based project management software. Its key features are:
 - Forums
 - Meeting agendas and meeting minutes
 <div align="center"> <img src="/images/openproject.jpg" width="800" /></a> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h3 id="redmine"> REDMINE </h3>
 
@@ -548,7 +548,7 @@ It integrates with a number of different SCM:s including Subversion and Git. It 
 - Multilanguage support
 - Multiple databases support
 <div align="center"> <img src="/images/REDMINE.jpg" width="800" /></a> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h3 id="suite-crm"> SUITECRM </h3>
 
@@ -580,7 +580,7 @@ In addition to the new modules, extensive bug fixes and many enhancements to the
 
 A six-month release cycle is maintained with bug fix and security releases being made available between major releases
 <div align="center"> <img src="/images/suitecrm.png" width="800" /></a> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br><br>
 <h3 id="wekan"> WEKAN </h3>
 
@@ -590,7 +590,7 @@ Wekan is an open-source and collaborative kanban board application.
 
 Wekan, formerly LibreBoard, is an open-source and collaborative Trello icon Trello -like kanban board application.
 <div align="center"> <img src="/images/wekan.png" width="800" /></a> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h3 id="zulip"> ZULIP </h3>
 
@@ -610,7 +610,7 @@ Zulip can transform how your organization communicates:
 - Remote workers can participate in an equal way to people present in person.
 - Employees don’t need to be glued to their keyboard or phone in order to avoid missing out on important conversations.
 <div align="center"> <img src="/images/zulip.png" width="800" /></a> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h2 id="dashboards" align="center">███DASHBOARDS███</h2>
 <br><br>
@@ -630,7 +630,7 @@ Dashy is an open-source web application that serves as a highly customizable das
 - Responsive Design: The dashboard is designed to be responsive and accessible across different devices and screen sizes, making it convenient to use on desktops, tablets, or mobile devices.
 Dashy is a versatile tool that helps users streamline their workflow by providing a centralized and customizable hub for accessing their frequently used web resources, local applications, and cloud services, all from a single interface.
 <div align="center"> <img src="/images/dashy.gif" width="800" /></a> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h3 id="heimdall"> HEIMDALL </h3>
 
@@ -646,7 +646,7 @@ Heimdall is an open-source dashboard application designed to provide a user-frie
 - Self-Hosting: Heimdall is a self-hosted application, which means users can install it on their own servers or local machines, providing them with complete control over their data and customizations
 - Integration with Docker and Other Platforms: Heimdall can be easily deployed and run using Docker containers, making it compatible with various platforms and environments.
 <div align="center"> <img src="/images/heimdall.png" width="800" /></a> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h3 id="homarr"> HOMARR </h3>
 
@@ -664,7 +664,7 @@ Homarr is an open-source, self-hosted application dashboard that provides a unif
 - Self-Hosting: Homarr is a self-hosted application, which means users can install it on their own servers or local machines, providing them with complete control over their data and customizations.
 Homarr is designed to simplify and streamline the management of various web-based applications and services by providing a centralized, customizable, and user-friendly dashboard.
 <div align="center"> <img src="/images/homarr.gif" width="800" /></a> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h3 id="homepage"> HOMEPAGE </h3>
 
@@ -677,7 +677,7 @@ Homepage It's a self-hosted customizable dashboard application designed for pers
 - Being statically generated, Homepage is known for its speed and security.
 - Configuration is done through YAML files or Docker labels, making it relatively easy to set up and use.
 <div align="center"> <img src="/images/homepage_.png" width="800" /></a> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h2 id="homeserver-personalcloud" align="center">███HOME SERVER - PERSONAL CLOUD███</h2>
 <br><br>
@@ -691,7 +691,7 @@ Democratizing data and giving service control back to your hands.
 
 Project CasaOS started as a community-based open-source project focused on delivering a simple home cloud experience around the Docker ecosystem. CasaOS aims to redefine the private cloud digital experience for creators and developers through data democratization and enabling everyone to take that goal to a new scale.
 <div align="center"> <img src="/images/casaos.png" width="800" /></a> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br><br>
 <h3 id="umbrel"> UMBREL </h3>
   
@@ -703,7 +703,7 @@ An OS for running a server in your home. Self-host open source apps like Nextclo
 - Run your private cloud with Nextcloud
 - Run your own node and achieve unparalleled privacy by connecting your wallet directly to your Bitcoin node. This ensures that your wallet company can’t spy on your transactions, or worse — lie to you.
 <div align="center"> <img src="/images/umbrel.png" width="800" /></a> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h2 id="nas" align="center">███NAS███</h2>
 <br><br>
@@ -724,7 +724,7 @@ OpenMediaVault (OMV) is an open-source network-attached storage (NAS) solution b
 - Docker and Virtual Machine Support: OMV can be extended to run Docker containers and virtual machines, enabling you to host additional services or applications on your NAS server.
 - Self-Hosting: OpenMediaVault is a self-hosted solution, meaning you can install and run it on your own hardware, providing you with complete control over your data and configuration.
 <div align="center"> <img src="/images/openmediavault.png" width="800" /></a> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h3 id="true-nas"> TRUENAS </h3>
 
@@ -740,7 +740,7 @@ OpenMediaVault (OMV) is an open-source network-attached storage (NAS) solution b
 - Plugins and Jails: TrueNAS supports plugins and FreeBSD jails, which allow users to install and run additional software or services on the NAS system, such as media servers, web servers, or backup tools.
 - High Availability: TrueNAS can be configured for high availability setups, ensuring data redundancy and minimizing downtime in case of hardware failures.
 <div align="center"> <img src="/images/true-nas.png" width="800" /></a> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h2 id="productivity-office" align="center">███OFFICE - PRODUCTIVITY███</h2>
 <br><br>
@@ -756,7 +756,7 @@ Create your own online database without technical experience. Our user-friendly 
 
 Self-hosted: Host your own instance on-premise or in the cloud
 <div align="center"> <img src="/images/baserow.png" width="800" /></a> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h3 id="bookstack"> BOOKSTACK </h3>
 
@@ -766,7 +766,7 @@ BookStack is a simple, self-hosted, easy-to-use platform for organizing and stor
 
 Documentation/wiki software aimed for a simple, self-hosted, and easy-to-use platform. Based on Laravel, a PHP framework, BookStack is released under the MIT License. It uses the ideas of books to organise pages and store information
 <div align="center"> <img src="/images/bookstack.png" width="800" /></a> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h3 id="firefly-iii"> FIREFLY III </h3>
 
@@ -776,7 +776,7 @@ Financial manager. It can help you keep track of expenses, income, budgets and e
 
 Personal financial management is pretty difficult, and everybody has their own approach to it. Some people make budgets, other people limit their cashflow by throwing away their credit cards, others try to increase their current cashflow. There are tons of ways to save and earn money.
 <div align="center"> <img src="/images/fireflyiii.png" width="800" /></a> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h3 id="notesnook"> NOTESNOOK </h3>
 
@@ -786,7 +786,7 @@ Open source zero knowledge private note taking. Write notes with freedom, no spy
 
 An end-to-end encrypted note taking alternative to Evernote
 <div align="center"> <img src="/images/notesnook.png" width="800" /></a> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h3 id="only-office"> ONLYOFFICE </h3>
 
@@ -805,7 +805,7 @@ ONLYOFFICE offers a secure online office suite highly compatible with MS Office 
 
 
 <div align="center"> <img src="/images/onlyoffice.png" width="800" /></a> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h3 id="Penpot"> PENTOP </h3>
 
@@ -813,7 +813,7 @@ ONLYOFFICE offers a secure online office suite highly compatible with MS Office 
 
 Penpot is the first open-source design and prototyping tool meant for Product teams.
 <div align="center"> <img src="/images/penpot.jpg" width="800" /></a> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h3 id="standard-notes"> STANDARDNOTES </h3>
 
@@ -823,7 +823,7 @@ Standard Notes helps you gain control in a world that often feels out of control
 - App:End-to-end encrypted notes app
 - Server ecosystem for Standard Notes; fully self-hostable
 <div align="center"> <img src="/images/standard-notes.png" width="800" /></a> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h3 id="tag-spaces"> TAGSPACES </h3>
 
@@ -835,7 +835,7 @@ Cross-platform file tagging
 
 Organize your documents, photos, e-books, music, recipes or invoices in the same way on almost every platform. We currently support Windows, macOS, Linux and Android. With the help of tags, you can do research better or you can manage projects using the GTD methodology or you can organize your tasks in Kanban boards. The application can persists the tags in the file names and as a consequence, the tagging information is not vendor locked. The absence of a database, makes syncing of the tag meta information easy across different devices with services like Dropbox, Google Drive or Nextcloud. TagSpaces features basic file management operations, so it can be used as tag-based file manager.
 <div align="center"> <img src="/images/tagspaces.png" width="800" /></a> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h3 id="turtl"> TURTL </h3>
 
@@ -849,7 +849,7 @@ Turtl uses high-end cryptography to protect your data. Whether you're worried ab
 
 Want more control of your data? Install your own Turtl server at home or at work.
 <div align="center"> <img src="/images/turtl-desktop-application.png" width="800" /></a> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h3 id="wallabag"> WALLABAG </h3>
 
@@ -861,7 +861,7 @@ wallabag is a self hostable application for saving web pages: Save and classify 
 - If you're a developer and you want to connect your application to wallabag, we offer you an API.
 - You can use wallabag on your computer, thanks to our web application. But you can also take wallabag everywhere. For example, it's possible to save an article on your laptop at work, start to read it on your smartphone in the subway and finish reading it on your ereader in your bed.
 <div align="center"> <img src="/images/wallabag.png" width="800" /></a> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h3 id="xournalpp"> XOURNAL++ </h3>
 
@@ -869,7 +869,7 @@ wallabag is a self hostable application for saving web pages: Save and classify 
 
 Xournal++ is a hand note taking software written in C++ with the target of flexibility, functionality and speed.
 <div align="center"> <img src="/images/xournalpp.png" width="800" /></a> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h2 id="oss-operating-systems" align="center">███OPERATING SYSTEMS (OSS)███</h2>
 <br><br>
@@ -890,14 +890,14 @@ The key highlights that distinguish Haiku from other operating systems include:
 - Database-like file system (BFS) with support for indexed metadata
 - Unified, cohesive interface
 <div align="center"> <img src="/images/maxresdefault.jpg" width="800" /></a> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h3 id="illumos"> ILLUMOS </h3>
 
 >Links: <div><a href="https://www.illumos.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/illumos/illumos-gate"><img src="/images/git_hub-logo.png" height="72" /></a></div>
 
 illumos is a Unix operating system which provides next-generation features for downstream distributions, including advanced system debugging, next generation filesystem, networking, and virtualization options.
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h3 id="kolibri-os"> KOLIBRIOS </h3>
 
@@ -907,7 +907,7 @@ Colibri is a tiny yet incredibly powerful and fast operating system. Requires on
 
 Applications that start instantly, immediately after clicking an icon, without annoying hourglass pointers. This speed is achieved since the core parts of KolibriOS (kernel and drivers) are written entirely in FASM assembly language
 <div align="center"> <img src="/images/KolibriOS.png" width="800" /> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h3 id="open-indiana"> OPENINDIANA </h3>
 
@@ -915,7 +915,7 @@ Applications that start instantly, immediately after clicking an icon, without a
 
 OpenIndiana is a free and open-source illumos distribution descended from UNIX System V Release 4 via the OpenSolaris operating system. Forked from OpenSolaris after OpenSolaris was discontinued by Oracle Corporation
 <div align="center"> <img src="/images/OpenIndiana.png" width="800" /></div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h3 id="serenity-os"> SERENITYOS </h3>
 
@@ -933,7 +933,7 @@ Development does not adhere to a release cycle; as such, there are no releases. 
 
 The system is written in what the authors call "Serenity C++", a variant of C++ that lacks exceptions and features its own standard library.
 <div align="center"> <img src="/images/serenity-os.png" width="800" /> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h2 id="privacy-security" align="center">███PRIVACY - SECURITY███</h2>
 <br><br>
@@ -951,7 +951,7 @@ Open-source anonymous email forwarding, create unlimited email aliases for free.
 - Reply to forwarded emails anonymously without revealing your true email address
 You can always just fire up your own server and self-host this application. You'll need to know about server administration and PHP. You can find more information here https://github.com/anonaddy/anonaddy#self-hosting
 <div align="center"> <img src="/images/anonaddy.png" width="800" /> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h3 id="Bitwarden"> BITWARDEN </h3>
 
@@ -963,7 +963,7 @@ The platform offers a variety of client applications including a web interface, 
 
 Bitwarden offers a free cloud-hosted service as well as the ability to self-host
 <div align="center"> <img src="/images/Bitwarden.png" width="800" /> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 
 
@@ -977,7 +977,7 @@ It also mitigates UDP-based amplification attacks by requiring a question to be 
 
 Anonymized DNSCrypt is a protocol extension proposed in 2019 to further improve DNS privacy
 <div align="center"> <img src="/images/dnsproxyclient.png" width="480" /> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h3 id="ipfs"> IPFS (INTERPLANETARY FILESYSTEM) </h3>
 
@@ -992,7 +992,7 @@ It offers two approaches:
 - content-addressing (ipfs://)
 - uploader-addressing (ipns://) allowing for mutable sites.
 <div align="center"> <img src="/images/ipfs.jpg" width="480" /> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h3 id="kodachi"> KODACHI (LINUX DISTRO) </h3>
 
@@ -1008,7 +1008,7 @@ All connections to the Internet are forced to go through the VPN then Tor networ
 
 Leave no trace on the computer you are using unless you ask it explicitly.
 <div align="center"> <img src="/images/kodachi.png" width="800" /> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h3 id="open-vpn"> OPENVPN </h3>
 
@@ -1020,7 +1020,7 @@ OpenVPN allows peers to authenticate each other using pre-shared secret keys, ce
 
 It uses the OpenSSL encryption library extensively, as well as the TLS protocol, and contains many security and control features. It uses a custom security protocol that utilizes SSL/TLS for key exchange. It is capable of traversing network address translators (NATs) and firewalls
 <div align="center"> <img src="/images/openvpn.jpg" width="512" /> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h3 id="portmaster"> PORTMASTER </h3>
 
@@ -1033,7 +1033,7 @@ With Portmaster's great defaults your privacy improves without any effort. And i
 - Secure Your DNS by Default
 - Set Global & per‑App Settings
 <div align="center"> <img src="/images/portmaster.png" width="800" /> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h3 id="softether-vpn"> SOFTETHER VPN </h3>
 
@@ -1041,7 +1041,7 @@ With Portmaster's great defaults your privacy improves without any effort. And i
 
 SoftEther VPN ("SoftEther" means "Software Ethernet") is one of the world's most powerful and easy-to-use multi-protocol VPN software. It runs on Windows, Linux, Mac, FreeBSD and Solaris.
 <div align="center"> <img src="/images/SOFTETHERVPN.jpg" width="640" /> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h3 id="vaultwarden"> VAULTWARDEN </h3>
 
@@ -1049,7 +1049,7 @@ SoftEther VPN ("SoftEther" means "Software Ethernet") is one of the world's most
 
 Unofficial Bitwarden® compatible server ( See [Bitwarden](#bitwarden) )
 <div align="center"> <img src="/images/vaultwarden.jpg" width="800" /> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h3 id="wire-guard"> WIREGUARD </h3>
 
@@ -1059,7 +1059,7 @@ WireGuard® is an extremely simple yet fast and modern VPN that utilizes state-o
 
 Designed with the goals of ease of use, high speed performance, and low attack surface. It aims for better performance and more power than IPsec and OpenVPN, two common tunneling protocols. The WireGuard protocol passes traffic over UDP
 <div align="center"> <img src="/images/wireguards.jpg" width="640" /> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h2 id="search-engines" align="center">███SEARCH ENGINES███</h2>
 <br><br>
@@ -1077,7 +1077,7 @@ Our first prototype relies on open APIs and focuses on photos as its first media
 
 It will go beyond simple search to aggregate results from across the hundreds of public repositories into a single ledger, and also facilitate the use and re-use through tools like curated lists, saved searches, one- or no-click attribution, and provenance.
 <div align="center"> <img src="/images/openverse.png" width="800" /> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h3 id="yacy"> YACY </h3>
 
@@ -1097,7 +1097,7 @@ It is fully decentralized, all users of the search engine network are equal, the
 Compared to semi-distributed search engines, the YaCy-network has a distributed architecture. All YaCy-peers are equal and no central server exists. It can be run either in a crawling mode or as a local proxy server, indexing web pages visited by the person running YaCy on their computer.
 <div align="center"> <img src="/images/yacy1.png" width="800" /> </div>
 <div align="center"> <img src="/images/yacy2.png" width="800" /> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h2 id="virtualization" align="center">███VIRTUALIZATION███</h2>
 <br><br>
@@ -1115,7 +1115,7 @@ Is described as 'complete and easy to use Open Source virtualization platform fo
 
 functionality on a single' and is a very popular Virtualization tool in the network & admin category
 <div align="center"> <img src="/images/proxmox.png" width="800" /></a> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h3 id="smart-os"> SMARTOS </h3>
 
@@ -1129,7 +1129,7 @@ KVM Virtual Machines: A full virtualization solution for running a variety of gu
 
 SmartOS is a "live OS", it is always booted via PXE, ISO, or USB Key and runs entirely from memory, allowing the local disks to be used entirely for hosting virtual machines without wasting disks for the root OS. This architecture has a variety of advantages including increased security, no need for patching, fast upgrades and recovery.
 <div align="center"> <img src="/images/smartos.png" width="800" /></a> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h3 id="xen-project"> XEN PROJECT </h3>
 
@@ -1137,5 +1137,5 @@ SmartOS is a "live OS", it is always booted via PXE, ISO, or USB Key and runs en
 
 Powerful open source industry standard for virtualization. It is a native (bare-metal) hypervisor providing services that allow multiple computer operating systems to execute on the same computer hardware concurrently.
 <div align="center"> <img src="/images/xen.png" width="800" /></a> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
