@@ -20,11 +20,14 @@ Finally, the aim of this collection is not to catalog every single open-source a
     - [Open Source Initiative (Logo)](#open-source-initiative)<p id="adminn"></p><br>
 - [Software](#software)<p id="unused"></p>
     - [Admin(app, network, sys, web) - CMS - IT - Networking](#admin-it-networking)<p id="unused"></p>
+        - [Fastfetch](#fastfetch) (The King is Dead, long live the King)<p id="unused"></p>
         - [Flarum](#flarum)<p id="unused"></p>
         - [Freedombox](#freedombox)<p id="unused"></p>
         - [Glances](#glances)<p id="unused"></p>
         - [Grafana](#grafana)<p id="unused"></p>
         - [Grav](#grav)<p id="unused"></p>
+        - [htop](#htop)<p id="unused"></p>
+        - [LibreNMS](#libre-nms)<p id="unused"></p>
         - [LibreSpeed](#librespeed)<p id="unused"></p>
         - [Netmaker](#netmaker)<p id="unused"></p>
         - [openITCOCKPIT](#open-itcockpit)<p id="unused"></p>
@@ -153,6 +156,15 @@ https://opensource.org</sup>
 <br><br>
 <h2 id="admin-it-networking" align="center">███ADMIN(APP, NETWORK, SYS, WEB) - CMS - IT - NETWORKING███</h2>
 <br><br>
+<h3 id="fastfetch"> FASTFETCH (Neofetch alternative) </h3>
+
+>Links: <div></a><a href="https://github.com/fastfetch-cli/fastfetch"><img src="/images/git_hub-logo.png" height="72"/></div>
+
+Fastfetch is a neofetch-like tool for fetching system information and displaying them in a pretty way. It is written mainly in C, with performance and customizability in mind. Currently, Linux, Android, FreeBSD, MacOS and Windows 7+ are supported.
+<div align="center"> <img src="/images/fastfetch.png" width="800" /></a> </div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#adminn"><img src="/images/back-to-current.png" width="120" /></div>
+<br><br>
+    
 <h3 id="flarum"> FLARUM </h3>
 
 >Links: <div><a href="https://flarum.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/flarum/flarum"><img src="/images/git_hub-logo.png" height="72"/></div>
@@ -251,6 +263,35 @@ Grav is an easy to use, yet powerful, opensource CMS that requires no database. 
 
 Content is just simple markdown files in folders, with no complicated databases to deal with. A powerful API and extensive hooks allow for plugins to extend Grav. Flexible Twig templating allows easy realization of your designs.
 <div align="center"> <img src="/images/grav.png" width="800" /></a> </div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#adminn"><img src="/images/back-to-current.png" width="120" /></div>
+<br><br>
+<h3 id="htop"> HTOP </h3>
+
+>Links: <div><a href="https://htop.dev"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/htop-dev/htop"><img src="/images/git_hub-logo.png" height="72"/></div>
+
+cross-platform interactive process viewer
+
+Allows scrolling the list of processes vertically and horizontally to see their full command lines and related information like memory and CPU consumption. Also system wide information, like load average or swap usage, is shown.
+
+The information displayed is configurable through a graphical setup and can be sorted and filtered interactively.
+
+Tasks related to processes (e.g. killing and renicing) can be done without entering their PIDs.
+<div align="center"> <img src="/images/htop.png" height="400" /></a> </div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#adminn"><img src="/images/back-to-current.png" width="120" /></div>
+<br><br>
+<h3 id="libre-nms"> LIBRENMS </h3>
+
+>Links: <div><a href="https://www.librenms.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/librenms/librenms"><img src="/images/git_hub-logo.png" height="72"/></div>
+
+Fully featured network monitoring system that provides a wealth of features and device support.
+
+- Automatically discover your entire network using CDP, FDP, LLDP, OSPF, BGP, SNMP and ARP
+- Highly flexible alerting system, notify via email, irc, slack and more.
+- A full API to manage, graph and retrieve data from your install.
+- Generate bandwidth bills for ports on your network based on usage or transfer.
+- Native iPhone App is available which provides core functionality.
+- Native Android App is available which provides core functionality..
+<div align="center"> <img src="/images/librenms.png" height="400" /></a> </div>
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#adminn"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
 <h3 id="librespeed"> LIBRESPEED </h3>
