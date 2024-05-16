@@ -1248,5 +1248,5 @@ DNS leak checker, IP addresses detection, Torrent Address detection, WebRTC leak
 - Network mask calculator
 - Country by IP
 - Unit converter
-<div align="center"> <img src="/images/ping-eu.png" width="800" /></a> </div>
+<div align="center"> <img src="/images/ping-eu.png" width="640" /></a> </div>
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
