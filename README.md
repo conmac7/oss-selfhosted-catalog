@@ -777,7 +777,7 @@ A speed test tool that can be run on your LAN or hosted in the cloud. This is av
 <br><br>
 <h3 id="webmin"> WEBMIN </h3>
 
->Links: <div><a href="https://freedombox.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/webmin"><img src="/images/git_hub-logo.png" height="72"/></div>
+>Links: <div><a href="https://webmin.com"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/webmin"><img src="/images/git_hub-logo.png" height="72"/></div>
 
 Web-based system administration interface for Unix that supports user account setup and more.
 
