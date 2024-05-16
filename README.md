@@ -76,11 +76,13 @@ Finally, the aim of this collection is not to catalog every single open-source a
   - [KolibriOS](#kolibri-os)
   - [OpenIndiana](#open-indiana)
   - [SerenityOS](#serenity-os)
+- [Privacy - Security)](#privacy-security)
+  - [Kodachi (Linux Distro)](#kodachi)
 - [Virtualization](#virtualization)
   - [Proxmox Virtual Environment](#proxmox)
   - [SmartOS](#smart-os)
   - [Xen Project](#xen-project)
-<br><br><br>
+<br><br>
 --------------------
 <h2 id="admin-it-networking" align="center">ADMIN(APP, NETWORK, SYS, WEB) - CMS - IT - NETWORKING</h2>
 <br><br>
@@ -901,6 +903,24 @@ Development does not adhere to a release cycle; as such, there are no releases. 
 
 The system is written in what the authors call "Serenity C++", a variant of C++ that lacks exceptions and features its own standard library.
 <div align="center"> <img src="/images/serenity-os.png" width="800" /> </div>
+<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<br><br>
+<h2 id="privacy-security" align="center">PRIVACY - SECURITY</h2>
+<br><br>
+<h3 id="kodachi"> KODACHI (LINUX DISTRO) </h3>
+
+>Links: <div><a href="https://www.digi77.com/linux-kodachi/"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://sourceforge.net/projects/linuxkodachi/files/"><img src="/images/sourceforge.png" height="72" /></a><a href="https://distrowatch.com/table.php?distribution=kodachi"><img src="/images/dwbanner.png" height="72" /></a></div>
+
+Kodachi is very easy to use all you have to do is boot it up on your PC via USB drive then you should have a fully running operating system with established VPN connection + Tor Connection established + DNScrypt service running.
+
+No setup or Linux knowledge is required from your side its all been automated for you. The entire OS is functional from your temporary memory RAM so once you shut it down no trace is left behind all your activities are wiped out.
+
+Use the Internet anonymously.
+
+All connections to the Internet are forced to go through the VPN then Tor network with DNS encryption.
+
+Leave no trace on the computer you are using unless you ask it explicitly.
+<div align="center"> <img src="/images/kodachi.png" width="800" /> </div>
 <div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h2 id="virtualization" align="center">VIRTUALIZATION</h2>
