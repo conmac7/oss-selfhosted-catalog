@@ -66,11 +66,14 @@ Finally, the aim of this collection is not to catalog every single open-source a
         - [Homarr](#homarr)<p id="home-serverr"></p>
         - [homepage](#homepage)<p id="unused"></p><br>
     - [File Sharing - P2P](#filesharing-p2p2)<p id="unused"></p>
+        - [OnionShare](#snionshare)<p id="unused"></p>
         - [ShareDrop](#sharedrop)<p id="unused"></p>
         - [Snapdrop](#snapdrop)<p id="unused"></p><br>
-    - [Home Server - Personal Cloud](#homeserver-personalcloud)<p id="unused"></p>
+    - [Home Server - Personal Cloud](#homeserver-personalcloud)<p id="webalternativez"></p>
         - [CasaOS](#casa-os)<p id="mediaa-mngmnt"></p>
         - [Umbrel](#umbrel)<p id="unused"></p><br>
+    - [Information System - Internet Protocol - Transfer Protocol -  WEB Alternatives](#web-alts)<p id="unused"></p>
+        - [ZeroNet](#zeronet)<p id="unused"></p><br>
     - [Media Management (Audiobooks - Ebooks/PDF - Documents - Movies - Music - Podcasts - Photos - TV Shows - Videos)](#media-management)<p id="unused"></p>
         - [Docspell](#docspell)<p id="unused"></p>
         - [digiKam](#digikam)<p id="unused"></p>
@@ -864,6 +867,18 @@ Homepage It's a self-hosted customizable dashboard application designed for pers
 <br><br>
 <h2 id="filesharing-p2p2" align="center">███FILE SHARING - P2P███</h2>
 <br><br>
+<h3 id="onionshare"> ONIONSHARE </h3>
+
+>Links: <div><a href="https://onionshare.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/onionshare/onionshare"><img src="/images/git_hub-logo.png" height="72"/></div>
+
+Securely and anonymously share files, host websites, and chat with friends using the Tor network
+
+- Mobile-Ready
+- OnionShare is available for Windows, Mac, and Linux, and comes preinstalled in operating systems like QubesOS, Tails, and ParrotOS.
+- OnionShare allows you to quickly host an onion site, chat, and create a private dropdown in addition to sharing files!
+<div align="center"> <img src="/images/onionshare.png" width="800" /></a> </div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#filezharing"><img src="/images/back-to-current.png" width="120" /></div>
+<br><br>   
 <h3 id="sharedrop"> SHAREDROP </h3>
 
 >Links: <div><a href="https://www.sharedrop.io"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/szimek/sharedrop"><img src="/images/git_hub-logo.png" height="72"/></div>
@@ -916,6 +931,22 @@ An OS for running a server in your home. Self-host open source apps like Nextclo
 <div align="center"> <img src="/images/umbrel.png" width="800" /></a> </div>
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#home-serverr"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
+<h2 id="web-alts" align="center">███INFORMATION SYSTEM - INTERNET PROTOCOL - TRANSFER PROTOCOL -  WEB ALTERNATIVES███</h2>
+<br><br>
+<h3 id="zeronet"> ZERONET </h3>
+  
+>Links: <div><a href="https://zeronet.io"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/HelloZeroNet/ZeroNet"><img src="/images/git_hub-logo.png" height="72"/></a></div>
+
+Open, free and uncensorable websites, using Bitcoin cryptography and BitTorrent network
+
+ZeroNet is a decentralized web-like network of peer-to-peer users
+
+Instead of having an IP address, sites are identified by a public key (specifically a bitcoin address). The private key allows the owner of a site to sign and publish changes, which propagate through the network. Sites can be accessed through an ordinary web browser when using the ZeroNet application, which acts as a local webhost for such pages.
+
+ZeroNet is not anonymous by default, but it supports routing traffic through the Tor network
+<div align="center"> <img src="/images/zeronet.png" width="800" /></a> </div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#webalternativez"><img src="/images/back-to-current.png" width="120" /></div>
+<br><br>    
 <h2 id="media-management" align="center">███MEDIA MANAGEMENT (AUDIOBOOKS - EBOOKS/PDF - DOCUMENTS - MOVIES - MUSIC - PODCASTS - PHOTOS - TV SHOWS - VIDEOS)███</h2>
 <br><br>
 <h3 id="docspell"> DOCSPELL </h3>
