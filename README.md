@@ -649,18 +649,6 @@ Homepage It's a self-hosted customizable dashboard application designed for pers
 <br><br>
 <h2 id="homeserver-personalcloud" align="center">HOME SERVER - PERSONAL CLOUD</h2>
 <br><br>
-<h3 id="umbrel"> UMBREL </h3>
-  
->Links: <div><a href="https://umbrel.com"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/getumbrel/umbrel"><img src="/images/git_hub-logo.png" height="72"/></a></div>
-
-An OS for running a server in your home. Self-host open source apps like Nextcloud, Bitcoin/Lightning node, and more.
-
-- De-google yourself
-- Run your private cloud with Nextcloud
-- Run your own node and achieve unparalleled privacy by connecting your wallet directly to your Bitcoin node. This ensures that your wallet company can’t spy on your transactions, or worse — lie to you.
-<div align="center"> <img src="/images/umbrel.png" width="800" /></a> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
-<br><br>
 <h3 id="casa-os"> CASAOS </h3>
 
 >Links: <div><a href="https://casaos.io"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/IceWhaleTech/CasaOS"><img src="/images/git_hub-logo.png" height="72"/></a></div>
@@ -673,6 +661,18 @@ Project CasaOS started as a community-based open-source project focused on deliv
 <div align="center"> <img src="/images/casaos.png" width="800" /></a> </div>
 <div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br><br>
+<h3 id="umbrel"> UMBREL </h3>
+  
+>Links: <div><a href="https://umbrel.com"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/getumbrel/umbrel"><img src="/images/git_hub-logo.png" height="72"/></a></div>
+
+An OS for running a server in your home. Self-host open source apps like Nextcloud, Bitcoin/Lightning node, and more.
+
+- De-google yourself
+- Run your private cloud with Nextcloud
+- Run your own node and achieve unparalleled privacy by connecting your wallet directly to your Bitcoin node. This ensures that your wallet company can’t spy on your transactions, or worse — lie to you.
+<div align="center"> <img src="/images/umbrel.png" width="800" /></a> </div>
+<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<br><br>
 <h2 id="nas" align="center">NAS</h2>
 <br><br>
 <h3 id="true-nas"> TRUENAS </h3>
