@@ -772,7 +772,7 @@ Build your own FreedomBox by downloading and setting up on your hardware of choi
 >Links: <div><a href="https://librespeed.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/librespeed/speedtest"><img src="/images/git_hub-logo.png" height="72"/></div>
 
 A speed test tool that can be run on your LAN or hosted in the cloud. This is available as a Self-Hosted container as well as at librespeed.org.
-<div align="center"> <img src="/images/librespeed.png" width="800" /></a> </div>
+<div align="center"> <img src="/images/librespeed.png" height="400" /></a> </div>
 <div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h3 id="webmin"> WEBMIN </h3>
