@@ -73,6 +73,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
         - [CasaOS](#casa-os)<p id="mediaa-mngmnt"></p>
         - [Umbrel](#umbrel)<p id="unused"></p><br>
     - [Information System - Internet Protocol - Transfer Protocol -  WEB Alternatives](#web-alts)<p id="unused"></p>
+        - [Hyphanet)](#hyphanet)<p id="unused"></p>
         - [IPFS (InterPlanetary File System)](#ipfs)<p id="unused"></p>
         - [ZeroNet](#zeronet)<p id="unused"></p><br>
     - [Media Management (Audiobooks - Ebooks/PDF - Documents - Movies - Music - Podcasts - Photos - TV Shows - Videos)](#media-management)<p id="unused"></p>
@@ -933,6 +934,22 @@ An OS for running a server in your home. Self-host open source apps like Nextclo
 <br><br>
 <h2 id="web-alts" align="center">███INFORMATION SYSTEM - INTERNET PROTOCOL - TRANSFER PROTOCOL -  WEB ALTERNATIVES███</h2>
 <br><br>
+<h3 id="hyphanet"> HYPHANET </h3>
+
+>Links: <div><a href="https://www.hyphanet.org/index.html"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/hyphanet/fred"><img src="/images/git_hub-logo.png" height="72" /></a></div>
+
+Hyphanet is a peer-to-peer platform for censorship-resistant and privacy-respecting publishing and communication
+
+Peer-to-peer platform for censorship-resistant, anonymous communication. It uses a decentralized distributed data store to keep and deliver information, and has a suite of free software for publishing and communicating on the Web without fear of censorship.
+
+The distributed data store of Freenet is used by many third-party programs and plugins to provide microblogging and media sharing.
+
+Anonymous and decentralised version tracking, blogging,  a generic web of trust for decentralized spam resistance and many more.
+
+The Freenet protocol uses a key-based routing protocol, similar to distributed hash tables.
+<div align="center"> <img src="/images/hyphanet.png" width="800" /> </div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#webalternativez"><img src="/images/back-to-current.png" width="120" /></div>
+<br><br>    
 <h3 id="ipfs"> IPFS (INTERPLANETARY FILESYSTEM) </h3>
 
 >Links: <div><a href="https://ipfs.tech"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/ipfs"><img src="/images/git_hub-logo.png" height="72" /></a></div>
