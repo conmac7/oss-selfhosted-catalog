@@ -59,7 +59,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
     - [Home Server - Personal Cloud](#homeserver-personalcloud)
         - [CasaOS](#casa-os)
         - [Umbrel](#umbrel)
-    - [Media Management (Audiobooks - Ebooks/PDF - Documents - Movies - Music - Podcasts - Photos - TV Shows - Videos)](#nas)
+    - [Media Management (Audiobooks - Ebooks/PDF - Documents - Movies - Music - Podcasts - Photos - TV Shows - Videos)](#media-management)
     - [NAS](#nas)
         - [openmediavault](#openmediavault)
         - [TrueNas](#true-nas)
@@ -706,6 +706,8 @@ An OS for running a server in your home. Self-host open source apps like Nextclo
 - Run your own node and achieve unparalleled privacy by connecting your wallet directly to your Bitcoin node. This ensures that your wallet company can’t spy on your transactions, or worse — lie to you.
 <div align="center"> <img src="/images/umbrel.png" width="800" /></a> </div>
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<br><br>
+<h2 id="media-management" align="center">███MEDIA MANAGEMENT (AUDIOBOOKS - EBOOKS/PDF - DOCUMENTS - MOVIES - MUSIC - PODCASTS - PHOTOS - TV SHOWS - VIDEOS)███</h2>
 <br><br>
 <h2 id="nas" align="center">███NAS███</h2>
 <br><br>
