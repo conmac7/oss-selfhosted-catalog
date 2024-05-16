@@ -34,7 +34,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
         - [RustDesk](#rustdesk)<p id="unused"></p>
         - [Webmin](#webmin)<p id="unused"></p><p id="socialss"></p>
         - [Zabbix](#zabbix)<p id="unused"></p><br>
-    - [Chatting - Self-hosted Media Platforms - Social Networking - Dailymotion/Youtube Alternatives](#socials)
+    - [Chatting - Self-hosted Media Platforms - Social Networking - Dailymotion/Youtube Alternatives](#socials)<p id="unused"></p>
         - [Diaspora](#diaspora)<p id="unused"></p>
         - [Discuit](#discuit)<p id="unused"></p>
         - [D.Tube](#d-tube)<p id="unused"></p>
