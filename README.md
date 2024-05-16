@@ -76,6 +76,10 @@ Finally, the aim of this collection is not to catalog every single open-source a
     - [Flarum](#flarum)
     - [phpMyAdmin](#php-my-admin)
     - [RustDesk](#rustdesk)
+- [Dashboards](#dashboards)
+    - [Dashy](#dashy)
+    - [Heimdall](#heimdall)
+    - [Homarr](#homarr)
 <br><br><br>
 --------------------
 
@@ -852,6 +856,70 @@ A remote desktop software, the open source TeamViewer alternative, works out of 
 <div align="center"> <img src="/images/rustdesk.png" width="800" /></a> </div>
 <div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
-<h3 id="rustdesk"> RUSTDESK </h3>
+<h2 id="dashboards" align="center">DASHBOARDS</h2>
+<br><br>
+<h3 id="dashy"> DASHY </h3>
 
->Links: <div><a href="https://rustdesk.com"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/rustdesk"><img src="/images/git_hub-logo.png" height="72"/></div>
+>Links: <div><a href="https://dashy.to"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/Lissy93/dashy"><img src="/images/git_hub-logo.png" height="72"/></div>
+
+Dashy is an open-source web application that serves as a highly customizable dashboard or homepage for accessing various web applications, services, and resources. It provides a single interface to organize and quickly access frequently used websites, web apps, cloud services, and local applications.
+
+- Web Application Dashboard: Dashy allows users to create a personalized dashboard where they can add links, bookmarks, or shortcuts to their favorite web applications, cloud services, and online tools. This provides a centralized access point for all the web resources they need.
+- Local Application Integration: Dashy supports integrating local applications or services running on the user's machine or network, making it easy to launch and access them from the same dashboard.
+- Customizable Layout and Themes: Users can customize the layout, appearance, and themes of their Dashy dashboard to suit their preferences. They can organize links into sections, add icons, and rearrange the layout as desired.
+- Authentication and Access Control: Dashy offers various authentication methods, including built-in user accounts, OAuth, and support for external identity providers. It also allows users to set up access control and permissions for different sections or resources.
+- Cloud Sync and Backup: Dashy supports syncing and backing up dashboard configurations to cloud storage services like Google Drive, Dropbox, or NextCloud, ensuring that users can easily restore or migrate their dashboards.
+- Monitoring and Status Indicators: Dashy can display status indicators for services and applications, allowing users to quickly identify if a particular resource is online or offline.
+- Search and Navigation: Dashy includes a search functionality that enables users to quickly find and access specific resources within their dashboard.
+- Responsive Design: The dashboard is designed to be responsive and accessible across different devices and screen sizes, making it convenient to use on desktops, tablets, or mobile devices.
+Dashy is a versatile tool that helps users streamline their workflow by providing a centralized and customizable hub for accessing their frequently used web resources, local applications, and cloud services, all from a single interface.
+<div align="center"> <img src="/images/dashy.gif" width="800" /></a> </div>
+<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<br><br>
+<h3 id="heimdall"> HEIMDALL </h3>
+
+>Links: <div><a href="https://heimdall.site"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/linuxserver/Heimdall"><img src="/images/git_hub-logo.png" height="72"/></div>
+
+Heimdall is an open-source dashboard application designed to provide a user-friendly interface for accessing various web applications and services. It functions as a centralized hub or homepage, allowing users to organize and quickly navigate to their frequently used tools and resources.
+
+- Web Application Dashboard: Heimdall serves as a web-based dashboard where users can add links, bookmarks, or shortcuts to their favorite web applications, cloud services, and online tools. This provides a centralized access point for all the web resources they need.
+- Customizable Layout: Users can customize the layout and appearance of their Heimdall dashboard by arranging tiles or panels in a grid-based layout. They can also upload custom icons and banners to personalize the look and feel.
+- Service Monitoring: Heimdall can monitor the status of various services or applications and display visual indicators (e.g., green for online, red for offline) on the corresponding tiles. This helps users quickly identify if a particular resource is available or not.
+- User Authentication: Heimdall supports user authentication, allowing users to secure their dashboard and control access to specific resources or sections.
+- Responsive Design: The dashboard is designed to be responsive, ensuring that it adapts and remains usable across different devices and screen sizes, including desktops, tablets, and mobile devices.
+- Self-Hosting: Heimdall is a self-hosted application, which means users can install it on their own servers or local machines, providing them with complete control over their data and customizations
+- Integration with Docker and Other Platforms: Heimdall can be easily deployed and run using Docker containers, making it compatible with various platforms and environments.
+<div align="center"> <img src="/images/heimdall.png" width="800" /></a> </div>
+<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<br><br>
+<h3 id="homarr"> MOMARR </h3>
+
+>Links: <div><a href="https://homarr.dev"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/ajnart/homarr"><img src="/images/git_hub-logo.png" height="72"/></div>
+
+Homarr is an open-source, self-hosted application dashboard that provides a unified and user-friendly interface for accessing various web-based applications and services. It acts as a central hub or homepage, allowing users to organize and quickly navigate to their frequently used tools and resources.
+
+- Web Application Dashboard: Homarr serves as a web-based dashboard where users can add links, bookmarks, or shortcuts to their favorite web applications, cloud services, and online tools. This provides a centralized access point for all the web resources they need.
+- Customizable Layout and Themes: Users can customize the layout and appearance of their Homarr dashboard by arranging tiles or panels in a grid-based layout. They can also apply different themes and styles to personalize the look and feel of the dashboard.
+- Service Monitoring: Homarr can monitor the status of various services or applications and display visual indicators (e.g., green for online, red for offline) on the corresponding tiles. This helps users quickly identify if a particular resource is available or not.
+- User Authentication: Homarr supports user authentication, allowing users to secure their dashboard and control access to specific resources or sections.
+- Responsive Design: The dashboard is designed to be responsive, ensuring that it adapts and remains usable across different devices and screen sizes, including desktops, tablets, and mobile devices.
+- Integration with External Services: Homarr can integrate with external services and tools, such as Kubernetes clusters, to display information and provide quick access to resources within those environments.
+- Customizable Metadata and Icons: Users can customize the metadata and icons associated with each application or service tile, making it easier to identify and organize their resources.
+- Self-Hosting: Homarr is a self-hosted application, which means users can install it on their own servers or local machines, providing them with complete control over their data and customizations.
+Homarr is designed to simplify and streamline the management of various web-based applications and services by providing a centralized, customizable, and user-friendly dashboard.
+<div align="center"> <img src="/images/homarr.gif" width="800" /></a> </div>
+<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<br><br>
+<h3 id="homepage"> HOMEPAGE </h3>
+
+>Links: <div><a href="https://gethomepage.dev/latest/"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/gethomepage/homepage"><img src="/images/git_hub-logo.png" height="72"/></div>
+
+Homepage It's a self-hosted customizable dashboard application designed for personal servers. It allows you to create a dashboard with widgets displaying information about your server's health, applications, and other data. It integrates with many services and is known for being easy to use and secure.
+
+- Homepage allows you to build a dashboard that perfectly suits your needs. You can add widgets and buttons to display information about various services running on your system.
+- It integrates with over 100 services, so you can easily pull data and display it on your dashboard. This could include things like server health, application statuses, or even weather updates.
+- Being statically generated, Homepage is known for its speed and security.
+- Configuration is done through YAML files or Docker labels, making it relatively easy to set up and use.
+<div align="center"> <img src="/images/homepage_.png" width="800" /></a> </div>
+<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<br><br>
