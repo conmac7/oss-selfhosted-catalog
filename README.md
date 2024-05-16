@@ -64,8 +64,10 @@ Finally, the aim of this collection is not to catalog every single open-source a
     - [Communication protocol - Information System - Internet Protocol - Transfer Protocol -  WEB Alternatives](#web-alts)<p id="unused"></p>
         - [Fediverse](#fediverse)<p id="unused"></p>
         - [Hyphanet](#hyphanet)<p id="unused"></p>
+        - [I2P](#i2p)<p id="unused"></p>
         - [IPFS (InterPlanetary File System)](#ipfs)<p id="unused"></p>
-        - [Solid](#solid)<p id="unused"></p>        
+        - [Solid](#solid)<p id="unused"></p>
+        - [Tor](#tor)<p id="unused"></p>
         - [WebTorrent](#webtorrent)<p id="unused"></p>
         - [ZeroNet](#zeronet)<p id="unused"></p><br>
     - [Dashboards](#dashboards)<p id="unused"></p>
@@ -838,7 +840,15 @@ Anonymous and decentralised version tracking, blogging,  a generic web of trust 
 The Freenet protocol uses a key-based routing protocol, similar to distributed hash tables.
 <div align="center"> <img src="/images/hyphanet.png" width="800" /> </div>
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#webalternativez"><img src="/images/back-to-current.png" width="120" /></div>
-<br><br>    
+<br><br>
+<h3 id="i2p"> I2P </h3>
+
+>Links: <div><a href="https://geti2p.net/en/"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/i2p/i2p.i2p"><img src="/images/git_hub-logo.png" height="72" /></a></div>
+
+The Invisible Internet Project (I2P) is an anonymous network layer (implemented as a mix network) that allows for censorship-resistant, peer-to-peer communication. Anonymous connections are achieved by encrypting the user's traffic (by using end-to-end encryption), and sending it through a volunteer-run network of roughly 55,000 computers distributed around the world. Given the high number of possible paths the traffic can transit, a third party watching a full connection is unlikely. The software that implements this layer is called an "I2P router", and a computer running I2P is called an "I2P node". I2P is free and open sourced, and is published under multiple licenses.
+<div align="center"> <img src="/images/i2p.png" width="600" /> </div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#webalternativez"><img src="/images/back-to-current.png" width="120" /></div>
+<br><br>
 <h3 id="ipfs"> IPFS (INTERPLANETARY FILESYSTEM) </h3>
 
 >Links: <div><a href="https://ipfs.tech"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/ipfs"><img src="/images/git_hub-logo.png" height="72" /></a></div>
@@ -872,7 +882,17 @@ In more detail, Solid consists of the following components:
 - A community providing documentation, discussion, tutorials, and presentations.
 <div align="center"> <img src="/images/solid-pod-tour.svg" width="800" /></a> </div>
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#webalternativez"><img src="/images/back-to-current.png" width="120" /></div>
-<br><br>  
+<br><br>
+<h3 id="tor"> TOR </h3>
+  
+>Links: <div><a href="https://www.torproject.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://gitlab.torproject.org/tpo/core/tor/"><img src="/images/git_share.png" height="72"/></a></div>
+
+Tor, short for The Onion Router is free and open-source software for enabling anonymous communication. It directs Internet traffic via a free, worldwide volunteer overlay network that consists of more than seven thousand relays.
+
+Using Tor makes it more difficult to trace a user's Internet activity. Tor protects personal privacy by concealing a user's location and usage from anyone performing network surveillance or traffic analysis. It protects the user's freedom and ability to communicate confidentially through IP address anonymity using Tor exit nodes.
+<div align="center"> <img src="/images/tor.png" width="800" /></a> </div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#webalternativez"><img src="/images/back-to-current.png" width="120" /></div>
+<br><br>
 <h3 id="webtorrent"> WEBTORRENT </h3>
   
 >Links: <div><a href="https://webtorrent.io"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/webtorrent/webtorrent"><img src="/images/git_hub-logo.png" height="72"/></a></div>
@@ -884,7 +904,7 @@ The idea behind WebTorrent is to make a BitTorrent-like protocol that works on t
 The WebTorrent Desktop bridges the two networks of WebRTC-based WebTorrent and TCP/UDP-based BitTorrent simultaneously. The BitTorrent client Vuze (formerly Azureus) less gracefully but adequately functionally incorporated WebTorrent adding simultaneous network bridging to their software.
 <div align="center"> <img src="/images/webtorrent.png" width="800" /></a> </div>
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#webalternativez"><img src="/images/back-to-current.png" width="120" /></div>
-<br><br>    
+<br><br>
 <h3 id="zeronet"> ZERONET </h3>
   
 >Links: <div><a href="https://zeronet.io"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/HelloZeroNet/ZeroNet"><img src="/images/git_hub-logo.png" height="72"/></a></div>
