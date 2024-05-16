@@ -1,6 +1,6 @@
 <a id="top"></a><h1 align="center"> Open Source & Self-Hosted Catalog </h1>
 
-<div align="center"> <img src="/images/Open_Source_Initiative.png" width="240" /> <sup id="lisence"> Credits-Lisence </sup>
+<div align="center"> <img src="/images/Open_Source_Initiative.png" width="240" /> <a href="#section2">Credits-Lisence</a>
 
 This is a curated collection of open-source and self-hosted software programs. This catalog serves as a comprehensive guide, featuring a title, corresponding links(homepage, github, git), a concise description and an image for each listed software. 
 
@@ -101,6 +101,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
 <br><br>
 --------------------
 <h2 id="credits-licenses" align="center">CREDITS - LICENSES</h2>
+<h2 id="section2"></h2>
 
 [](#lisence)
 <br><br>
