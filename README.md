@@ -82,7 +82,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
     - [homepage](#homepage)
 <br><br><br>
 --------------------
-<h2 id="admin-it-networking" align="center">Admin(app, network, sys, web) - CMS - IT - Networking</h2>
+<h2 id="admin-it-networking" align="center">ADMIN(APP, NETWORK, SYS, WEB) - CMS - IT - NETWORKING</h2>
 <br><br>
 <h3 id="pfSense"> PFSENSE </h3>
 
