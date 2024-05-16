@@ -73,6 +73,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
         - [CasaOS](#casa-os)<p id="mediaa-mngmnt"></p>
         - [Umbrel](#umbrel)<p id="unused"></p><br>
     - [Information System - Internet Protocol - Transfer Protocol -  WEB Alternatives](#web-alts)<p id="unused"></p>
+        - [IPFS (InterPlanetary File System)](#ipfs)<p id="unused"></p>
         - [ZeroNet](#zeronet)<p id="unused"></p><br>
     - [Media Management (Audiobooks - Ebooks/PDF - Documents - Movies - Music - Podcasts - Photos - TV Shows - Videos)](#media-management)<p id="unused"></p>
         - [Docspell](#docspell)<p id="unused"></p>
@@ -111,7 +112,6 @@ Finally, the aim of this collection is not to catalog every single open-source a
       - [Bitwarden](#bitwarden)<p id="unused"></p>
       - [DNSCrypt](#dns-crypt)<p id="unused"></p>
       - [Fakeroute](#fakeroute)<p id="unused"></p>
-      - [IPFS (InterPlanetary File System)](#ipfs)<p id="unused"></p>
       - [Kodachi (Linux Distro)](#kodachi)<p id="unused"></p>
       - [OpenVPN](#open-vpn)<p id="unused"></p>
       - [Portmaster](#portmaster)<p id="unused"></p>
@@ -933,6 +933,21 @@ An OS for running a server in your home. Self-host open source apps like Nextclo
 <br><br>
 <h2 id="web-alts" align="center">███INFORMATION SYSTEM - INTERNET PROTOCOL - TRANSFER PROTOCOL -  WEB ALTERNATIVES███</h2>
 <br><br>
+<h3 id="ipfs"> IPFS (INTERPLANETARY FILESYSTEM) </h3>
+
+>Links: <div><a href="https://ipfs.tech"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/ipfs"><img src="/images/git_hub-logo.png" height="72" /></a></div>
+
+IPFS is the permanent web. A new peer-to-peer hypermedia protocol.
+
+IPFS is a global, versioned, peer-to-peer filesystem. It combines ideas from Git, BitTorrent, Kademlia, SFS, and the web. It is like a single bittorrent swarm, exchanging git objects. IPFS provides an interface as simple as the HTTP web, but with permanence built in. You can also mount the world at /ipfs. IPFS could become a new major subsystem of the internet. If built right, it could complement or replace HTTP.
+
+It offers two approaches:
+
+- content-addressing (ipfs://)
+- uploader-addressing (ipns://) allowing for mutable sites.
+<div align="center"> <img src="/images/ipfs.jpg" width="480" /> </div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#webalternativez"><img src="/images/back-to-current.png" width="120" /></div>
+<br><br>
 <h3 id="zeronet"> ZERONET </h3>
   
 >Links: <div><a href="https://zeronet.io"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/HelloZeroNet/ZeroNet"><img src="/images/git_hub-logo.png" height="72"/></a></div>
@@ -1420,21 +1435,6 @@ Anonymized DNSCrypt is a protocol extension proposed in 2019 to further improve 
 
 Fakeroute allows you to insert fake IPv4 and IPv6 hops between the last real hop and your Linux server by making use of IP address spoofing.
 <div align="center"> <img src="/images/fakeroute.png" width="800" /> </div>
-<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#privacyy"><img src="/images/back-to-current.png" width="120" /></div>
-<br><br>    
-<h3 id="ipfs"> IPFS (INTERPLANETARY FILESYSTEM) </h3>
-
->Links: <div><a href="https://ipfs.tech"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/ipfs"><img src="/images/git_hub-logo.png" height="72" /></a></div>
-
-IPFS is the permanent web. A new peer-to-peer hypermedia protocol.
-
-IPFS is a global, versioned, peer-to-peer filesystem. It combines ideas from Git, BitTorrent, Kademlia, SFS, and the web. It is like a single bittorrent swarm, exchanging git objects. IPFS provides an interface as simple as the HTTP web, but with permanence built in. You can also mount the world at /ipfs. IPFS could become a new major subsystem of the internet. If built right, it could complement or replace HTTP.
-
-It offers two approaches:
-
-- content-addressing (ipfs://)
-- uploader-addressing (ipns://) allowing for mutable sites.
-<div align="center"> <img src="/images/ipfs.jpg" width="480" /> </div>
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#privacyy"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
 <h3 id="kodachi"> KODACHI (LINUX DISTRO) </h3>
