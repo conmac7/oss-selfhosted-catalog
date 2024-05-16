@@ -1236,7 +1236,7 @@ Is described as 'complete and easy to use Open Source virtualization platform fo
 
 functionality on a single' and is a very popular Virtualization tool in the network & admin category
 <div align="center"> <img src="/images/proxmox.png" width="800" /></a> </div>
-<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#virtualizatione"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
 <h3 id="smart-os"> SMARTOS </h3>
 
@@ -1250,7 +1250,7 @@ KVM Virtual Machines: A full virtualization solution for running a variety of gu
 
 SmartOS is a "live OS", it is always booted via PXE, ISO, or USB Key and runs entirely from memory, allowing the local disks to be used entirely for hosting virtual machines without wasting disks for the root OS. This architecture has a variety of advantages including increased security, no need for patching, fast upgrades and recovery.
 <div align="center"> <img src="/images/smartos.png" width="800" /></a> </div>
-<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#virtualizatione"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
 <h3 id="xen-project"> XEN PROJECT </h3>
 
@@ -1258,7 +1258,7 @@ SmartOS is a "live OS", it is always booted via PXE, ISO, or USB Key and runs en
 
 Powerful open source industry standard for virtualization. It is a native (bare-metal) hypervisor providing services that allow multiple computer operating systems to execute on the same computer hardware concurrently.
 <div align="center"> <img src="/images/xen.png" width="800" /></a> </div>
-<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#virtualizatione"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
 <h2 id="useful-links" align="center">███USEFUL LINKS███</h2>
 <br><br>
