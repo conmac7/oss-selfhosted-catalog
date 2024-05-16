@@ -872,7 +872,7 @@ In more detail, Solid consists of the following components:
 - A community providing documentation, discussion, tutorials, and presentations.
 <div align="center"> <img src="/images/solid-pod-tour.svg" width="800" /></a> </div>
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#webalternativez"><img src="/images/back-to-current.png" width="120" /></div>
-<br><br>c    
+<br><br>  
 <h3 id="webtorrent"> WEBTORRENT </h3>
   
 >Links: <div><a href="https://webtorrent.io"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/webtorrent/webtorrent"><img src="/images/git_hub-logo.png" height="72"/></a></div>
