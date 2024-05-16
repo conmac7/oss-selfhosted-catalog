@@ -100,7 +100,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
 - [Useful Links](#useful-links)
 <br><br>
 --------------------
-<h2 id="credits-licenses" align="center">→→→CREDITS - LICENSES</h2>
+<h2 id="credits-licenses" align="center">→→→CREDITS - LICENSES←←←</h2>
 <p id="license"></p>
 <br><br>
 <h3 id="open-source-initiative"> OPEN SOURCE INITIATIVE (LOGO) </h3>
@@ -111,7 +111,7 @@ https://commons.wikimedia.org/wiki/File:Open_Source_Initiative.svg<br>
 https://opensource.org/osi-logo-files<br>
 https://opensource.org</sup>
 <br><br>
-<h2 id="software" align="center">→SOFTWARE</h2>
+<h2 id="software" align="center">→→→SOFTWARE←←←</h2>
 <br><br>
 <h2 id="admin-it-networking" align="center">→ADMIN(APP, NETWORK, SYS, WEB) - CMS - IT - NETWORKING</h2>
 <br><br>
