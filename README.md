@@ -41,6 +41,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
         - [Jitsi Meet](#jitsi-meet)<p id="unused"></p>
         - [mastodon](#mastodon)<p id="unused"></p>
         - [PeerTube](#peertube)<p id="colab"></p>
+        - [PixelFed](#pixelfed)<p id="unused"></p>
         - [Pleroma](#pleroma)<p id="unused"></p>
         - [Tox](#tox)<p id="unused"></p><br>
     - [Collaboration Platforms - CRM - ERP - Project Management](#colab-erp-crm)<p id="unused"></p>
@@ -465,6 +466,34 @@ If you have a minimum amount of time and technical skills, creating your own pla
 <div align="center"> <img src="/images/peertube.png" width="800" /></a> </div>
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#socialss"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
+<h3 id="pixelfed"> PIXELFED </h3>
+
+>Links: <div><a href="https://pixelfed.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/pixelfed"><img src="/images/git_hub-logo.png" height="72"/></a></div>
+
+A free and ethical photo sharing platform, powered by ActivityPub federation.
+
+- Ad-free and privacy friendly
+- Open source and decentralized
+- Chronological feeds
+- Albums
+- Direct Messages
+- Likes
+- Comments
+- Filters
+- Stories
+
+Privacy and safety:
+- Unlisted + Follower-only posts
+- Manually approve followers
+- Mute or block accounts
+- Report accounts or posts
+- Optionally disable comments
+- Limit DMs to accounts you follow
+
+254K people joined 1.1K Pixelfed servers and shared over 85M photos and videos
+<div align="center"> <img src="/images/pixelfed.png" width="800" /></a> </div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#socialss"><img src="/images/back-to-current.png" width="120" /></div>
+<br><br>    
 <h3 id="Pleroma"> PLEROMA </h3>
 
 >Links: <div><a href="https://pleroma.social"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://git.pleroma.social/pleroma/"><img src="/images/git_share.png" height="72"/></a></div>
