@@ -710,7 +710,7 @@ Go ahead, video chat with the whole team. In fact, invite everyone you know. Jit
 <div align="center"> <img src="/images/JITSIMEET.jpg" width="800" /></a> </div>
 <div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
-<h2 id="productivity-office" align="center">PRODUCTIVITY - OFFICE</h2>
+<h2 id="productivity-office" align="center">OFFICE - PRODUCTIVITY</h2>
 
 <br><br><br>
 <h3 id="only-office"> ONLYOFFICE </h3>
