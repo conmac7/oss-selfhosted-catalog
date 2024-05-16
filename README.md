@@ -909,7 +909,7 @@ The system is written in what the authors call "Serenity C++", a variant of C++ 
 <br><br>
 <h3 id="kodachi"> KODACHI (LINUX DISTRO) </h3>
 
->Links: <div><a href="https://www.digi77.com/linux-kodachi/"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://sourceforge.net/projects/linuxkodachi/files/"><img src="/images/sourceforge.png" height="72" /></a><a href="https://distrowatch.com/table.php?distribution=kodachi"><img src="/images/distro_watch_mybanner.jpg" height="72" /></a></div>
+>Links: <div><a href="https://www.digi77.com/linux-kodachi/"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://sourceforge.net/projects/linuxkodachi/files/"><img src="/images/sourceforge.png" height="72" /></a><a href="https://distrowatch.com/table.php?distribution=kodachi"><img src="/images/my_dwbanner.png" height="72" /></a></div>
 
 Kodachi is very easy to use all you have to do is boot it up on your PC via USB drive then you should have a fully running operating system with established VPN connection + Tor Connection established + DNScrypt service running.
 
