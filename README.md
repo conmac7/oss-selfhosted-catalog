@@ -158,7 +158,7 @@ Build your own FreedomBox by downloading and setting up on your hardware of choi
 - Share media and take backups from all devices on your home network.
 - FreedomBox can be your Network Attached Storage (NAS).
 <div align="center"> <img src="/images/freedombox.jpg" width="800" /></a> </div>
-<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#adminn"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
 <h3 id="grafana"> GRAFANA </h3>
 
@@ -174,7 +174,7 @@ Works with Graphite, Elasticsearch, Cloudwatch, Prometheus, InfluxDB & More.
 
 Features pluggable panels and data sources allowing easy extensibility and a variety of panels, including fully featured graph panels with rich visualization options. There is built in support for many of the most popular time series data sources.
 <div align="center"> <img src="/images/grafana.png" width="800" /></a> </div>
-<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#adminn"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
 <h3 id="grav"> GRAV </h3>
 
@@ -190,7 +190,7 @@ Grav is an easy to use, yet powerful, opensource CMS that requires no database. 
 
 Content is just simple markdown files in folders, with no complicated databases to deal with. A powerful API and extensive hooks allow for plugins to extend Grav. Flexible Twig templating allows easy realization of your designs.
 <div align="center"> <img src="/images/grav.png" width="800" /></a> </div>
-<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#adminn"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
 <h3 id="librespeed"> LIBRESPEED </h3>
 
@@ -198,7 +198,7 @@ Content is just simple markdown files in folders, with no complicated databases 
 
 A speed test tool that can be run on your LAN or hosted in the cloud. This is available as a Self-Hosted container as well as at librespeed.org.
 <div align="center"> <img src="/images/librespeed.png" height="400" /></a> </div>
-<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#adminn"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
 <h3 id="netmaker"> NETMAKER </h3>
 
@@ -218,7 +218,7 @@ Netmaker is a software tool that creates secure virtual networks. It uses WireGu
 - Automated Configuration: Netmaker can automatically generate and distribute configuration files for clients, simplifying the process of connecting to the VPN network.
 - Self-Hosted and Containerized: Netmaker is a self-hosted solution that can be deployed on various platforms, including bare-metal servers, virtual machines, or containerized environments like Docker and Kubernetes.
 <div align="center"> <img src="/images/netmaker.png" width="800" /></a> </div>
-<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#adminn"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
 <h3 id="opnsense"> OPNSENSE </h3>
 
@@ -237,7 +237,7 @@ OPNsense is an open-source, FreeBSD-based firewall and routing platform that is 
 - Modular Architecture: OPNsense adopts a modular approach, allowing users to install and enable additional plugins and packages to extend its functionality, such as web servers, mail servers, or additional security tools.
 OPNsense is designed to be a highly customizable and extensible firewall and routing solution, suitable for small and medium-sized businesses, as well as home networks, providing a comprehensive set of network security and connectivity features.
 <div align="center"> <img src="/images/opnsense.png" width="800" /></a> </div>
-<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#adminn"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
 <h3 id="pfSense"> PFSENSE </h3>
 
@@ -254,7 +254,7 @@ pfSense is a free and open-source software distribution based on FreeBSD that is
 - Monitoring and Reporting: pfSense offers various monitoring and reporting tools, including real-time traffic monitoring, bandwidth usage monitoring, and detailed logging capabilities.
 pfSense is widely used in small and medium-sized businesses, as well as home networks, providing a comprehensive and flexible solution for network security, routing, and connectivity management.
 <div align="center"> <img src="/images/pfSense.jpg" width="800" /></a> </div>
-<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#adminn"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
 <h3 id="php-my-admin"> PHPMYADMIN </h3>
 
@@ -272,7 +272,7 @@ phpMyAdmin is a free and open-source web-based application written in PHP that p
 - Advanced Features: It includes additional features like support for multiple database servers, database search and replace, database relations (foreign keys), and more.
 phpMyAdmin is a popular tool among web developers and database administrators due to its user-friendly interface, which simplifies many common database management tasks. It is often bundled with web server software like Apache or included in web hosting control panels.
 <div align="center"> <img src="/images/phpmyadmin.jpg" width="800" /></a> </div>
-<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#adminn"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
 <h3 id="rustdesk"> RUSTDESK </h3>
 
@@ -289,7 +289,7 @@ A remote desktop software, the open source TeamViewer alternative, works out of 
 - Chat
 - TCP Tunneling
 <div align="center"> <img src="/images/rustdesk.png" width="800" /></a> </div>
-<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#adminn"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
 <h3 id="webmin"> WEBMIN </h3>
 
@@ -299,7 +299,7 @@ Web-based system administration interface for Unix that supports user account se
 
 Webmin is a web-based system configuration tool for Unix-like systems, although recent versions can also be installed and run on Windows. It allows to configure operating system internals, such as users, disk quotas, services or configuration files, as well as modify and control open source apps, such as the Apache HTTP Server, PHP or MySQL. It is written mainly in HTML and Perl
 <div align="center"> <img src="/images/WEBMIN.png" width="800" /></a> </div>
-<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#adminn"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
 <h3 id="zabbix"> ZABBIX </h3>
 
@@ -320,7 +320,7 @@ Zabbix is widely used by IT professionals, system administrators, and DevOps tea
 
 Run Zabbix on-premise or in the cloud
 <div align="center"> <img src="/images/zabbix.png" width="800" /></a> </div>
-<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#adminn"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
 <h2 id="socials" align="center">███CHATTING - SELF-HOSTED MEDIA PLATFORMS - SOCIAL NETWORKING - DAILYMOTION/YOUTUBE ALTERNATIVES███</h2>
 <br><br>
