@@ -61,6 +61,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
         - [WeKan](#wekan)<p id="dashh"></p><p id="webalternativez"></p>
         - [Zulip](#zulip)<p id="unused"></p><br>
     - [Communication protocol - Information System - Internet Protocol - Transfer Protocol -  WEB Alternatives](#web-alts)<p id="unused"></p>
+        - [Fediverse](#fediverse)<p id="unused"></p>
         - [Hyphanet](#hyphanet)<p id="unused"></p>
         - [IPFS (InterPlanetary File System)](#ipfs)<p id="unused"></p>
         - [WebTorrent](#webtorrent)<p id="unused"></p>
@@ -802,6 +803,14 @@ Zulip can transform how your organization communicates:
 <br><br>
 <h2 id="web-alts" align="center">███Communication protocol - INFORMATION SYSTEM - INTERNET PROTOCOL - TRANSFER PROTOCOL -  WEB ALTERNATIVES███</h2>
 <br><br>
+<h3 id="fediverse"> FEDIVERSE </h3>
+
+>Links: <div><a href="https://fediverse.party"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://www.fediverse.to"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://fediverse.info"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://en.wikipedia.org/wiki/Fediverse"><img src="/images/wiki-logo_.png" height="72" /></a></div>
+
+The fediverse is a collection of social networking services that can communicate with each other (formally known as federation) using a common protocol. Users of different websites can send and receive status updates, multimedia files and other data across the network. The term fediverse is a portmanteau of "federation" and "universe"
+<div align="center"> <img src="/images/Fediverse.png" width="800" /> </div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#webalternativez"><img src="/images/back-to-current.png" width="120" /></div>
+<br><br>    
 <h3 id="hyphanet"> HYPHANET </h3>
 
 >Links: <div><a href="https://www.hyphanet.org/index.html"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/hyphanet/fred"><img src="/images/git_hub-logo.png" height="72" /></a></div>
