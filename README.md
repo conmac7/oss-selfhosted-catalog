@@ -1224,7 +1224,7 @@ Powerful open source industry standard for virtualization. It is a native (bare-
 <br><br>
 <h2 id="useful-links" align="center">███USEFUL LINKS███</h2>
 <br><br>
-<h3 id="ipleak-net"> PLEAK.NET </h3>
+<h3 id="ipleak-net"> IPLEAK.NET </h3>
 
 >Links: <div><a href="https://ipleak.net"><img src="/images/web_homepage-icon.png" height="72" /></a>
 DNS leak checker, IP addresses detection, Torrent Address detection, WebRTC leaks
@@ -1233,7 +1233,7 @@ DNS leak checker, IP addresses detection, Torrent Address detection, WebRTC leak
 <br><br>
 <h3 id="ping-eu"> PING.EU </h3>
 
->Links: <div><a href="[https://ipleak.net](https://ping.eu)"><img src="/images/web_homepage-icon.png" height="72" /></a>
+>Links: <div><a href="https://ping.eu"><img src="/images/web_homepage-icon.png" height="72" /></a>
     
 - Online Ping
 - Traceroute
