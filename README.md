@@ -819,7 +819,7 @@ An OS for running a server in your home. Self-host open source apps like Nextclo
 <br><br>
 <h2 id="media-management" align="center">███MEDIA MANAGEMENT (AUDIOBOOKS - EBOOKS/PDF - DOCUMENTS - MOVIES - MUSIC - PODCASTS - PHOTOS - TV SHOWS - VIDEOS)███</h2>
 <br><br>
-<h3 id="digikam"> DIGIKAM </h3>
+<h3 id="docspell"> DOCSPELL </h3>
 
 >Links: <div><a href="https://docspell.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/eikek/docspell"><img src="/images/git_hub-logo.png" height="72"/></div>
 
