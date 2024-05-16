@@ -60,6 +60,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
         - [CasaOS](#casa-os)
         - [Umbrel](#umbrel)
     - [Media Management (Audiobooks - Ebooks/PDF - Documents - Movies - Music - Podcasts - Photos - TV Shows - Videos)](#media-management)
+        - [Immich](#immich)
         - [Jellyfin](#jellyfin)
         - [LibrePhotos](#librephotos)
         - [PhotoPrism](#photoprism)
@@ -713,6 +714,30 @@ An OS for running a server in your home. Self-host open source apps like Nextclo
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h2 id="media-management" align="center">███MEDIA MANAGEMENT (AUDIOBOOKS - EBOOKS/PDF - DOCUMENTS - MOVIES - MUSIC - PODCASTS - PHOTOS - TV SHOWS - VIDEOS)███</h2>
+<br><br>
+<h3 id="immich"> IMMICH </h3>
+
+>Links: <div><a href="https://immich.app"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/immich-app"><img src="/images/git_hub-logo.png" height="72"/></div>
+
+Self-hosted photo and video management solution
+
+- Automatic Backup
+- Facial Recognition
+- Hardware Transcoding (Experimental)
+- Libraries
+- Hardware-Accelerated Machine Learning (Experimental)
+This feature allows you to use a GPU to accelerate machine learning tasks, such as Smart Search and Facial Recognition, while reducing CPU load
+- Mobile App
+- Monitoring
+Immich provides a variety of performance metrics to allow for local monitoring and insights. This integration is primarily in the form of Prometheus metrics. However, exporting traces is also possible due to the use of OpenTelemetry instrumentation.
+- Partner Sharing
+Immich allows you to share your library with other users. They can then view your library and download the assets.
+- Reverse Geocoding
+- Shared Albums & Assets
+Album sharing allows you to share assets with other users or with people from around the world via a link or invitation (for system users).
+- Smart Search
+<div align="center"> <img src="/images/immich-screenshots.png" width="800" /></a> </div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h3 id="jellyfin"> JELLYFIN </h3>
 
