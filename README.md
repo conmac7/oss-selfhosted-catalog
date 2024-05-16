@@ -351,8 +351,6 @@ Go ahead, video chat with the whole team. In fact, invite everyone you know. Jit
 <div align="center"> <img src="/images/JITSIMEET.jpg" width="800" /></a> </div>
 <div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
-<h2 id="colab-erp-crm" align="center">COLLABORATION PLATFORMS - CRM - ERP - PROJECT MANAGEMENT</h2>
-<br><br>
 <h3 id="mastodon"> MASTODON </h3>
 
 >Links: <div><a href="https://mastodon.social/explore"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/mastodon/mastodon"><img src="/images/git_hub-logo.png" height="72"/></a></div>
@@ -387,6 +385,8 @@ Start using Pleroma by joining an existing Pleroma instance or check the install
 
 <div align="center"> <img src="/images/pleroma.png" width="800" /></a> </div>
 <div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<br><br>
+<h2 id="colab-erp-crm" align="center">COLLABORATION PLATFORMS - CRM - ERP - PROJECT MANAGEMENT</h2>
 <br><br>
 <h3 id="zulip"> ZULIP </h3>
 
