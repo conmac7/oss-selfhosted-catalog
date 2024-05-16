@@ -77,6 +77,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
   - [OpenIndiana](#open-indiana)
   - [SerenityOS](#serenity-os)
 - [Privacy - Security](#privacy-security)
+  - [DNSCrypt](#dns-crypt)
   - [Kodachi (Linux Distro)](#kodachi)
 - [Virtualization](#virtualization)
   - [Proxmox Virtual Environment](#proxmox)
@@ -906,6 +907,18 @@ The system is written in what the authors call "Serenity C++", a variant of C++ 
 <div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h2 id="privacy-security" align="center">PRIVACY - SECURITY</h2>
+<br><br>
+<h3 id="dns-crypt"> DNSCRYPT </h3>
+
+>Links: <div><a href="https://dnscrypt.info/"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/dnscrypt"><img src="/images/git_hub-logo.png" height="72" /></a></div>
+
+DNSCrypt is a network protocol that authenticates and encrypts Domain Name System (DNS) traffic between the user's computer and recursive name servers
+
+It also mitigates UDP-based amplification attacks by requiring a question to be at least as large as the corresponding
+
+Anonymized DNSCrypt is a protocol extension proposed in 2019 to further improve DNS privacy
+<div align="center"> <img src="/images/dnscrypt.png" width="800" /> </div>
+<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h3 id="kodachi"> KODACHI (LINUX DISTRO) </h3>
 
