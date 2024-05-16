@@ -71,8 +71,8 @@ Finally, the aim of this collection is not to catalog every single open-source a
     - [Office - Productivity](#productivity-office)<p id="unused"></p>
         - [Baserow](#baserow)<p id="unused"></p>
         - [Bookstack](#bookstack)<p id="unused"></p>
-        - [Linkwarden](#linkwarden)<p id="unused"></p>
         - [Firefly III](#firefly-iii)<p id="unused"></p>
+        - [Linkwarden](#linkwarden)<p id="unused"></p>
         - [Notesnook](#notesnook)<p id="unused"></p>
         - [ONLYOFFICE](#only-office)<p id="unused"></p>
         - [Penpot](#penpot)<p id="unused"></p>
