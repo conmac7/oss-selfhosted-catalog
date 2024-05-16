@@ -103,7 +103,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
 <h2 id="credits-licenses" align="center">CREDITS - LICENSES</h2>
 <br><br>
 <h3 id="open-source-initiative"> OPEN SOURCE INITIATIVE </h3>
-<div> <img src="/images/Open_Source_Initiative.png" height="48" /> <p> This work is titled Open Source Initiative , created by Colin Viebrock licensed under CC BY 2.5 </p> </div>
+<div> <img src="/images/Open_Source_Initiative.png" height="48" /> <p style="font-size: smaller;"> This work is titled Open Source Initiative , created by Colin Viebrock licensed under CC BY 2.5 </p> </div>
 <br><br>
 <h2 id="software" align="center">SOFTWARE</h2>
 <br><br>
