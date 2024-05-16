@@ -962,7 +962,7 @@ It offers two approaches:
 
 - content-addressing (ipfs://)
 - uploader-addressing (ipns://) allowing for mutable sites.
-<div align="center"> <img src="/images/ipfs.jpg" width="480" /> </div>
+<div align="center"> <img src="/images/ipfs.jpg" width="600" /> </div>
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#webalternativez"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
 <h3 id="zeronet"> ZERONET </h3>
