@@ -18,7 +18,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
 ## Table of Contents 
 - [Credits - Licenses](#credits-licenses)<p id="adminn"></p>
     - [Open Source Initiative (Logo)](#open-source-initiative)<p id="unused"></p><br>
-- [Software](#software)<p id="unused"></p><br>
+- [Software](#software)<p id="unused"></p>
     - [Admin(app, network, sys, web) - CMS - IT - Networking](#admin-it-networking)<p id="unused"></p>
         - [Flarum](#flarum)<p id="unused"></p>
         - [Freedombox](#freedombox)<p id="unused"></p>
