@@ -1013,14 +1013,14 @@ The key highlights that distinguish Haiku from other operating systems include:
 - Database-like file system (BFS) with support for indexed metadata
 - Unified, cohesive interface
 <div align="center"> <img src="/images/maxresdefault.jpg" width="800" /></a> </div>
-<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#ossopsys"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
 <h3 id="illumos"> ILLUMOS </h3>
 
 >Links: <div><a href="https://www.illumos.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/illumos/illumos-gate"><img src="/images/git_hub-logo.png" height="72" /></a></div>
 
 illumos is a Unix operating system which provides next-generation features for downstream distributions, including advanced system debugging, next generation filesystem, networking, and virtualization options.
-<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#ossopsys"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
 <h3 id="kolibri-os"> KOLIBRIOS </h3>
 
@@ -1030,7 +1030,7 @@ Colibri is a tiny yet incredibly powerful and fast operating system. Requires on
 
 Applications that start instantly, immediately after clicking an icon, without annoying hourglass pointers. This speed is achieved since the core parts of KolibriOS (kernel and drivers) are written entirely in FASM assembly language
 <div align="center"> <img src="/images/KolibriOS.png" width="800" /> </div>
-<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#ossopsys"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
 <h3 id="open-indiana"> OPENINDIANA </h3>
 
@@ -1038,7 +1038,7 @@ Applications that start instantly, immediately after clicking an icon, without a
 
 OpenIndiana is a free and open-source illumos distribution descended from UNIX System V Release 4 via the OpenSolaris operating system. Forked from OpenSolaris after OpenSolaris was discontinued by Oracle Corporation
 <div align="center"> <img src="/images/OpenIndiana.png" width="800" /></div>
-<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#ossopsys"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
 <h3 id="serenity-os"> SERENITYOS </h3>
 
@@ -1056,7 +1056,7 @@ Development does not adhere to a release cycle; as such, there are no releases. 
 
 The system is written in what the authors call "Serenity C++", a variant of C++ that lacks exceptions and features its own standard library.
 <div align="center"> <img src="/images/serenity-os.png" width="800" /> </div>
-<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#ossopsys"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
 <h2 id="privacy-security" align="center">███PRIVACY - SECURITY███</h2>
 <br><br>
