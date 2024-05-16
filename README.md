@@ -491,10 +491,8 @@ Tox is easy-to-use software that connects you with friends and family without an
 - Screen sharing
 - File sharing
 - Groups
-- Encrypted
-Everything you do with Tox is encrypted using open-source libraries. The only people who can see your conversations are the people you're talking with.
-- Distributed
-Tox has no central servers
+- Encrypted: Everything you do with Tox is encrypted using open-source libraries. The only people who can see your conversations are the people you're talking with.
+- Distributed: Tox has no central servers
 <div align="center"> <img src="/images/qtox.png" width="800" /></a> </div>
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#socialss"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>    
