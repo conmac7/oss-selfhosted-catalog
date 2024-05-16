@@ -74,11 +74,13 @@ Finally, the aim of this collection is not to catalog every single open-source a
     - [Office - Productivity](#productivity-office)<p id="unused"></p>
         - [Baserow](#baserow)<p id="unused"></p>
         - [Bookstack](#bookstack)<p id="unused"></p>
+        - [Files](#files)<p id="unused"></p>
         - [Firefly III](#firefly-iii)<p id="unused"></p>
         - [Linkwarden](#linkwarden)<p id="unused"></p>
         - [Notesnook](#notesnook)<p id="unused"></p>
         - [ONLYOFFICE](#only-office)<p id="unused"></p>
         - [Penpot](#penpot)<p id="unused"></p>
+        - [Spacedrive](#spacedrive)<p id="unused"></p>
         - [Standard Notes](#standard-notes)<p id="unused"></p>
         - [TagSpaces](#tag-spaces)<p id="unused"></p>
         - [Turtl](#turtl)<p id="unused"></p>
@@ -960,6 +962,23 @@ Documentation/wiki software aimed for a simple, self-hosted, and easy-to-use pla
 <div align="center"> <img src="/images/bookstack.png" width="800" /></a> </div>
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#officeee"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
+<h3 id="files"> FILES </h3>
+
+>Links: <div><a href="https://files.community"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/files-community/files/"><img src="/images/git_hub-logo.png" height="72"/></div>
+
+File manager app for Windows
+
+- Multitask with tabs
+- Dual panel
+- Tag files and folders
+- View and edit archives
+- Cloud integration
+- QuickLook
+- Git integration
+- Hashes
+<div align="center"> <img src="/images/files.png" width="800" /></a> </div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#officeee"><img src="/images/back-to-current.png" width="120" /></div>
+<br><br>
 <h3 id="firefly-iii"> FIREFLY III </h3>
 
 >Links: <div><a href="https://www.firefly-iii.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/firefly-iii"><img src="/images/git_hub-logo.png" height="72"/></div>
@@ -1017,6 +1036,31 @@ Penpot is the first open-source design and prototyping tool meant for Product te
 <div align="center"> <img src="/images/penpot.jpg" width="800" /></a> </div>
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#officeee"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
+<h3 id="spacedrive"> SPACEDRIVE </h3>
+
+>Links: <div><a href="https://www.spacedrive.com"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/spacedriveapp"><img src="/images/git_hub-logo.png" height="72"/></div>
+
+Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
+
+- Virtual distributed filesystem (VDFS)
+- Indexing
+- Save searches
+- Quick view
+- Spacedrop (airdrop-like protocol)
+- Key manager
+- Cloud integrations
+- File versioning
+- Encrypted vault(s)
+- Self Hosted
+- Tags
+- Labeling & AI labeling
+- Comments
+- Cross Platform
+<div align="center"> <img src="/images/spacedrive.png" width="800" /></a> </div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#officeee"><img src="/images/back-to-current.png" width="120" /></div>
+<br><br>
+
+
 <h3 id="standard-notes"> STANDARDNOTES </h3>
 
 >Links: <div><a href="https://standardnotes.com"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/standardnotes/app"><img src="/images/git_hub-logo.png" height="72"/></div>
