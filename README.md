@@ -37,10 +37,10 @@ Finally, the aim of this collection is not to catalog every single open-source a
         - [friendica](#friendica)
         - [Funkwhale](#funkwhale)
         - [Jitsi Meet](#jitsi-meet)
-        - [mastodon](#mastodon)
+        - [mastodon](#mastodon)<p id="colab"></p>
         - [PeerTube](#peertube)
         - [Pleroma](#pleroma)
-    - [Collaboration Platforms - CRM - ERP - Project Management](#colab-erp-crm) <p id="colab"></p>
+    - [Collaboration Platforms - CRM - ERP - Project Management](#colab-erp-crm)
         - [Element](#element)
         - [ERPNext](#erp-next)
         - [Kanboard](#kanboard)
@@ -450,7 +450,7 @@ To host your own copy of Element, the quickest bet is to use a pre-built release
 - Configure the app by copying config.sample.json to config.json and modifying it. See the configuration docs for details.
 - Enter the URL into your browser and log into Element!
 <div align="center"> <img src="/images/element.png" width="800" /></a> </div>
-<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#socialss"><img src="/images/back-to-current.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#colab"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
 <h3 id="erp-next"> ERPNEXT </h3>
 
@@ -480,7 +480,7 @@ There is no fancy user interface, Kanboard focus on simplicity and minimalism. T
 - Self-hosted
 - Super simple installation
 <div align="center"> <img src="/images/kanboard.gif" width="800" /></a> </div>
-<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#socialss"><img src="/images/back-to-current.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#colab"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
 <h3 id="mattermost"> MATTERMOST </h3>
 
@@ -492,7 +492,7 @@ Mattermost is a secure, open source platform for communication, collaboration, a
 
 As an alternative to proprietary SaaS messaging, Mattermost brings all your team communication into one place, making it searchable and accessible anywhere. It’s written in Golang and React and runs as a production-ready Linux binary under an MIT license with either MySQL or Postgres.
 <div align="center"> <img src="/images/mattermost.png" width="800" /></a> </div>
-<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#socialss"><img src="/images/back-to-current.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#colab"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
 <h3 id="nextcloud"> NEXTCLOUD </h3>
 
@@ -504,7 +504,7 @@ Nextcloud Hub integrates the four key Nextcloud products Files, Talk, Groupware 
 
 Nextcloud is a suite of client-server software for creating and using file hosting services. Nextcloud provides functionally similar to Dropbox, Office 365 or Google Drive when used with integrated office suites Collabora Online or OnlyOffice. It can be hosted in the cloud or on-premises. It is scalable from home office software based on the low-cost Raspberry Pi all the way through to full sized data centers that support millions of users
 <div align="center"> <img src="/images/nextcloud.png" width="800" /></a> </div>
-<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#socialss"><img src="/images/back-to-current.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#colab"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
 <h3 id="openproject"> OPENPROJECT </h3>
 
@@ -528,7 +528,7 @@ OpenProject is a web-based project management software. Its key features are:
 - Forums
 - Meeting agendas and meeting minutes
 <div align="center"> <img src="/images/openproject.jpg" width="800" /></a> </div>
-<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#socialss"><img src="/images/back-to-current.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#colab"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
 <h3 id="redmine"> REDMINE </h3>
 
@@ -557,7 +557,7 @@ It integrates with a number of different SCM:s including Subversion and Git. It 
 - Multilanguage support
 - Multiple databases support
 <div align="center"> <img src="/images/REDMINE.jpg" width="800" /></a> </div>
-<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#socialss"><img src="/images/back-to-current.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#colab"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
 <h3 id="suite-crm"> SUITECRM </h3>
 
@@ -589,7 +589,7 @@ In addition to the new modules, extensive bug fixes and many enhancements to the
 
 A six-month release cycle is maintained with bug fix and security releases being made available between major releases
 <div align="center"> <img src="/images/suitecrm.png" width="800" /></a> </div>
-<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#socialss"><img src="/images/back-to-current.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#colab"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br><br>
 <h3 id="wekan"> WEKAN </h3>
 
@@ -599,7 +599,7 @@ Wekan is an open-source and collaborative kanban board application.
 
 Wekan, formerly LibreBoard, is an open-source and collaborative Trello icon Trello -like kanban board application.
 <div align="center"> <img src="/images/wekan.png" width="800" /></a> </div>
-<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#socialss"><img src="/images/back-to-current.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#colab"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
 <h3 id="zulip"> ZULIP </h3>
 
@@ -619,7 +619,7 @@ Zulip can transform how your organization communicates:
 - Remote workers can participate in an equal way to people present in person.
 - Employees don’t need to be glued to their keyboard or phone in order to avoid missing out on important conversations.
 <div align="center"> <img src="/images/zulip.png" width="800" /></a> </div>
-<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#socialss"><img src="/images/back-to-current.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#colab"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
 <h2 id="dashboards" align="center">███DASHBOARDS███</h2>
 <br><br>
