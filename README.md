@@ -283,31 +283,6 @@ Run Zabbix on-premise or in the cloud
 <br><br>
 <h2 id="socials" align="center">CHATTING - SELF-HOSTED MEDIA PLATFORMS - SOCIAL NETWORKING - DAILYMOTION/YOUTUBE ALTERNATIVES</h2>
 <br><br>
-<h3 id="mastodon"> MASTODON </h3>
-
->Links: <div><a href="https://mastodon.social/explore"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/mastodon/mastodon"><img src="/images/git_hub-logo.png" height="72"/></a></div>
-
-Mastodon is a Social networking that's not for sale.
-
-Your home feed should be filled with what matters to you most, not what a corporation thinks you should see. Radically different social media, back in the hands of the people.
-<div align="center"> <img src="/images/mastodon.png" width="800" /></a> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
-<br><br>
-<h3 id="Pleroma"> PLEROMA </h3>
-
->Links: <div><a href="https://pleroma.social"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://git.pleroma.social/pleroma/"><img src="/images/git_share.png" height="72"/></a></div>
-
-Pleroma is a free, federated social networking server built on open protocols. It is compatible with GNU Social, Mastodon, and many other ActivityPub
-
-The project consists of several components:
-
-Pleroma is the server implementation, and comes bundled with PleromaFE, the default frontend. Other useful utilities are also provided, such as an ActivityPub relay.
-
-Start using Pleroma by joining an existing Pleroma instance or check the installation guide to setting up your own server.
-
-<div align="center"> <img src="/images/pleroma.png" width="800" /></a> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
-<br><br>
 <h3 id="diaspora"> DIASPORA </h3>
 
 >Links: <div><a href="https://diasporafoundation.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/diaspora/diaspora"><img src="/images/git_hub-logo.png" height="72"/></a></div>
@@ -350,16 +325,6 @@ Friendica runs on commodity hosting platforms powered by PHP/MySQL/Apache. If yo
 <div align="center"> <img src="/images/friendica.png" width="800" /></a> </div>
 <div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
-<h3 id="peertube"> PEERTUBE </h3>
-
->Links: <div><a href="https://joinpeertube.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/Chocobozzz/PeerTube"><img src="/images/git_hub-logo.png" height="72"/></a></div>
-
-PeerTube is a free, decentralized and federated video platform developed as an alternative to other platforms that centralize our data and attention, such as YouTube, Dailymotion or Vimeo.
-
-If you have a minimum amount of time and technical skills, creating your own platform (also called "instance") on your server is the best way to take advantage of PeerTube.
-<div align="center"> <img src="/images/peertube.png" width="800" /></a> </div>
-<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
-<br><br>
 <h3 id="funkwhale"> FUNWHALE </h3>
 
 >Links: <div><a href="https://www.funkwhale.audio"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://dev.funkwhale.audio/funkwhale"><img src="/images/git_share.png" height="72"/></a></div>
@@ -387,6 +352,41 @@ Go ahead, video chat with the whole team. In fact, invite everyone you know. Jit
 <div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h2 id="colab-erp-crm" align="center">COLLABORATION PLATFORMS - CRM - ERP - PROJECT MANAGEMENT</h2>
+<br><br>
+<h3 id="mastodon"> MASTODON </h3>
+
+>Links: <div><a href="https://mastodon.social/explore"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/mastodon/mastodon"><img src="/images/git_hub-logo.png" height="72"/></a></div>
+
+Mastodon is a Social networking that's not for sale.
+
+Your home feed should be filled with what matters to you most, not what a corporation thinks you should see. Radically different social media, back in the hands of the people.
+<div align="center"> <img src="/images/mastodon.png" width="800" /></a> </div>
+<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<br><br>
+<h3 id="peertube"> PEERTUBE </h3>
+
+>Links: <div><a href="https://joinpeertube.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/Chocobozzz/PeerTube"><img src="/images/git_hub-logo.png" height="72"/></a></div>
+
+PeerTube is a free, decentralized and federated video platform developed as an alternative to other platforms that centralize our data and attention, such as YouTube, Dailymotion or Vimeo.
+
+If you have a minimum amount of time and technical skills, creating your own platform (also called "instance") on your server is the best way to take advantage of PeerTube.
+<div align="center"> <img src="/images/peertube.png" width="800" /></a> </div>
+<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
+<br><br>
+<h3 id="Pleroma"> PLEROMA </h3>
+
+>Links: <div><a href="https://pleroma.social"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://git.pleroma.social/pleroma/"><img src="/images/git_share.png" height="72"/></a></div>
+
+Pleroma is a free, federated social networking server built on open protocols. It is compatible with GNU Social, Mastodon, and many other ActivityPub
+
+The project consists of several components:
+
+Pleroma is the server implementation, and comes bundled with PleromaFE, the default frontend. Other useful utilities are also provided, such as an ActivityPub relay.
+
+Start using Pleroma by joining an existing Pleroma instance or check the installation guide to setting up your own server.
+
+<div align="center"> <img src="/images/pleroma.png" width="800" /></a> </div>
+<div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h3 id="zulip"> ZULIP </h3>
 
