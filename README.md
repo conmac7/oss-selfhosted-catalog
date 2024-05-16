@@ -887,7 +887,7 @@ Snapdrop is built with the following awesome technologies:
 - WebRTC / WebSockets
 - NodeJS backend
 - Progressive Web App
-<div align="center"> <img src="/images/snapdrop.png" width="800" /></a> </div>
+<div align="center"> <img src="/images/snapdrop.png" width="640" /></a> </div>
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#filezharing"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>    
 <h2 id="homeserver-personalcloud" align="center">███HOME SERVER - PERSONAL CLOUD███</h2>
