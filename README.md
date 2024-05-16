@@ -60,6 +60,10 @@ Finally, the aim of this collection is not to catalog every single open-source a
         - [SuiteCRM](#suite-crm)<p id="unused"></p>
         - [WeKan](#wekan)<p id="dashh"></p>
         - [Zulip](#zulip)<p id="unused"></p><br>
+    - [Communication protocol - Information System - Internet Protocol - Transfer Protocol -  WEB Alternatives](#web-alts)<p id="unused"></p>
+        - [Hyphanet](#hyphanet)<p id="unused"></p>
+        - [IPFS (InterPlanetary File System)](#ipfs)<p id="unused"></p>
+        - [ZeroNet](#zeronet)<p id="unused"></p><br>
     - [Dashboards](#dashboards)<p id="unused"></p>
         - [Dashy](#dashy)<p id="unused"></p>
         - [Heimdall](#heimdall)<p id="filezharing"></p>
@@ -72,10 +76,6 @@ Finally, the aim of this collection is not to catalog every single open-source a
     - [Home Server - Personal Cloud](#homeserver-personalcloud)<p id="webalternativez"></p>
         - [CasaOS](#casa-os)<p id="mediaa-mngmnt"></p>
         - [Umbrel](#umbrel)<p id="unused"></p><br>
-    - [Information System - Internet Protocol - Transfer Protocol -  WEB Alternatives](#web-alts)<p id="unused"></p>
-        - [Hyphanet](#hyphanet)<p id="unused"></p>
-        - [IPFS (InterPlanetary File System)](#ipfs)<p id="unused"></p>
-        - [ZeroNet](#zeronet)<p id="unused"></p><br>
     - [Media Management (Audiobooks - Ebooks/PDF - Documents - Movies - Music - Podcasts - Photos - TV Shows - Videos)](#media-management)<p id="unused"></p>
         - [Docspell](#docspell)<p id="unused"></p>
         - [digiKam](#digikam)<p id="unused"></p>
@@ -799,6 +799,53 @@ Zulip can transform how your organization communicates:
 <div align="center"> <img src="/images/zulip.png" width="800" /></a> </div>
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#colab"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
+<h2 id="web-alts" align="center">███Communication protocol - INFORMATION SYSTEM - INTERNET PROTOCOL - TRANSFER PROTOCOL -  WEB ALTERNATIVES███</h2>
+<br><br>
+<h3 id="hyphanet"> HYPHANET </h3>
+
+>Links: <div><a href="https://www.hyphanet.org/index.html"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/hyphanet/fred"><img src="/images/git_hub-logo.png" height="72" /></a></div>
+
+Hyphanet is a peer-to-peer platform for censorship-resistant and privacy-respecting publishing and communication
+
+Peer-to-peer platform for censorship-resistant, anonymous communication. It uses a decentralized distributed data store to keep and deliver information, and has a suite of free software for publishing and communicating on the Web without fear of censorship.
+
+The distributed data store of Freenet is used by many third-party programs and plugins to provide microblogging and media sharing.
+
+Anonymous and decentralised version tracking, blogging,  a generic web of trust for decentralized spam resistance and many more.
+
+The Freenet protocol uses a key-based routing protocol, similar to distributed hash tables.
+<div align="center"> <img src="/images/hyphanet.png" width="800" /> </div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#webalternativez"><img src="/images/back-to-current.png" width="120" /></div>
+<br><br>    
+<h3 id="ipfs"> IPFS (INTERPLANETARY FILESYSTEM) </h3>
+
+>Links: <div><a href="https://ipfs.tech"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/ipfs"><img src="/images/git_hub-logo.png" height="72" /></a></div>
+
+IPFS is the permanent web. A new peer-to-peer hypermedia protocol.
+
+IPFS is a global, versioned, peer-to-peer filesystem. It combines ideas from Git, BitTorrent, Kademlia, SFS, and the web. It is like a single bittorrent swarm, exchanging git objects. IPFS provides an interface as simple as the HTTP web, but with permanence built in. You can also mount the world at /ipfs. IPFS could become a new major subsystem of the internet. If built right, it could complement or replace HTTP.
+
+It offers two approaches:
+
+- content-addressing (ipfs://)
+- uploader-addressing (ipns://) allowing for mutable sites.
+<div align="center"> <img src="/images/ipfs.jpg" width="600" /> </div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#webalternativez"><img src="/images/back-to-current.png" width="120" /></div>
+<br><br>
+<h3 id="zeronet"> ZERONET </h3>
+  
+>Links: <div><a href="https://zeronet.io"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/HelloZeroNet/ZeroNet"><img src="/images/git_hub-logo.png" height="72"/></a></div>
+
+Open, free and uncensorable websites, using Bitcoin cryptography and BitTorrent network
+
+ZeroNet is a decentralized web-like network of peer-to-peer users
+
+Instead of having an IP address, sites are identified by a public key (specifically a bitcoin address). The private key allows the owner of a site to sign and publish changes, which propagate through the network. Sites can be accessed through an ordinary web browser when using the ZeroNet application, which acts as a local webhost for such pages.
+
+ZeroNet is not anonymous by default, but it supports routing traffic through the Tor network
+<div align="center"> <img src="/images/zeronet.png" width="800" /></a> </div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#webalternativez"><img src="/images/back-to-current.png" width="120" /></div>
+<br><br>
 <h2 id="dashboards" align="center">███DASHBOARDS███</h2>
 <br><br>
 <h3 id="dashy"> DASHY </h3>
@@ -931,54 +978,7 @@ An OS for running a server in your home. Self-host open source apps like Nextclo
 - Run your own node and achieve unparalleled privacy by connecting your wallet directly to your Bitcoin node. This ensures that your wallet company can’t spy on your transactions, or worse — lie to you.
 <div align="center"> <img src="/images/umbrel.png" width="800" /></a> </div>
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#home-serverr"><img src="/images/back-to-current.png" width="120" /></div>
-<br><br>
-<h2 id="web-alts" align="center">███INFORMATION SYSTEM - INTERNET PROTOCOL - TRANSFER PROTOCOL -  WEB ALTERNATIVES███</h2>
-<br><br>
-<h3 id="hyphanet"> HYPHANET </h3>
-
->Links: <div><a href="https://www.hyphanet.org/index.html"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/hyphanet/fred"><img src="/images/git_hub-logo.png" height="72" /></a></div>
-
-Hyphanet is a peer-to-peer platform for censorship-resistant and privacy-respecting publishing and communication
-
-Peer-to-peer platform for censorship-resistant, anonymous communication. It uses a decentralized distributed data store to keep and deliver information, and has a suite of free software for publishing and communicating on the Web without fear of censorship.
-
-The distributed data store of Freenet is used by many third-party programs and plugins to provide microblogging and media sharing.
-
-Anonymous and decentralised version tracking, blogging,  a generic web of trust for decentralized spam resistance and many more.
-
-The Freenet protocol uses a key-based routing protocol, similar to distributed hash tables.
-<div align="center"> <img src="/images/hyphanet.png" width="800" /> </div>
-<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#webalternativez"><img src="/images/back-to-current.png" width="120" /></div>
-<br><br>    
-<h3 id="ipfs"> IPFS (INTERPLANETARY FILESYSTEM) </h3>
-
->Links: <div><a href="https://ipfs.tech"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/ipfs"><img src="/images/git_hub-logo.png" height="72" /></a></div>
-
-IPFS is the permanent web. A new peer-to-peer hypermedia protocol.
-
-IPFS is a global, versioned, peer-to-peer filesystem. It combines ideas from Git, BitTorrent, Kademlia, SFS, and the web. It is like a single bittorrent swarm, exchanging git objects. IPFS provides an interface as simple as the HTTP web, but with permanence built in. You can also mount the world at /ipfs. IPFS could become a new major subsystem of the internet. If built right, it could complement or replace HTTP.
-
-It offers two approaches:
-
-- content-addressing (ipfs://)
-- uploader-addressing (ipns://) allowing for mutable sites.
-<div align="center"> <img src="/images/ipfs.jpg" width="600" /> </div>
-<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#webalternativez"><img src="/images/back-to-current.png" width="120" /></div>
-<br><br>
-<h3 id="zeronet"> ZERONET </h3>
-  
->Links: <div><a href="https://zeronet.io"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/HelloZeroNet/ZeroNet"><img src="/images/git_hub-logo.png" height="72"/></a></div>
-
-Open, free and uncensorable websites, using Bitcoin cryptography and BitTorrent network
-
-ZeroNet is a decentralized web-like network of peer-to-peer users
-
-Instead of having an IP address, sites are identified by a public key (specifically a bitcoin address). The private key allows the owner of a site to sign and publish changes, which propagate through the network. Sites can be accessed through an ordinary web browser when using the ZeroNet application, which acts as a local webhost for such pages.
-
-ZeroNet is not anonymous by default, but it supports routing traffic through the Tor network
-<div align="center"> <img src="/images/zeronet.png" width="800" /></a> </div>
-<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#webalternativez"><img src="/images/back-to-current.png" width="120" /></div>
-<br><br>    
+<br><br> 
 <h2 id="media-management" align="center">███MEDIA MANAGEMENT (AUDIOBOOKS - EBOOKS/PDF - DOCUMENTS - MOVIES - MUSIC - PODCASTS - PHOTOS - TV SHOWS - VIDEOS)███</h2>
 <br><br>
 <h3 id="docspell"> DOCSPELL </h3>
