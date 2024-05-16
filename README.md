@@ -36,10 +36,12 @@ Finally, the aim of this collection is not to catalog every single open-source a
         - [Zabbix](#zabbix)<p id="unused"></p><br>
     - [Chatting - Self-hosted Media Platforms - Social Networking - Dailymotion/Youtube Alternatives](#socials)
         - [Diaspora](#diaspora)<p id="unused"></p>
+        - [Discuit](#discuit)<p id="unused"></p>
         - [friendica](#friendica)<p id="unused"></p>
         - [Funkwhale](#funkwhale)<p id="unused"></p>
         - [Jitsi Meet](#jitsi-meet)<p id="unused"></p>
         - [mastodon](#mastodon)<p id="unused"></p>
+        - [Minds](#minds)<p id="unused"></p>
         - [PeerTube](#peertube)<p id="colab"></p>
         - [PixelFed](#pixelfed)<p id="unused"></p>
         - [Pleroma](#pleroma)<p id="unused"></p>
@@ -402,6 +404,14 @@ The online social world where you are in control. based on three key philosophie
 <div align="center"> <img src="/images/diaspora.png" width="800" /></a> </div>
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#socialss"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
+<h3 id="discuit"> DISCUIT </h3>
+
+>Links: <div><a href="https://discuit.net"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/discuitnet/discuit"><img src="/images/git_hub-logo.png" height="72"/></a></div>
+
+A free and open-source community discussion platform.
+<div align="center"> <img src="/images/discuit.png" width="800" /></a> </div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#socialss"><img src="/images/back-to-current.png" width="120" /></div>
+<br><br>
 <h3 id="friendica"> FRIENDICA </h3>
 
 >Links: <div><a href="https://friendi.ca"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/friendica/friendica"><img src="/images/git_hub-logo.png" height="72"/></a></div>
@@ -456,6 +466,35 @@ Mastodon is a Social networking that's not for sale.
 
 Your home feed should be filled with what matters to you most, not what a corporation thinks you should see. Radically different social media, back in the hands of the people.
 <div align="center"> <img src="/images/mastodon.png" width="800" /></a> </div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#socialss"><img src="/images/back-to-current.png" width="120" /></div>
+<br><br>
+<h3 id="minds"> MINDS </h3>
+
+>Links: <div><a href="https://www.minds.com"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/Minds"><img src="/images/git_hub-logo.png" height="72"/></a></a><a href="https://gitlab.com/minds"><img src="/images/git_share.png" height="72"/></a></div>
+
+Minds is a free & open source social network dedicated to privacy and freedom.
+
+Minds.com is the one of the largest networks in the decentralized social media space and has generated more than a billion views. We believe freedom of speech and open dialogue are the solution to these polarized times.
+
+Features:
+- Newsfeed
+- Explore
+- Search
+- Groups
+- Chat
+- Blogs
+- Video - Photos
+- Tips
+- Memberships
+- Paid Replies
+- Notifications
+- Chat
+- Affiliate
+- Rewards
+- Analytics
+- Monetization
+- Rewards
+<div align="center"> <img src="/images/minds.png" width="800" /></a> </div>
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#socialss"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
 <h3 id="peertube"> PEERTUBE </h3>
