@@ -66,7 +66,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
         - [Homarr](#homarr)<p id="home-serverr"></p>
         - [homepage](#homepage)<p id="unused"></p><br>
     - [File Sharing - P2P](#filesharing-p2p2)<p id="unused"></p>
-        - [OnionShare](#snionshare)<p id="unused"></p>
+        - [OnionShare](#onionshare)<p id="unused"></p>
         - [ShareDrop](#sharedrop)<p id="unused"></p>
         - [Snapdrop](#snapdrop)<p id="unused"></p><br>
     - [Home Server - Personal Cloud](#homeserver-personalcloud)<p id="webalternativez"></p>
