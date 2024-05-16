@@ -1022,7 +1022,7 @@ With Portmaster's great defaults your privacy improves without any effort. And i
 >Links: <div><a href="https://www.softether.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/SoftEtherVPN/SoftEtherVPN/"><img src="/images/git_hub-logo.png" height="72" /></a></div>
 
 SoftEther VPN ("SoftEther" means "Software Ethernet") is one of the world's most powerful and easy-to-use multi-protocol VPN software. It runs on Windows, Linux, Mac, FreeBSD and Solaris.
-<div align="center"> <img src="/images/SOFTETHERVPN.jpg" width="800" /> </div>
+<div align="center"> <img src="/images/SOFTETHERVPN.jpg" width="640" /> </div>
 <div align="center"><a href="#top"><img src="/images/back-to-top_v1.png" width="120" /></div>
 <br><br>
 <h3 id="vaultwarden"> VAULTWARDEN </h3>
