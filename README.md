@@ -103,7 +103,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
 <h2 id="credits-licenses" align="center">CREDITS - LICENSES</h2>
 <br><br>
 <h3 id="open-source-initiative"> OPEN SOURCE INITIATIVE </h3>
-<div> <img src="/images/Open_Source_Initiative.png" width="64" /></a> </div>
+<div> <a <img src="/images/Open_Source_Initiative.png" height="48" /></a> </div>
 <br><br>
 <h2 id="software" align="center">SOFTWARE</h2>
 <br><br>
