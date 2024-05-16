@@ -121,6 +121,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
       - [SerenityOS](#serenity-os)<p id="unused"></p><br>
     - [Privacy - Security](#privacy-security)<p id="unused"></p>
       - [Addy (FKA AnonAddy)](#addy)<p id="unused"></p>
+      - [AdGuard Home](#adguard-home)<p id="unused"></p>
       - [Bitwarden](#bitwarden)<p id="unused"></p>
       - [DNSCrypt](#dns-crypt)<p id="unused"></p>
       - [Fakeroute](#fakeroute)<p id="unused"></p>
@@ -1560,6 +1561,16 @@ Open-source anonymous email forwarding, create unlimited email aliases for free.
 - Reply to forwarded emails anonymously without revealing your true email address
 You can always just fire up your own server and self-host this application. You'll need to know about server administration and PHP. You can find more information here https://github.com/anonaddy/anonaddy#self-hosting
 <div align="center"> <img src="/images/anonaddy.png" width="800" /> </div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#privacyy"><img src="/images/back-to-current.png" width="120" /></div>
+<br><br>
+<h3 id="adguard-home"> ADGUARD HOME</h3>
+
+>Links: <div><a href="https://adguard.com/en/adguard-home/overview.html"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/AdguardTeam/AdGuardHome"><img src="/images/git_hub-logo.png" height="72" /></a></div>
+
+AdGuard Home is a network-wide software for blocking ads and tracking. After you set it up, it'll cover ALL your home devices, and you don't need any client-side software for that.
+
+It operates as a DNS server that re-routes tracking domains to a “black hole”, thus preventing your devices from connecting to those servers.
+<div align="center"> <img src="/images/adguardhome.gif" width="800" /> </div>
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#privacyy"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
 <h3 id="Bitwarden"> BITWARDEN </h3>
