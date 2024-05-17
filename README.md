@@ -285,7 +285,7 @@ Tasks related to processes (e.g. killing and renicing) can be done without enter
 <br><br>
 <h3 id="kuma"> KUMA </h3>
 
->Links: <div><a href="https://uptime.kuma.pet"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/louislam/uptime-kuma?tab=readme-ov-file"><img src="/images/git_hub-logo.png" height="72"/></div>
+>Links: <div><a href="https://uptime.kuma.pet"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/louislam/uptime-kuma"><img src="/images/git_hub-logo.png" height="72"/></div>
 
 A self-hosted monitoring tool
 
