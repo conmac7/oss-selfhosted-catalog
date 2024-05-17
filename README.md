@@ -43,7 +43,8 @@ Finally, the aim of this collection is not to catalog every single open-source a
         - [Zabbix](#zabbix)<p id="brainstorming_personal_organizing"></p><br>
     - [Agents- AI - Automation - LLMs](#agents-llm)<p id="unused"></p>
         - [Dify](#dify)<p id="unused"></p>
-        - [Home Assistant](#homeassist)<p id="unused"></p><br>
+        - [Home Assistant](#homeassist)<p id="unused"></p>
+        - [LLocalSearch](#llsearch)<p id="unused"></p><br>
     - [Brainstorming - Calendars - Contacts Management - Inventoring - Knowledge Management - Notetaking - Self-Hosted Wiki - Personal Organizers -  To Do Apps](#brainstormm)<p id="unused"></p>
         - [Anytype](#anytype)<p id="unused"></p>
         - [Homebox](#homebox)<p id="unused"></p>
@@ -563,7 +564,19 @@ Home Assistant is an open-source home automation software that enables users to 
 Home Assistant offers a robust solution for managing and automating smart home systems, making it easier for users to create a cohesive and efficient smart home environment.
 <div align="center"> <img src="/images/ha-main.webp" width="800" /></a> </div>
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#agents-llmz"><img src="/images/back-to-current.png" width="120" /></div>
-<br><br>    
+<br><br>
+<h3 id="llsearch"> LLOCALSEARCH </h3>
+
+>Links: <div><a href="https://github.com/nilsherzig/LLocalSearch"><img src="/images/git_hub-logo.png" height="72"/></a></div>
+
+LLocalSearch is a completely locally running search aggregator using LLM Agents.
+
+The user can ask a question and the system will use a chain of LLMs to find the answer.
+
+The user can see the progress of the agents and the final answer. No OpenAI or Google API keys are needed.
+<div align="center"> <img src="/images/lls.png" width="800" /></a> </div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#agents-llmz"><img src="/images/back-to-current.png" width="120" /></div>
+<br><br>
 <h2 id="brainstormm" align="center">███BRAINSTORMING - CALENDARS - CONTACTS MANAGEMENT - INVENTORING - KNOWLEDGE MANAGEMENT - NOTETAKING - SELF-HOSTED WIKI - PERSONAL ORGANIZERS -  TO DO APPS███</h2>
 <br><br>
 <h3 id="anytype"> ANYTYPE </h3>
