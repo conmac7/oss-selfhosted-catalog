@@ -56,9 +56,9 @@ Finally, the aim of this collection is not to catalog every single open-source a
         - [odysee](#odysee)<p id="unused"></p>
         - [PeerTube](#peertube)<p id="unused"></p>
         - [Rocket.Chat](#rocket-chat)<p id="colab"></p>
-        - [PixelFed](#pixelfed)<p id="colab"></p>
+        - [PixelFed](#pixelfed)<p id="unused"></p><br>
         - [Pleroma](#pleroma)<p id="unused"></p>
-        - [Tox](#tox)<p id="unused"></p><br>
+        - [Tox](#tox)<p id="colab"></p>
     - [Collaboration Platforms - CRM - ERP - Project Management](#colab-erp-crm)<p id="unused"></p>
         - [Element](#element)<p id="unused"></p>
         - [ERPNext](#erp-next)<p id="unused"></p>
