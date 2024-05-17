@@ -78,8 +78,8 @@ Finally, the aim of this collection is not to catalog every single open-source a
         - [I2P](#i2p)<p id="unused"></p>
         - [IPFS (InterPlanetary File System)](#ipfs)<p id="unused"></p>
         - [Solid](#solid)<p id="unused"></p>
-        - [Tor](#tor)<p id="spreadsheet-db-nocode"></p>
-        - [WebTorrent](#webtorrent)<p id="unused"></p>
+        - [Tor](#tor)<p id="unused"></p>
+        - [WebTorrent](#webtorrent)<p id="spreadsheet-db-nocode"></p>
         - [ZeroNet](#zeronet)<p id="unused"></p><br>
     - [Databases - No Code - Spreadsheets](#db-nc-spreadsheets)<p id="unused"></p>
         - [Baserow](#baserow)<p id="unused"></p>
