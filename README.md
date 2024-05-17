@@ -27,6 +27,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
         - [Grafana](#grafana)<p id="unused"></p>
         - [Grav](#grav)<p id="unused"></p>
         - [htop](#htop)<p id="unused"></p>
+        - [Kuma](#kuma)<p id="unused"></p>
         - [LibreNMS](#libre-nms)<p id="unused"></p>
         - [LibreSpeed](#librespeed)<p id="unused"></p>
         - [Netmaker](#netmaker)<p id="unused"></p>
@@ -280,6 +281,24 @@ The information displayed is configurable through a graphical setup and can be s
 
 Tasks related to processes (e.g. killing and renicing) can be done without entering their PIDs.
 <div align="center"> <img src="/images/htop.png" height="800" /></a> </div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#adminn"><img src="/images/back-to-current.png" width="120" /></div>
+<br><br>
+<h3 id="kuma"> KUMA </h3>
+
+>Links: <div><a href="https://uptime.kuma.pet"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/louislam/uptime-kuma?tab=readme-ov-file"><img src="/images/git_hub-logo.png" height="72"/></div>
+
+A self-hosted monitoring tool
+
+- Monitoring uptime for HTTP(s) / TCP / HTTP(s) Keyword / HTTP(s) Json Query / Ping / DNS Record / Push / Steam Game Server / Docker Containers
+- Notifications via Telegram, Discord, Gotify, Slack, Pushover, Email (SMTP), and 90+ notification services
+- 20-second intervals
+- Multiple status pages
+- Map status pages to specific domains
+- Ping chart
+- Certificate info
+- Proxy support
+- 2FA support
+<div align="center"> <img src="/images/kuma.jpg" height="800" /></a> </div>
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#adminn"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
 <h3 id="libre-nms"> LIBRENMS </h3>
