@@ -2016,11 +2016,8 @@ It uses the OpenSSL encryption library extensively, as well as the TLS protocol,
 
 >Links: <div><a href="https://pi-hole.net"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/pi-hole"><img src="/images/git_hub-logo.png" height="72" /></a></div>
 
-Pi-hole is a Linux network-level advertisement and Internet tracker blocking application which acts as a DNS sinkhole and optionally a DHCP server, intended for use on a private network.
+Pi-hole is a software for blocking ads and trackers on your home network. It works on Linux devices and acts like a central hub for all your devices' internet traffic. By filtering DNS requests, Pi-hole can block ads on websites, apps, and even smart TVs. It achieves this by checking websites against blacklists of known ad and tracker domains and redirecting requests to those domains to nowhere.
 
-Pi-hole has the ability to block traditional website advertisements as well as advertisements in unconventional places, such as smart TVs and mobile operating system advertisements.
-
-Pi-hole makes use of a modified dnsmasq called FTLDNS, cURL, lighttpd, PHP and the AdminLTE Dashboard to block DNS requests for known tracking and advertising domains. The application acts as a DNS server for a private network (replacing any pre-existing DNS server provided by another device or the ISP), with the ability to block advertisements and tracking domains for users' devices. It obtains lists of advertisement and tracking domains from a configurable list of predefined sources, and compares DNS queries against them. If a match is found within any of the lists, or a locally configured blocklist, Pi-hole will refuse to resolve the requested domain and respond to the requesting device with a dummy address.
 <div align="center"> <img src="/images/pihole.webp" width="800" /> </div>
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#privacyy"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
