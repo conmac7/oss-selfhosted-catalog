@@ -88,7 +88,10 @@ Finally, the aim of this collection is not to catalog every single open-source a
         - [Homarr](#homarr)<p id="home-serverr"></p>
         - [homepage](#homepage)<p id="unused"></p><br>
     - [File Sharing - P2P](#filesharing-p2p2)<p id="unused"></p>
+        - [Deluge](#deluge)<p id="unused"></p> 
         - [OnionShare](#onionshare)<p id="unused"></p>
+        - [qBittorrent](#qBittorrent)<p id="unused"></p>
+        - [RetroShare](#retro-share)<p id="unused"></p>
         - [ShareDrop](#sharedrop)<p id="unused"></p>
         - [Snapdrop](#snapdrop)<p id="unused"></p><br>
     - [Home Server - Personal Cloud](#homeserver-personalcloud)<p id="mediaa-mngmnt"></p>
@@ -1149,6 +1152,16 @@ Homepage It's a self-hosted customizable dashboard application designed for pers
 <br><br>
 <h2 id="filesharing-p2p2" align="center">███FILE SHARING - P2P███</h2>
 <br><br>
+<h3 id="deluge"> DELUGE </h3>
+
+>Links: <div><a href="https://www.deluge-torrent.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/deluge-torrent/deluge"><img src="/images/git_hub-logo.png" height="72"/></div>
+
+The Deluge BitTorrent Client is a free, open-source, and cross-platform BitTorrent client. It utilizes a front and back end architecture where the networking logic, provided by the libtorrent library written in C++, connects to various front ends such as a text console, web interface, and graphical desktop interface using GTK via Python bindings.
+
+Deluge is designed to be lightweight, secure, and feature-rich. From version 1.0 onwards, Deluge has separated its core from the interface, running it as a daemon, which allows for remote management over the web. Key features include full encryption, a WebUI, and a plugin system.
+<div align="center"> <img src="/images/Deluge.png" width="800" /></a> </div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#filezharing"><img src="/images/back-to-current.png" width="120" /></div>
+<br><br>
 <h3 id="onionshare"> ONIONSHARE </h3>
 
 >Links: <div><a href="https://onionshare.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/onionshare/onionshare"><img src="/images/git_hub-logo.png" height="72"/></div>
@@ -1160,7 +1173,50 @@ Securely and anonymously share files, host websites, and chat with friends using
 - OnionShare allows you to quickly host an onion site, chat, and create a private dropdown in addition to sharing files!
 <div align="center"> <img src="/images/onionshare.png" width="800" /></a> </div>
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#filezharing"><img src="/images/back-to-current.png" width="120" /></div>
-<br><br>   
+<br><br>
+<h3 id="qBittorrent"> ;ΒΙΤΤΟΡΡΕΝΤ </h3>
+
+>Links: <div><a href="https://www.qbittorrent.org/"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/qbittorrent/qBittorrent"><img src="/images/git_hub-logo.png" height="72"/></div>
+
+qBittorrent is a bittorrent client
+
+- No Ads
+- Well-integrated and extensible Search Engine
+Simultaneous search in many Torrent search sites
+Category-specific search requests (e.g. Books, Music, Software)
+- Many Bittorrent extensions supported:
+Magnet links
+Distributed hash table (DHT), peer exchange protocol (PEX), local peer discovery (LSD)
+Private torrents
+Encrypted connections
+- Remote control through Web user interface
+- Advanced control over torrents, trackers and peers
+Torrents queueing and prioritizing
+Torrent content selection and prioritizing
+- Bandwidth scheduler
+- Torrent creation tool
+- IP Filtering (eMule & PeerGuardian format compatible)
+- IPv6 compliant
+- UPnP / NAT-PMP port forwarding support
+<div align="center"> <img src="/images/QBittorrent.png" width="800" /></a> </div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#filezharing"><img src="/images/back-to-current.png" width="120" /></div>
+<br><br>
+<h3 id="retro-share"> RETROSHARE </h3>
+
+>Links: <div><a href="https://retroshare.cc"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/RetroShare/RetroShare"><img src="/images/git_hub-logo.png" height="72"/></div>
+
+RetroShare is a free, open-source, cross-platform communication toolkit designed for secure, decentralized interactions.
+
+It facilitates encrypted connections among friends, enabling private file sharing, chat, messaging, forums, and channels without relying on central servers.
+
+Available on Android, Linux, MacOS, and Windows, RetroShare ensures user privacy and anonymity, even extending security to friends-of-friends.
+
+It supports encrypted mail, file sharing with BitTorrent-like swarming, censorship-resistant forums, and content sharing through boards and channels.
+
+Additionally, RetroShare can operate over Tor and I2P networks for enhanced anonymity, offering specialized builds for seamless integration.
+<div align="center"> <img src="/images/rs1.png" width="800" /></a> </div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#filezharing"><img src="/images/back-to-current.png" width="120" /></div>
+<br><br>
 <h3 id="sharedrop"> SHAREDROP </h3>
 
 >Links: <div><a href="https://www.sharedrop.io"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/szimek/sharedrop"><img src="/images/git_hub-logo.png" height="72"/></div>
