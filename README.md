@@ -27,6 +27,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
         - [Grafana](#grafana)<p id="unused"></p>
         - [Grav](#grav)<p id="unused"></p>
         - [htop](#htop)<p id="unused"></p>
+        - [Kasm Workspaces](#kasmw)<p id="unused"></p>
         - [Kuma](#kuma)<p id="unused"></p>
         - [LibreNMS](#libre-nms)<p id="unused"></p>
         - [LibreSpeed](#librespeed)<p id="unused"></p>
@@ -296,6 +297,25 @@ Tasks related to processes (e.g. killing and renicing) can be done without enter
 <div align="center"> <img src="/images/htop.png" height="800" /></a> </div>
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#adminn"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
+<h3 id="kasmw"> KASM WORKSPACES </h3>
+
+>Links: <div><a href="https://kasmweb.com/community-edition"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/kasmtech"><img src="/images/git_hub-logo.png" height="72"/></div>
+
+Kasm Workspaces allows administrators to define workspaces that users can use to access a desktop, a single application, or another webpage. 
+
+Kasm Workspaces is a platform that provides secure, isolated, and pre-configured development environments for software teams. It allows developers to access and collaborate on coding projects remotely, without the need to set up local development environments on their machines.
+
+- Isolated workspaces for each developer or team.
+- Pre-configured with necessary tools, libraries, and configurations.
+- Remote access from any device with an internet connection.
+- Integration with version control systems like Git.
+- Security features like role-based access control and audit trails.
+
+Kasm Workspaces simplifies the development process by offering secure, preconfigured, and collaborative coding environments accessible remotely, facilitating teamwork and streamlining the development workflow.
+<div align="center"> <img src="/images/kasmw.png" height="800" /></a> </div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#adminn"><img src="/images/back-to-current.png" width="120" /></div>
+<br><br>
+    
 <h3 id="kuma"> KUMA </h3>
 
 >Links: <div><a href="https://uptime.kuma.pet"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/louislam/uptime-kuma"><img src="/images/git_hub-logo.png" height="72"/></div>
