@@ -141,6 +141,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
       - [Addy (FKA AnonAddy)](#addy)<p id="unused"></p>
       - [AdGuard Home](#adguard-home)<p id="unused"></p>
       - [Bitwarden](#bitwarden)<p id="unused"></p>
+      - [ClamAV](#clamav)<p id="unused"></p>
       - [DNSCrypt](#dns-crypt)<p id="unused"></p>
       - [Fakeroute](#fakeroute)<p id="unused"></p>
       - [KeePassXC](#keepassxc)<p id="unused"></p>
@@ -1921,6 +1922,27 @@ Bitwarden offers a free cloud-hosted service as well as the ability to self-host
 <div align="center"> <img src="/images/Bitwarden.png" width="800" /> </div>
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#privacyy"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
+<h3 id="clamav"> CLAMAV </h3>
+
+>Links: <div><a href="https://www.clamav.net"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/Cisco-Talos/clamav"><img src="/images/git_hub-logo.png" height="72" /></a></div>
+
+ClamAV is an open-source antivirus software toolkit designed to detect malware, viruses, trojans, and other malicious threats. It is used for scanning files, directories, and even email attachments for potential threats.
+
+- Employs signature-based detection to identify known malware signatures in files.
+- Can scan files/directories on demand or via scheduled scans.
+- Supports on-access scanning to check files in real-time as they are accessed.
+- Provides a multi-threaded daemon for automatic virus updates.
+- Cross-platform, running on Linux, Windows, macOS, and other Unix-like systems.
+- Can be integrated with email servers to scan incoming/outgoing mail.
+- ClamAV is free and has an active community providing virus database updates.
+<div align="center"> <img src="/images/clam1.png" width="800" /> </div><br>
+<div align="center"> <img src="/images/clama_ubuntu.jpg" width="360" /> </div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#privacyy"><img src="/images/back-to-current.png" width="120" /></div>
+<br><br>
+
+
+
+    
 <h3 id="dns-crypt"> DNSCRYPT </h3>
 
 >Links: <div><a href="https://dnscrypt.info/"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/dnscrypt"><img src="/images/git_hub-logo.png" height="72" /></a></div>
