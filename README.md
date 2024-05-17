@@ -138,6 +138,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
       - [Bitwarden](#bitwarden)<p id="unused"></p>
       - [DNSCrypt](#dns-crypt)<p id="unused"></p>
       - [Fakeroute](#fakeroute)<p id="unused"></p>
+      - [KeePassXC](#keepassxc)<p id="unused"></p>
       - [Kodachi (Linux Distro)](#kodachi)<p id="unused"></p>
       - [OpenVPN](#open-vpn)<p id="unused"></p>
       - [Portmaster](#portmaster)<p id="unused"></p>
@@ -1816,6 +1817,25 @@ Fakeroute allows you to insert fake IPv4 and IPv6 hops between the last real hop
 <div align="center"> <img src="/images/fakeroute.png" width="800" /> </div>
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#privacyy"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
+<h3 id="keepassxc"> KEEPASSXC </h3>
+
+>Links: <div><a href="https://keepassxc.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/keepassxreboot/keepassxc"><img src="/images/git_hub-logo.png" height="72" /></a></div>
+
+KeePassXC is an open-source password manager application that allows users to securely store and manage their passwords, credit card information, and other sensitive data in an encrypted database file
+
+- Password Storage: Users can store all their passwords, along with associated website URLs, usernames, and notes in an encrypted database protected by a master password.
+- Secure Encryption: The databases are encrypted using strong encryption algorithms like AES-256 and ChaCha20, ensuring the sensitive data is securely protected.
+- Cross-Platform Availability: KeePassXC is available for Windows, macOS, and most Linux distributions, allowing users to access their password database across different platforms.
+- Autofill and Autotype: It provides features to automatically fill in login credentials and other data in web browsers and applications, making it easier to use complex passwords.
+- Import/Export: Users can import their existing passwords from other password managers or export their KeePassXC database for backup or portability.
+- Browser Integration: KeePassXC integrates with popular web browsers, allowing users to access their passwords directly from the browser interface.
+KeePassXC is a comprehensive and secure solution for managing and organizing all types of sensitive information, such as passwords, credit card details, and notes, while providing robust encryption and cross-platform compatibility.
+<div align="center"> <img src="/images/KeePassXC.png" width="800" /> </div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#privacyy"><img src="/images/back-to-current.png" width="120" /></div>
+<br><br>
+
+
+    
 <h3 id="kodachi"> KODACHI (LINUX DISTRO) </h3>
 
 >Links: <div><a href="https://www.digi77.com/linux-kodachi/"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://sourceforge.net/projects/linuxkodachi/files/"><img src="/images/sourceforge.png" height="72" /></a><a href="https://distrowatch.com/table.php?distribution=kodachi"><img src="/images/my_dwbanner.png" height="72" /></a></div>
