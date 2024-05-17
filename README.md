@@ -312,7 +312,7 @@ Kasm Workspaces is a platform that provides secure, isolated, and pre-configured
 - Security features like role-based access control and audit trails.
 
 Kasm Workspaces simplifies the development process by offering secure, preconfigured, and collaborative coding environments accessible remotely, facilitating teamwork and streamlining the development workflow.
-<div align="center"> <img src="/images/kasmw.png" height="800" /></a> </div>
+<div align="center"> <img src="/images/kasmw.png" width="800" /></a> </div>
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#adminn"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
     
