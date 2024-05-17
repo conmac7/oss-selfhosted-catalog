@@ -1174,7 +1174,7 @@ Securely and anonymously share files, host websites, and chat with friends using
 <div align="center"> <img src="/images/onionshare.png" width="800" /></a> </div>
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#filezharing"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
-<h3 id="qBittorrent"> ;ΒΙΤΤΟΡΡΕΝΤ </h3>
+<h3 id="qBittorrent"> QΒΙΤΤΟΡΡΕΝΤ </h3>
 
 >Links: <div><a href="https://www.qbittorrent.org/"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/qbittorrent/qBittorrent"><img src="/images/git_hub-logo.png" height="72"/></div>
 
