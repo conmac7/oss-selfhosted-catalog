@@ -491,7 +491,7 @@ You can build digital spaces around your interests. These spaces can be personal
 <div align="center"> <img src="/images/anytype3.png" width="800" /></a> </div>
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#brainstorming_personal_organizing"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
-<h3 id="trilium"> TRILLIUM </h3>
+<h3 id="trilium"> TRILIUM </h3>
 
 >Links: <div><a href="https://github.com/zadam/trilium"><img src="/images/git_hub-logo.png" height="72"/></a></div>
 
