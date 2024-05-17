@@ -88,14 +88,14 @@ Finally, the aim of this collection is not to catalog every single open-source a
     - [Dashboards](#dashboards)<p id="unused"></p>
         - [Dashy](#dashy)<p id="unused"></p>
         - [Heimdall](#heimdall)<p id="filezharing"></p>
-        - [Homarr](#homarr)<p id="home-serverr"></p>
+        - [Homarr](#homarr)<p id="unused"></p>
         - [homepage](#homepage)<p id="unused"></p><br>
     - [File Sharing - P2P](#filesharing-p2p2)<p id="unused"></p>
         - [Deluge](#deluge)<p id="unused"></p> 
         - [OnionShare](#onionshare)<p id="unused"></p>
         - [qBittorrent](#qBittorrent)<p id="unused"></p>
         - [RetroShare](#retro-share)<p id="unused"></p>
-        - [ShareDrop](#sharedrop)<p id="unused"></p>
+        - [ShareDrop](#sharedrop)<p id="home-serverr"></p>
         - [Snapdrop](#snapdrop)<p id="unused"></p><br>
     - [Home Server - Personal Cloud](#homeserver-personalcloud)<p id="unused"></p>
         - [CasaOS](#casa-os)<p id="mediaa-mngmnt"></p>
