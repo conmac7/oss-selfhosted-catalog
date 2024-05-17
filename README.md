@@ -39,7 +39,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
         - [RustDesk](#rustdesk)<p id="unused"></p>
         - [Webmin](#webmin)<p id="unused"></p><p id="brainstorming_personal_organizing"></p>
         - [Zabbix](#zabbix)</p><p id="socialss"></p><br>
-    - [Brainstorming - Calendars - Contacts Management - Inventoring - Knowledge Management Notetaking - Self-Hosted Wiki - Personal Organizers -  To Do Apps](#brainstormm)<p id="unused"></p>
+    - [Brainstorming - Calendars - Contacts Management - Inventoring - Knowledge Management - Notetaking - Self-Hosted Wiki - Personal Organizers -  To Do Apps](#brainstormm)<p id="unused"></p>
         - [Anytype](#anytype)<p id="unused"></p>
     - [Chatting - Self-hosted Media Platforms - Social Networking - Dailymotion/Youtube Alternatives](#socials)<p id="unused"></p>
         - [Bluesky](#bluesky)<p id="unused"></p>
@@ -471,7 +471,7 @@ Run Zabbix on-premise or in the cloud
 <div align="center"> <img src="/images/zabbix.png" width="800" /></a> </div>
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#adminn"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
-<h2 id="brainstormm" align="center">███BRAINSTORMING - CALENDARS - CONTACTS MANAGEMENT - INVENTORING - KNOWLEDGE MANAGEMENT NOTETAKING - SELF-HOSTED WIKI - PERSONAL ORGANIZERS -  TO DO APPS███</h2>
+<h2 id="brainstormm" align="center">███BRAINSTORMING - CALENDARS - CONTACTS MANAGEMENT - INVENTORING - KNOWLEDGE MANAGEMENT - NOTETAKING - SELF-HOSTED WIKI - PERSONAL ORGANIZERS -  TO DO APPS███</h2>
 <br><br>
 <h3 id="anytype"> ANYTYPE </h3>
 
