@@ -43,6 +43,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
         - [Zabbix](#zabbix)<p id="brainstorming_personal_organizing"></p><br>
     - [Agents- AI - Automation - LLMs](#agents-llm)<p id="unused"></p>
         - [Dify](#dify)<p id="unused"></p>
+        - [GPT4All](#gpt4all)<p id="unused"></p>
         - [Home Assistant](#homeassist)<p id="unused"></p>
         - [LLocalSearch](#llsearch)<p id="unused"></p>
         - [LocalAI](#localai)<p id="unused"></p>
@@ -549,6 +550,16 @@ Dify is an open-source LLM app development platform. Dify's intuitive interface 
 - LLMOps: Monitor and analyze application logs and performance over time. You could continuously improve prompts, datasets, and models based on production data and annotations.
 -  Backend-as-a-Service: All of Dify's offerings come with corresponding APIs, so you could effortlessly integrate Dify into your own business logic.
 <div align="center"> <img src="/images/difyai.webp" width="800" /></a> </div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#agents-llmz"><img src="/images/back-to-current.png" width="120" /></div>
+<br><br>
+<h3 id="gpt4all"> GPT4ALL </h3>
+
+>Links: <div><a href="https://gpt4all.io/index.html"><img src="/images/web_homepage-icon.png" height="72" /><a href="https://github.com/nomic-ai/gpt4all"><img src="/images/git_hub-logo.png" height="72"/></a></div>
+
+A free-to-use, locally running, privacy-aware chatbot. No GPU or internet required.
+
+A GPT4All model is a 3GB - 8GB file that you can download and plug into the GPT4All software. Nomic AI supports and maintains this software ecosystem to enforce quality and security alongside spearheading the effort to allow any person or enterprise to easily deploy their own on-edge large language models.
+<div align="center"> <img src="/images/gpt4a.gif" width="800" /></a> </div>
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#agents-llmz"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>    
 <h3 id="homeassist"> HOME ASSISTANT </h3>
