@@ -298,7 +298,7 @@ A self-hosted monitoring tool
 - Certificate info
 - Proxy support
 - 2FA support
-<div align="center"> <img src="/images/kuma.jpg" height="800" /></a> </div>
+<div align="center"> <img src="/images/kuma_.png" height="800" /></a> </div>
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#adminn"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
 <h3 id="libre-nms"> LIBRENMS </h3>
