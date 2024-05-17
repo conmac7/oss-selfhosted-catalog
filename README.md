@@ -147,6 +147,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
       - [KeePassXC](#keepassxc)<p id="unused"></p>
       - [Kodachi (Linux Distro)](#kodachi)<p id="unused"></p>
       - [OpenVPN](#open-vpn)<p id="unused"></p>
+      - [Pi-hole](#pihole)<p id="unused"></p>
       - [Portmaster](#portmaster)<p id="unused"></p>
       - [SoftEther VPN](#softether-vpn)<p id="unused"></p>
       - [vaultwarden](#vaultwarden)<p id="searchh"></p>
@@ -2009,6 +2010,18 @@ OpenVPN allows peers to authenticate each other using pre-shared secret keys, ce
 
 It uses the OpenSSL encryption library extensively, as well as the TLS protocol, and contains many security and control features. It uses a custom security protocol that utilizes SSL/TLS for key exchange. It is capable of traversing network address translators (NATs) and firewalls
 <div align="center"> <img src="/images/openvpn.jpg" width="512" /> </div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#privacyy"><img src="/images/back-to-current.png" width="120" /></div>
+<br><br>
+<h3 id="pihole"> PI-HOLE </h3>
+
+>Links: <div><a href="https://pi-hole.net"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/pi-hole"><img src="/images/git_hub-logo.png" height="72" /></a></div>
+
+Pi-hole is a Linux network-level advertisement and Internet tracker blocking application which acts as a DNS sinkhole and optionally a DHCP server, intended for use on a private network.
+
+Pi-hole has the ability to block traditional website advertisements as well as advertisements in unconventional places, such as smart TVs and mobile operating system advertisements.
+
+Pi-hole makes use of a modified dnsmasq called FTLDNS, cURL, lighttpd, PHP and the AdminLTE Dashboard to block DNS requests for known tracking and advertising domains. The application acts as a DNS server for a private network (replacing any pre-existing DNS server provided by another device or the ISP), with the ability to block advertisements and tracking domains for users' devices. It obtains lists of advertisement and tracking domains from a configurable list of predefined sources, and compares DNS queries against them. If a match is found within any of the lists, or a locally configured blocklist, Pi-hole will refuse to resolve the requested domain and respond to the requesting device with a dummy address.
+<div align="center"> <img src="/images/pihole.webp" width="512" /> </div>
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#privacyy"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
 <h3 id="portmaster"> PORTMASTER </h3>
