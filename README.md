@@ -44,7 +44,8 @@ Finally, the aim of this collection is not to catalog every single open-source a
     - [Agents- AI - Automation - LLMs](#agents-llm)<p id="unused"></p>
         - [Dify](#dify)<p id="unused"></p>
         - [Home Assistant](#homeassist)<p id="unused"></p>
-        - [LLocalSearch](#llsearch)<p id="unused"></p><br>
+        - [LLocalSearch](#llsearch)<p id="unused"></p>
+        - [OpenWebUI](#openwebui)<p id="unused"></p><br>
     - [Brainstorming - Calendars - Contacts Management - Inventoring - Knowledge Management - Notetaking - Self-Hosted Wiki - Personal Organizers -  To Do Apps](#brainstormm)<p id="unused"></p>
         - [Anytype](#anytype)<p id="unused"></p>
         - [Homebox](#homebox)<p id="unused"></p>
@@ -576,6 +577,31 @@ The user can ask a question and the system will use a chain of LLMs to find the 
 The user can see the progress of the agents and the final answer. No OpenAI or Google API keys are needed.
 <div align="center"> <img src="/images/lls.png" width="800" /></a> </div>
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#agents-llmz"><img src="/images/back-to-current.png" width="120" /></div>
+<br><br>
+<h3 id="openwebui"> OPENWEBUI </h3>
+
+>Links: <div><a href="https://openwebui.com"><img src="/images/web_homepage-icon.png" height="72" /><a href="https://github.com/open-webui/open-webui"><img src="/images/git_hub-logo.png" height="72"/></a></div>
+
+User-friendly WebUI for LLMs (Formerly Ollama WebUI)
+
+Open WebUI is an extensible, feature-rich, and user-friendly self-hosted WebUI designed to operate entirely offline. It supports various LLM runners, including Ollama and OpenAI-compatible APIs
+
+- Intuitive Interface: Our chat interface takes inspiration from ChatGPT, ensuring a user-friendly experience.
+- Responsive Design: Enjoy a seamless experience on both desktop and mobile devices.
+- Code Syntax Highlighting: Enjoy enhanced code readability with our syntax highlighting feature
+- Full Markdown and LaTeX Support: Elevate your LLM experience with comprehensive Markdown and LaTeX capabilities for enriched interaction
+- Local RAG Integration: Dive into the future of chat interactions with the groundbreaking Retrieval Augmented Generation (RAG) support. This feature seamlessly integrates document interactions into your chat experience. You can load documents directly into the chat or add files to your document library, effortlessly accessing them using # command in the prompt. In its alpha phase, occasional issues may arise as we actively refine and enhance this feature to ensure optimal performance and reliability
+- Prompt Preset Support: Instantly access preset prompts using the / command in the chat input. Load predefined conversation starters effortlessly and expedite your interactions. Effortlessly import prompts through Open WebUI Community integration
+- Conversation Tagging: Effortlessly categorize and locate specific chats for quick reference and streamlined data collection
+- Download/Delete Models: Easily download or remove models directly from the web UI.
+-  Update All Ollama Models: Easily update locally installed models all at once with a convenient button, streamlining model management.
+-  GGUF File Model Creation
+-  Multiple Model Support: Seamlessly switch between different chat models for diverse interactions.
+-  Chat History
+-  Voice Input Support
+-  Fine-Tuned Control with Advanced Parameters:
+<div align="center"> <img src="/images/openwebui.gif" width="800" /></a> </div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#brainstorming_personal_organizing"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
 <h2 id="brainstormm" align="center">███BRAINSTORMING - CALENDARS - CONTACTS MANAGEMENT - INVENTORING - KNOWLEDGE MANAGEMENT - NOTETAKING - SELF-HOSTED WIKI - PERSONAL ORGANIZERS -  TO DO APPS███</h2>
 <br><br>
