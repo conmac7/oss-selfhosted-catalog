@@ -1829,6 +1829,7 @@ KeePassXC is an open-source password manager application that allows users to se
 - Autofill and Autotype: It provides features to automatically fill in login credentials and other data in web browsers and applications, making it easier to use complex passwords.
 - Import/Export: Users can import their existing passwords from other password managers or export their KeePassXC database for backup or portability.
 - Browser Integration: KeePassXC integrates with popular web browsers, allowing users to access their passwords directly from the browser interface.
+
 KeePassXC is a comprehensive and secure solution for managing and organizing all types of sensitive information, such as passwords, credit card details, and notes, while providing robust encryption and cross-platform compatibility.
 <div align="center"> <img src="/images/KeePassXC.png" width="800" /> </div>
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#privacyy"><img src="/images/back-to-current.png" width="120" /></div>
