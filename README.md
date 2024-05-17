@@ -41,7 +41,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
         - [Zabbix](#zabbix)</p><p id="socialss"></p><br>
     - [Brainstorming - Calendars - Contacts Management - Inventoring - Knowledge Management - Notetaking - Self-Hosted Wiki - Personal Organizers -  To Do Apps](#brainstormm)<p id="unused"></p>
         - [Anytype](#anytype)<p id="unused"></p>
-        - [Trilium](#trilium)<p id="unused"></p>
+        - [Trilium](#trilium)<p id="unused"></p><br>
     - [Chatting - Self-hosted Media Platforms - Social Networking - Dailymotion/Youtube Alternatives](#socials)<p id="unused"></p>
         - [Bluesky](#bluesky)<p id="unused"></p>
         - [Diaspora](#diaspora)<p id="unused"></p>
