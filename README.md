@@ -2021,7 +2021,7 @@ Pi-hole is a Linux network-level advertisement and Internet tracker blocking app
 Pi-hole has the ability to block traditional website advertisements as well as advertisements in unconventional places, such as smart TVs and mobile operating system advertisements.
 
 Pi-hole makes use of a modified dnsmasq called FTLDNS, cURL, lighttpd, PHP and the AdminLTE Dashboard to block DNS requests for known tracking and advertising domains. The application acts as a DNS server for a private network (replacing any pre-existing DNS server provided by another device or the ISP), with the ability to block advertisements and tracking domains for users' devices. It obtains lists of advertisement and tracking domains from a configurable list of predefined sources, and compares DNS queries against them. If a match is found within any of the lists, or a locally configured blocklist, Pi-hole will refuse to resolve the requested domain and respond to the requesting device with a dummy address.
-<div align="center"> <img src="/images/pihole.webp" width="512" /> </div>
+<div align="center"> <img src="/images/pihole.webp" width="800" /> </div>
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#privacyy"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
 <h3 id="portmaster"> PORTMASTER </h3>
