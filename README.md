@@ -40,7 +40,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
         - [Remotely](#remotely)<p id="unused"></p>
         - [RustDesk](#rustdesk)<p id="unused"></p>
         - [Webmin](#webmin)<p id="agents-llmz"></p>
-        - [Zabbix](#zabbix)<p id="brainstorming_personal_organizing"></p><br>
+        - [Zabbix](#zabbix)</p><br>
     - [Agents- AI - Automation - LLMs](#agents-llm)<p id="unused"></p>
         - [AutoCodeRover](#autocoderover)<p id="unused"></p>
         - [Dify](#dify)<p id="unused"></p>
@@ -48,7 +48,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
         - [Home Assistant](#homeassist)<p id="unused"></p>
         - [Jan](#jan)<p id="unused"></p>
         - [LLocalSearch](#llsearch)<p id="unused"></p>
-        - [LocalAI](#localai)<p id="unused"></p>
+        - [LocalAI](#localai)<p id="brainstorming_personal_organizing">
         - [OpenWebUI](#openwebui)<p id="unused"></p><br>
     - [Brainstorming - Calendars - Contacts Management - Inventoring - Knowledge Management - Notetaking - Self-Hosted Wiki - Personal Organizers -  To Do Apps](#brainstormm)<p id="unused"></p>
         - [Anytype](#anytype)<p id="unused"></p>
