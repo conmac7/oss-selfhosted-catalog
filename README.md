@@ -44,6 +44,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
     - [Brainstorming - Calendars - Contacts Management - Inventoring - Knowledge Management - Notetaking - Self-Hosted Wiki - Personal Organizers -  To Do Apps](#brainstormm)<p id="unused"></p>
         - [Anytype](#anytype)<p id="unused"></p>
         - [Homebox](#homebox)<p id="unused"></p>
+        - [Monica CRM/PRM (Rersonal Relationship Management)](#monicahq)<p id="unused"></p>
         - [Trilium](#trilium)<p id="unused"></p>
         - [Vikunja](#vikunja)<p id="unused"></p><br>
     - [Chatting - Self-hosted Media Platforms - Social Networking - Dailymotion/Youtube Alternatives](#socials)<p id="unused"></p>
@@ -555,6 +556,50 @@ Homebox is the inventory and organization system built for the Home User! With a
 - QR Code Label Generator
 - Organize Items by creating Labels and Locations and assigning them to items.
 <div align="center"> <img src="/images/homebox.png" width="800" /></a> </div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#brainstorming_personal_organizing"><img src="/images/back-to-current.png" width="120" /></div>
+<br><br>
+<h3 id="monicahq"> MONICA CRM/PRM (PERSONAL RELATIONSHIP MANAGEMENT) </h3>
+
+>Links: <div><a href="https://www.monicahq.com"><img src="/images/web_homepage-icon.png" height="72" /><a href="https://github.com/monicahq/monica/tree/4.x"><img src="/images/git_hub-logo.png" height="72"/></a></div>
+
+Personal CRM. Remember everything about your friends, family and business relationships.
+
+ Monica provides an easy-to-use interface to store everything you know about your loved ones.
+
+Monica is an open-source web application to organize and record your interactions with your loved ones. We call it a PRM, or Personal Relationship Management. Think of it as a CRM (a popular tool used by sales teams in the corporate world) for your friends or family.
+
+Monica allows people to keep track of everything that’s important about their friends and family. Like the activities with them. When you last called someone and what you talked about. It will help you remember the name and the age of their kids. It can also remind you to call someone you haven’t talked to in a while.
+
+- Add and manage contacts
+- Define relationships between contacts
+- Reminders
+- Automatic reminders for birthdays
+- Stay in touch with a contact by sending reminders at a given interval
+- Management of debts
+- Ability to add notes to a contact
+- Ability to record how you met someone
+- Management of activities with a contact
+- Management of tasks
+- Management of gifts given and received and ideas for gifts
+- Management of addresses and all the different ways to contact someone
+- Management of contact field types
+- Management of a contact’s pets
+- Basic journal
+- Ability to record how your day went
+- Upload documents and photos
+- Export and import of data
+- Export contacts as vCards
+- Ability to define custom genders
+- Ability to define custom activity types
+- Ability to favorite contacts
+- Track conversations on social media or SMS
+- Multiple users
+- Tags to organize contacts
+- Ability to define what section should appear on the contact sheet
+- Multiple currencies
+- Multiple languages
+- An API that covers most of the data
+<div align="center"> <img src="/images/monica_crm.png" width="800" /></a> </div>
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#brainstorming_personal_organizing"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
 <h3 id="trilium"> TRILIUM </h3>
