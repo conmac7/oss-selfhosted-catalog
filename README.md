@@ -1844,6 +1844,7 @@ Fakeroute allows you to insert fake IPv4 and IPv6 hops between the last real hop
 KeePassXC is an open-source password manager application that allows users to securely store and manage their passwords, credit card information, and other sensitive data in an encrypted database file
 
 - Password Storage: Users can store all their passwords, along with associated website URLs, usernames, and notes in an encrypted database protected by a master password.
+- Password Generator: A-Z, a-z, 0-9, #$%&@^`~, ,.:;, "', \/|_-, <>*+!?=, {[()]}, Extended ASCI. Entropy: up to 12000 with 999 Lenght
 - Secure Encryption: The databases are encrypted using strong encryption algorithms like AES-256 and ChaCha20, ensuring the sensitive data is securely protected.
 - Cross-Platform Availability: KeePassXC is available for Windows, macOS, and most Linux distributions, allowing users to access their password database across different platforms.
 - Autofill and Autotype: It provides features to automatically fill in login credentials and other data in web browsers and applications, making it easier to use complex passwords.
