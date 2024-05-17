@@ -84,7 +84,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
     - [Databases - No Code - Spreadsheets](#db-nc-spreadsheets)<p id="unused"></p>
         - [Baserow](#baserow)<p id="unused"></p>
         - [NocoDB](#noco_db)<p id="unused"></p>
-        - [Grist](#grist)<p id="unused"></p>
+        - [Grist](#grist)<p id="unused"></p><br>
     - [Dashboards](#dashboards)<p id="unused"></p>
         - [Dashy](#dashy)<p id="unused"></p>
         - [Heimdall](#heimdall)<p id="filezharing"></p>
