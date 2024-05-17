@@ -42,6 +42,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
         - [Webmin](#webmin)<p id="agents-llmz"></p>
         - [Zabbix](#zabbix)<p id="brainstorming_personal_organizing"></p><br>
     - [Agents- AI - Automation - LLMs](#agents-llm)<p id="unused"></p>
+        - [Dify](#dify)<p id="unused"></p>
         - [Home Assistant](#homeassist)<p id="unused"></p><br>
     - [Brainstorming - Calendars - Contacts Management - Inventoring - Knowledge Management - Notetaking - Self-Hosted Wiki - Personal Organizers -  To Do Apps](#brainstormm)<p id="unused"></p>
         - [Anytype](#anytype)<p id="unused"></p>
@@ -531,6 +532,22 @@ Run Zabbix on-premise or in the cloud
 <br><br>
 <h2 id="agents-llm" align="center">███AGENTS- AI - AUTOMATION - LLMS███</h2>
 <br><br>
+<h3 id="dify"> DIFY </h3>
+
+>Links: <div><a href="https://dify.ai"><img src="/images/web_homepage-icon.png" height="72" /><a href="https://github.com/langgenius/dify"><img src="/images/git_hub-logo.png" height="72"/></a></div>
+
+Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
+
+- Workflow: Build and test powerful AI workflows on a visual canvas, leveraging all the following features and beyond.
+- Comprehensive model support: Seamless integration with hundreds of proprietary / open-source LLMs from dozens of inference providers and self-hosted solutions, covering GPT, Mistral, Llama3, and any OpenAI API-compatible models
+- Prompt IDE: Intuitive interface for crafting prompts, comparing model performance, and adding additional features such as text-to-speech to a chat-based app.
+- RAG Pipeline: Extensive RAG capabilities that cover everything from document ingestion to retrieval, with out-of-box support for text extraction from PDFs, PPTs, and other common document formats.
+- Agent capabilities: You can define agents based on LLM Function Calling or ReAct, and add pre-built or custom tools for the agent. Dify provides 50+ built-in tools for AI agents, such as Google Search, DELL·E, Stable Diffusion and WolframAlpha.
+- LLMOps: Monitor and analyze application logs and performance over time. You could continuously improve prompts, datasets, and models based on production data and annotations.
+-  Backend-as-a-Service: All of Dify's offerings come with corresponding APIs, so you could effortlessly integrate Dify into your own business logic.
+<div align="center"> <img src="/images/difyai.webp" width="800" /></a> </div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#agents-llmz"><img src="/images/back-to-current.png" width="120" /></div>
+<br><br>    
 <h3 id="homeassist"> HOME ASSISTANT </h3>
 
 >Links: <div><a href="https://www.home-assistant.io"><img src="/images/web_homepage-icon.png" height="72" /><a href="https://github.com/home-assistant"><img src="/images/git_hub-logo.png" height="72"/></a></div>
