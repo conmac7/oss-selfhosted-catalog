@@ -156,9 +156,11 @@ Finally, the aim of this collection is not to catalog every single open-source a
       - [YaCy](#yacy)<p id="unused"></p><br>
     - [Virtualization](#virtualization)<p id="unused"></p>
       - [Proxmox Virtual Environment](#proxmox)<p id="unused"></p>
-      - [SmartOS](#smart-os)<p id="linkz"></p>
-      - [Xen Project](#xen-project)<p id="unused"></p><br>
-    - [Useful Links](#useful-links) <p id="unused"></p>
+      - [SmartOS](#smart-os)<p id="nocateg"></p>
+      - [Xen Project](#xen-project)<p id="linkz"></p><br>
+    - [Uncategorized](#uncategorized)<p id="unused"></p>
+      - [FxSound](#fxsound)<p id="unused"></p>
+    - [Useful Links](#useful-links)<p id="unused"></p>
       - [ipleak.net](#ipleak-net)<p id="unused"></p>
       - [ping.eu](#ping-eu)<p id="unused"></p>
 <br><br>
@@ -2124,6 +2126,33 @@ SmartOS is a "live OS", it is always booted via PXE, ISO, or USB Key and runs en
 Powerful open source industry standard for virtualization. It is a native (bare-metal) hypervisor providing services that allow multiple computer operating systems to execute on the same computer hardware concurrently.
 <div align="center"> <img src="/images/xen.png" width="800" /></a> </div>
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#virtualizatione"><img src="/images/back-to-current.png" width="120" /></div>
+<br><br>
+<h2 id="nocateg" align="center">███UNCATEGORIZED███</h2>
+<br><br>
+<h3 id="fxsound"> FXSOUND </h3>
+
+>Links: <div><a href="https://www.fxsound.com"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/fxsound2"><img src="/images/git_hub-logo.png" height="72" /></a></div>
+
+Free open-source software to boost sound quality, volume, and bass. Including an equalizer, effects, and presets for customized audio.
+
+FxSound is a digital audio program built for Windows PC's. The background processing, built on a high-fidelity audio engine, acts as a sort of digital soundcard for your system. This means that your signals will have the clean passthrough when FxSound is active. There are active effects for shaping and boosting your sound's volume, timbre, and equalization included on top of this clean processing, allowing you to customize and enhance your sound.
+<div align="center"> <img src="/images/fxsound.png" width="800" /></a> </div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#nocateg"><img src="/images/back-to-current.png" width="120" /></div>
+<br><br>
+<h3 id="obs-studio"> OBS STUDIO </h3>
+
+>Links: <div><a href="https://obsproject.com"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/obsproject/obs-studio"><img src="/images/git_hub-logo.png" height="72" /></a></div>
+
+Free and open source software for video recording and live streaming.
+
+- High performance real time video/audio capturing and mixing.
+- Set up an unlimited number of scenes you can switch between seamlessly via custom transitions.
+- Intuitive audio mixer with per-source filters
+- Powerful and easy to use configuration options
+- Modular 'Dock' UI
+- Studio Mode lets you preview your scenes and sources before pushing them live
+<div align="center"> <img src="/images/OBS2.webp" width="800" /></a> </div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#nocateg"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
 <h2 id="useful-links" align="center">███USEFUL LINKS███</h2>
 <br><br>
