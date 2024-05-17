@@ -173,7 +173,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
       - [OBS Studio](#obs-studio)<p id="unused"></p>
     - [Useful Links](#useful-links)<p id="unused"></p>
       - [ipleak.net](#ipleak-net)<p id="unused"></p>
-      - [ping.eu](#ping-eu)<p id="unused"></p>
+      - [Prompt Library (Anthrop\c)](#promptlbr1)<p id="unused"></p>
 <br><br>
 --------------------
 <h2 id="credits-licenses" align="center">███CREDITS - LICENSES███</h2>
@@ -2306,3 +2306,16 @@ DNS leak checker, IP addresses detection, Torrent Address detection, WebRTC leak
 - Unit converter
 <div align="center"> <img src="/images/ping-eu.png" width="640" /></a> </div>
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#linkz"><img src="/images/back-to-current.png" width="120" /></div>
+<br><br>
+<h3 id="promptlbr1"> PROMPT LIBRARY (ANTHROP\C) </h3>
+
+>Links: <div><a href="https://docs.anthropic.com/en/prompt-library/library"><img src="/images/web_homepage-icon.png" height="72" /></a>
+
+Explore optimized prompts for a breadth of business and personal tasks.
+
+User-submitted prompts have dark backgrounds with light colored icons (currently, there are none). You can submit prompts via our prompt submission form.
+<div align="center"> <img src="/images/promptlbr1.png" width="640" /></a> </div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#linkz"><img src="/images/back-to-current.png" width="120" /></div>
+<br><br>
+
+
