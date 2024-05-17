@@ -43,6 +43,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
         - [Zabbix](#zabbix)</p><p id="socialss"></p><br>
     - [Brainstorming - Calendars - Contacts Management - Inventoring - Knowledge Management - Notetaking - Self-Hosted Wiki - Personal Organizers -  To Do Apps](#brainstormm)<p id="unused"></p>
         - [Anytype](#anytype)<p id="unused"></p>
+        - [Homebox](#homebox)<p id="unused"></p>
         - [Trilium](#trilium)<p id="unused"></p><br>
     - [Chatting - Self-hosted Media Platforms - Social Networking - Dailymotion/Youtube Alternatives](#socials)<p id="unused"></p>
         - [Bluesky](#bluesky)<p id="unused"></p>
@@ -531,6 +532,28 @@ You can build digital spaces around your interests. These spaces can be personal
 <div align="center"> <img src="/images/anytype1.png" width="800" /></a> </div>
 <div align="center"> <img src="/images/anytype2.png" width="800" /></a> </div>
 <div align="center"> <img src="/images/anytype3.png" width="800" /></a> </div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#brainstorming_personal_organizing"><img src="/images/back-to-current.png" width="120" /></div>
+<br><br>
+<h3 id="homebox"> HOMEBOX </h3>
+
+>Links: <div><a href="https://hay-kot.github.io/homebox/"><img src="/images/web_homepage-icon.png" height="72" /><a href="https://github.com/hay-kot/homebox"><img src="/images/git_hub-logo.png" height="72"/></a></div>
+
+Homebox is the inventory and organization system built for the Home User! With a focus on simplicity and ease of use, Homebox is the perfect solution for your home inventory, organization, and management needs
+
+- Create and Manage Items by providing a name and a description
+- Optional Details for Items include
+    - Warranty Information
+    - Sold To Information
+    - Purchased From Information
+    - Item Identifications (Serial, Model, etc)
+    - Categorized Attachments (Images, Manuals, General)
+    - Custom Fields
+- CSV Import/Export for quickly creating and managing items
+- Custom Reporting
+- Bill of Materials Export
+- QR Code Label Generator
+- Organize Items by creating Labels and Locations and assigning them to items.
+<div align="center"> <img src="/images/homebox.png" width="800" /></a> </div>
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#brainstorming_personal_organizing"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
 <h3 id="trilium"> TRILIUM </h3>
