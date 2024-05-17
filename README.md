@@ -802,7 +802,7 @@ Open source and licensed under GNU GPL v3. It's free to use on your own server. 
 
 Free Self Hosted & Cloud CRM SoftwareEspo
 
-CRM is an Open Source CRM (Customer Relationship Management) software that allows you to see, enter and evaluate all your company relationships regardless of the type. People, companies or opportunities – all in an easy and intuitive interface.
+Open Source CRM (Customer Relationship Management) software that allows you to see, enter and evaluate all your company relationships regardless of the type. People, companies or opportunities – all in an easy and intuitive interface.
 
 - Sales Automation
 - Calendar, Meetings, Calls, Tasks, Working Time Calendar
