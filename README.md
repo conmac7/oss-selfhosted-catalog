@@ -104,6 +104,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
         - [Bookstack](#bookstack)<p id="unused"></p>
         - [Files](#files)<p id="unused"></p>
         - [Firefly III](#firefly-iii)<p id="unused"></p>
+        - [Grist](#grist)<p id="unused"></p>
         - [Linkwarden](#linkwarden)<p id="unused"></p>
         - [NocoDB](#noco_db)<p id="unused"></p>
         - [Notesnook](#notesnook)<p id="unused"></p>
@@ -1374,6 +1375,26 @@ Personal financial management is pretty difficult, and everybody has their own a
 <div align="center"> <img src="/images/fireflyiii.png" width="800" /></a> </div>
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#officeee"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
+<h3 id="grist"> GRIST </h3>
+
+>Links: <div><a href="https://www.getgrist.com"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/gristlabs/grist-core"><img src="/images/git_hub-logo.png" height="72"/></div>
+
+Grist is a collaborative spreadsheet and data organization tool that combines the features of a spreadsheet with those of a database and a document editor. It provides a flexible and user-friendly environment for organizing, analyzing, and sharing data.
+
+- Data Organization: Grist allows users to organize data in a tabular format similar to a spreadsheet, but with additional capabilities for structuring and relating data across multiple tables or views.
+- Data Modeling: Grist supports data modeling, enabling users to define data structures, relationships, and rules for their data, without the need for complex database design or programming.
+- Spreadsheet Functionality: Grist incorporates familiar spreadsheet features, such as formulas, calculations, and data formatting, allowing users to perform data analysis and computations within the same environment.
+- Document Integration: Grist combines data organization with rich text editing capabilities, enabling users to create documents that seamlessly integrate data from tables, making it suitable for generating reports, documentation, or knowledge bases.
+- Collaboration and Sharing: Grist is designed for collaborative work, allowing multiple users to simultaneously access and edit the same data, while maintaining version control and tracking changes.
+- Automation and Scripting: Grist includes a built-in scripting language called GristScript, which allows users to automate tasks, create custom functions, and extend the platform's functionality.
+- Data Visualization: Grist offers data visualization tools, such as charts, graphs, and pivot tables, to help users gain insights and present data in a visually appealing manner.
+- Access Control and Permissions: Grist provides access control and permission management features, allowing administrators to control who can view, edit, or share specific data or documents.
+- Cloud-based and Self-Hosted Options: Grist is available as a cloud-based solution hosted by the company, as well as a self-hosted option that can be deployed on-premises or in private cloud environments.
+- Integration and APIs: Grist supports integrations with other tools and services through APIs, enabling users to import or export data, automate workflows, or connect Grist with other systems.
+Grist aims to bridge the gap between spreadsheets, databases, and document editors, providing a unified and collaborative environment for organizing, analyzing, and presenting data. It is suitable for various use cases, such as project management, knowledge management, data analysis, and documentation.
+<div align="center"> <img src="/images/grist.jpg" width="800" /></a> </div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#officeee"><img src="/images/back-to-current.png" width="120" /></div>
+<br><br>    
 <h3 id="linkwarden"> LINKWARDEN </h3>
 
 >Links: <div><a href="https://linkwarden.app"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/linkwarden"><img src="/images/git_hub-logo.png" height="72"/></div>
