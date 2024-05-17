@@ -87,8 +87,8 @@ Finally, the aim of this collection is not to catalog every single open-source a
         - [Grist](#grist)<p id="unused"></p><br>
     - [Dashboards](#dashboards)<p id="unused"></p>
         - [Dashy](#dashy)<p id="unused"></p>
-        - [Heimdall](#heimdall)<p id="filezharing"></p>
-        - [Homarr](#homarr)<p id="unused"></p>
+        - [Heimdall](#heimdall)<p id="unused"></p>
+        - [Homarr](#homarr)<p id="filezharing"></p>
         - [homepage](#homepage)<p id="unused"></p><br>
     - [File Sharing - P2P](#filesharing-p2p2)<p id="unused"></p>
         - [Deluge](#deluge)<p id="unused"></p> 
