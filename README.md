@@ -45,6 +45,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
         - [Dify](#dify)<p id="unused"></p>
         - [GPT4All](#gpt4all)<p id="unused"></p>
         - [Home Assistant](#homeassist)<p id="unused"></p>
+        - [Jan](#jan)<p id="unused"></p>
         - [LLocalSearch](#llsearch)<p id="unused"></p>
         - [LocalAI](#localai)<p id="unused"></p>
         - [OpenWebUI](#openwebui)<p id="unused"></p><br>
@@ -578,6 +579,14 @@ Home Assistant offers a robust solution for managing and automating smart home s
 <div align="center"> <img src="/images/ha-main.webp" width="800" /></a> </div>
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#agents-llmz"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
+<h3 id="jan"> JAN </h3>
+
+>Links: <div><a href="https://jan.ai"><img src="/images/web_homepage-icon.png" height="72" /><a href="https://github.com/janhq/jan"><img src="/images/git_hub-logo.png" height="72"/></a></div>
+
+Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. Multiple engine support (llama.cpp, TensorRT-LLM)
+<div align="center"> <img src="/images/demo.gif" width="800" /></a> </div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#agents-llmz"><img src="/images/back-to-current.png" width="120" /></div>
+<br><br>    
 <h3 id="llsearch"> LLOCALSEARCH </h3>
 
 >Links: <div><a href="https://github.com/nilsherzig/LLocalSearch"><img src="/images/git_hub-logo.png" height="72"/></a></div>
@@ -589,7 +598,6 @@ The user can ask a question and the system will use a chain of LLMs to find the 
 The user can see the progress of the agents and the final answer. No OpenAI or Google API keys are needed.
 <div align="center"> <img src="/images/lls.png" width="800" /></a> </div>
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#agents-llmz"><img src="/images/back-to-current.png" width="120" /></div>
-<br><br>
 <br><br>
 <h3 id="localai"> LOCALAI </h3>
 
