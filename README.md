@@ -97,11 +97,11 @@ Finally, the aim of this collection is not to catalog every single open-source a
         - [RetroShare](#retro-share)<p id="unused"></p>
         - [ShareDrop](#sharedrop)<p id="unused"></p>
         - [Snapdrop](#snapdrop)<p id="unused"></p><br>
-    - [Home Server - Personal Cloud](#homeserver-personalcloud)<p id="mediaa-mngmnt"></p>
-        - [CasaOS](#casa-os)<p id="unused"></p>
+    - [Home Server - Personal Cloud](#homeserver-personalcloud)<p id="unused"></p>
+        - [CasaOS](#casa-os)<p id="mediaa-mngmnt"></p>
         - [Umbrel](#umbrel)<p id="unused"></p><br>
-    - [Media Management (Audiobooks - Ebooks/PDF - Documents - Movies - Music - Podcasts - Photos - TV Shows - Videos)](#media-management)<p id="unused"></p>
-        - [Docspell](#docspell)<p id="mediaa-mngmnt"></p>
+    - [Media Management (Audiobooks - Ebooks/PDF - Documents - Movies - Music - Podcasts - Photos - TV Shows - Videos)](#media-management)
+        - [Docspell](#docspell)<p id="unused"></p>
         - [digiKam](#digikam)<p id="unused"></p>
         - [Immich](#immich)<p id="unused"></p>
         - [Jellyfin](#jellyfin)<p id="unused"></p>
