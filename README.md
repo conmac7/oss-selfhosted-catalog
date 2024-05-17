@@ -105,6 +105,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
         - [Files](#files)<p id="unused"></p>
         - [Firefly III](#firefly-iii)<p id="unused"></p>
         - [Linkwarden](#linkwarden)<p id="unused"></p>
+        - [NocoDB](#noco_db)<p id="unused"></p>
         - [Notesnook](#notesnook)<p id="unused"></p>
         - [ONLYOFFICE](#only-office)<p id="unused"></p>
         - [Penpot](#penpot)<p id="unused"></p>
@@ -1366,6 +1367,7 @@ File manager app for Windows
 
 >Links: <div><a href="https://www.firefly-iii.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/firefly-iii"><img src="/images/git_hub-logo.png" height="72"/></div>
 
+
 Financial manager. It can help you keep track of expenses, income, budgets and everything in between. It even supports credit cards, shared household accounts and savings accounts! It’s pretty fancy. You should use it to save and organize money.
 
 Personal financial management is pretty difficult, and everybody has their own approach to it. Some people make budgets, other people limit their cashflow by throwing away their credit cards, others try to increase their current cashflow. There are tons of ways to save and earn money.
@@ -1382,6 +1384,27 @@ The objective is to organize useful webpages and articles you find across the we
 <div align="center"> <img src="/images/linkwarden.jpeg" width="800" /></a> </div>
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#officeee"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
+<h3 id="noco_db"> NOCODB </h3>
+
+>Links: <div><a href="https://nocodb.com"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/nocodb/nocodb"><img src="/images/git_hub-logo.png" height="72"/></div>
+
+NocoDB is an open-source, low-code platform that allows users to create and manage database applications without the need for extensive coding or database administration skills. It provides a user-friendly web-based interface and a set of tools to design and build applications quickly.
+
+- Database Management: NocoDB allows users to create, modify, and manage relational databases, including tables, columns, and relationships between tables, without the need for writing complex SQL queries.
+- Application Development: NocoDB provides a visual interface for building database applications, including features such as creating forms, views, and workflows. Users can design and customize the user interface (UI) of their applications without coding.
+- Data Modeling: NocoDB supports data modeling, allowing users to define data structures, relationships, and validation rules for their applications.
+- REST API Generation: NocoDB automatically generates a RESTful API for the created applications, enabling seamless integration with other systems or third-party tools.
+- Access Control: NocoDB offers access control and permission management features, allowing administrators to control who can access and modify different parts of the application or data.
+- Reporting and Visualization: NocoDB includes tools for generating reports and visualizing data through charts and graphs, enabling users to analyze and present their data effectively.
+- Collaboration and Sharing: NocoDB supports collaboration and sharing features, allowing multiple users to work on the same project simultaneously and share applications with others.
+- Self-Hosting: NocoDB is a self-hosted solution, which means users can install and run it on their own servers or cloud environments, providing them with complete control over their data and applications.
+- Cloud Deployment: In addition to self-hosting, NocoDB can also be deployed on various cloud platforms, such as Heroku, DigitalOcean, and AWS, making it accessible from anywhere.
+- Plugin and Extension Support: NocoDB supports the development and integration of custom plugins and extensions, allowing users to extend the platform's functionality to meet their specific requirements.
+NocoDB aims to bridge the gap between traditional database management systems and modern application development, enabling users with limited coding experience to build and deploy database-driven applications quickly and efficiently
+<div align="center"> <img src="/images/nocodb.jpg" width="800" /></a> </div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#officeee"><img src="/images/back-to-current.png" width="120" /></div>
+<br><br>
+    
 <h3 id="notesnook"> NOTESNOOK </h3>
 
 >Links: <div><a href="https://notesnook.com"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/streetwriters/notesnook"><img src="/images/git_hub-logo.png" height="72"/></div>
