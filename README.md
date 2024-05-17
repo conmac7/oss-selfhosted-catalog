@@ -45,6 +45,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
         - [Dify](#dify)<p id="unused"></p>
         - [Home Assistant](#homeassist)<p id="unused"></p>
         - [LLocalSearch](#llsearch)<p id="unused"></p>
+        - [LocalAI](#localai)<p id="unused"></p>
         - [OpenWebUI](#openwebui)<p id="unused"></p><br>
     - [Brainstorming - Calendars - Contacts Management - Inventoring - Knowledge Management - Notetaking - Self-Hosted Wiki - Personal Organizers -  To Do Apps](#brainstormm)<p id="unused"></p>
         - [Anytype](#anytype)<p id="unused"></p>
@@ -578,6 +579,15 @@ The user can see the progress of the agents and the final answer. No OpenAI or G
 <div align="center"> <img src="/images/lls.png" width="800" /></a> </div>
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#agents-llmz"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
+<br><br>
+<h3 id="localai"> LOCALAI </h3>
+
+>Links: <div><a href="https://localai.io"><img src="/images/web_homepage-icon.png" height="72" /><a href="https://github.com/mudler/LocalAI"><img src="/images/git_hub-logo.png" height="72"/></a></div>
+
+The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. It allows to generate Text, Audio, Video, Images. Also with voice cloning capabilities.
+<div align="center"> <img src="/images/localai.gif" width="800" /></a> </div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#brainstorming_personal_organizing"><img src="/images/back-to-current.png" width="120" /></div>
+<br><br>    
 <h3 id="openwebui"> OPENWEBUI </h3>
 
 >Links: <div><a href="https://openwebui.com"><img src="/images/web_homepage-icon.png" height="72" /><a href="https://github.com/open-webui/open-webui"><img src="/images/git_hub-logo.png" height="72"/></a></div>
