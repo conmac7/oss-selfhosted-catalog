@@ -42,6 +42,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
         - [Webmin](#webmin)<p id="agents-llmz"></p>
         - [Zabbix](#zabbix)<p id="brainstorming_personal_organizing"></p><br>
     - [Agents- AI - Automation - LLMs](#agents-llm)<p id="unused"></p>
+        - [AutoCodeRover](#autocoderover)<p id="unused"></p>
         - [Dify](#dify)<p id="unused"></p>
         - [GPT4All](#gpt4all)<p id="unused"></p>
         - [Home Assistant](#homeassist)<p id="unused"></p>
@@ -537,6 +538,13 @@ Run Zabbix on-premise or in the cloud
 <br><br>
 <h2 id="agents-llm" align="center">███AGENTS- AI - AUTOMATION - LLMS███</h2>
 <br><br>
+<h3 id="autocoderover"> AUTOCODEROVER </h3>
+
+>Links: <div><a href="https://github.com/nus-apr/auto-code-rover"><img src="/images/git_hub-logo.png" height="72"/></a></div>
+
+A project structure aware autonomous software engineer aiming for autonomous program improvement. Resolved 15.95% tasks in full SWE-bench
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#adminn"><img src="/images/back-to-current.png" width="120" /></div>
+<br><br>   
 <h3 id="dify"> DIFY </h3>
 
 >Links: <div><a href="https://dify.ai"><img src="/images/web_homepage-icon.png" height="72" /><a href="https://github.com/langgenius/dify"><img src="/images/git_hub-logo.png" height="72"/></a></div>
