@@ -593,12 +593,9 @@ Monica allows people to keep track of everything that’s important about their 
 - Ability to define custom activity types
 - Ability to favorite contacts
 - Track conversations on social media or SMS
-- Multiple users
 - Tags to organize contacts
 - Ability to define what section should appear on the contact sheet
 - Multiple currencies
-- Multiple languages
-- An API that covers most of the data
 <div align="center"> <img src="/images/monica_crm.png" width="800" /></a> </div>
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#brainstorming_personal_organizing"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
