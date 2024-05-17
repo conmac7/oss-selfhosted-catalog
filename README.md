@@ -294,7 +294,7 @@ Allows scrolling the list of processes vertically and horizontally to see their 
 The information displayed is configurable through a graphical setup and can be sorted and filtered interactively.
 
 Tasks related to processes (e.g. killing and renicing) can be done without entering their PIDs.
-<div align="center"> <img src="/images/htop.png" height="800" /></a> </div>
+<div align="center"> <img src="/images/htop.png" width="800" /></a> </div>
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#adminn"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
 <h3 id="kasmw"> KASM WORKSPACES </h3>
@@ -331,7 +331,7 @@ A self-hosted monitoring tool
 - Certificate info
 - Proxy support
 - 2FA support
-<div align="center"> <img src="/images/kuma_.png" height="800" /></a> </div>
+<div align="center"> <img src="/images/kuma_.png" width="800" /></a> </div>
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#adminn"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
 <h3 id="libre-nms"> LIBRENMS </h3>
@@ -346,7 +346,7 @@ Fully featured network monitoring system that provides a wealth of features and 
 - Generate bandwidth bills for ports on your network based on usage or transfer.
 - Native iPhone App is available which provides core functionality.
 - Native Android App is available which provides core functionality..
-<div align="center"> <img src="/images/librenms.png" height="800" /></a> </div>
+<div align="center"> <img src="/images/librenms.png" width="800" /></a> </div>
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#adminn"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
 <h3 id="librespeed"> LIBRESPEED </h3>
@@ -387,7 +387,7 @@ Configuration and visualisation web frontend for Nagios, Naemon and Prometheus i
 
 openITCOCKPIT provides an own Monitoring Agent for Windows, Linux and macOS. In addition thousands of community plugins are available.
 
-<div align="center"> <img src="/images/openITCOCKPIT.png" height="800" /></a> </div>
+<div align="center"> <img src="/images/openITCOCKPIT.png" width="800" /></a> </div>
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#adminn"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
 <h3 id="opnsense"> OPNSENSE </h3>
