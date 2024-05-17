@@ -105,8 +105,8 @@ Finally, the aim of this collection is not to catalog every single open-source a
         - [digiKam](#digikam)<p id="unused"></p>
         - [Immich](#immich)<p id="unused"></p>
         - [Jellyfin](#jellyfin)<p id="unused"></p>
-        - [LibrePhotos](#librephotos)<p id="nasss"></p>
-        - [Mayan EDMS](#mayan-edms)<p id="unused"></p>
+        - [LibrePhotos](#librephotos)<p id="unused"></p>
+        - [Mayan EDMS](#mayan-edms)<p id="nasss"></p>
         - [PhotoPrism](#photoprism)<p id="unused"></p><br>
     - [NAS](#nas)<p id="unused"></p>
         - [openmediavault](#openmediavault)<p id="officeee"></p>
