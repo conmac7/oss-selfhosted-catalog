@@ -40,7 +40,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
         - [Webmin](#webmin)<p id="unused"></p><p id="brainstorming_personal_organizing"></p>
         - [Zabbix](#zabbix)</p><p id="socialss"></p><br>
     - [Brainstorming - Calendars - Contacts Management - Contacts Management - Inventoring - Knowledge Management Notetaking - Self-Hosted Wiki - Personal Organizers -  TO DO apps](#brainstormm)<p id="unused"></p>
-        - - [Anytype](#anytype)<p id="unused"></p>
+        - [Anytype](#anytype)<p id="unused"></p>
     - [Chatting - Self-hosted Media Platforms - Social Networking - Dailymotion/Youtube Alternatives](#socials)<p id="unused"></p>
         - [Bluesky](#bluesky)<p id="unused"></p>
         - [Diaspora](#diaspora)<p id="unused"></p>
