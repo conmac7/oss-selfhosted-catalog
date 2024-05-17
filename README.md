@@ -31,6 +31,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
         - [Kuma](#kuma)<p id="unused"></p>
         - [LibreNMS](#libre-nms)<p id="unused"></p>
         - [LibreSpeed](#librespeed)<p id="unused"></p>
+        - [Netdata](#netdata)<p id="unused"></p>
         - [Netmaker](#netmaker)<p id="unused"></p>
         - [openITCOCKPIT](#open-itcockpit)<p id="unused"></p>
         - [OPNsense](#opnsense)<p id="unused"></p>
@@ -355,6 +356,24 @@ Fully featured network monitoring system that provides a wealth of features and 
 
 A speed test tool that can be run on your LAN or hosted in the cloud. This is available as a Self-Hosted container as well as at librespeed.org.
 <div align="center"> <img src="/images/librespeed.png" height="400" /></a> </div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#adminn"><img src="/images/back-to-current.png" width="120" /></div>
+<br><br>
+<h3 id="netdata"> NETDATA </h3>
+
+>Links: <div><a href="https://www.netdata.cloud"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/netdata/netdata"><img src="/images/git_hub-logo.png" height="72"/></div>
+
+Open-source monitoring tool that collects real-time metrics from systems and applications and visualizes them with interactive web dashboards
+
+- It is designed to monitor everything from bare-metal servers, virtualized environments, containers, and even IoT devices.
+- Collects thousands of metrics out-of-the-box like CPU, memory, disk, network, processes, applications, etc. without any configuration required.
+- The metrics are visualized through very detailed and interactive charts on custom dashboards accessible via a web browser.
+- Low resource utilization by design and can run on IoT devices with just a few MB of RAM.
+- Supports storing metrics temporarily on local disk to handle network disconnections.
+Netdata can be extended to monitor custom applications by writing plugins in any programming language.
+- Supports real-time notifications, data exporting to external timeseries DBs, and has health watchdog capabilities.
+
+Netdata provides a comprehensive monitoring solution with rich visualizations and low overhead, making it suitable for various environments from edge devices to large server infrastructures.
+<div align="center"> <img src="/images/netdata.jpg" height="400" /></a> </div>
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#adminn"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
 <h3 id="netmaker"> NETMAKER </h3>
