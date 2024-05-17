@@ -1404,7 +1404,6 @@ NocoDB aims to bridge the gap between traditional database management systems an
 <div align="center"> <img src="/images/nocodb.jpg" width="800" /></a> </div>
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#officeee"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
-    
 <h3 id="notesnook"> NOTESNOOK </h3>
 
 >Links: <div><a href="https://notesnook.com"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/streetwriters/notesnook"><img src="/images/git_hub-logo.png" height="72"/></div>
