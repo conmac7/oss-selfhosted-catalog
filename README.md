@@ -70,7 +70,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
         - [Redmine](#redmine)<p id="unused"></p>
         - [SuiteCRM](#suite-crm)<p id="unused"></p>
         - [Twenty](#twenty)<p id="unused"></p>
-        - [WeKan](#wekan)<p id="dashh"></p><p id="webalternativez"></p>
+        - [WeKan](#wekan)<p id="webalternativez"></p>
         - [Zulip](#zulip)<p id="unused"></p><br>
     - [Communication protocol - Information System - Internet Protocol - Transfer Protocol -  WEB Alternatives](#web-alts)<p id="unused"></p>
         - [Fediverse](#fediverse)<p id="unused"></p>
@@ -83,7 +83,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
         - [ZeroNet](#zeronet)<p id="unused"></p><br>
     - [Databases - No Code - Spreadsheets](#db-nc-spreadsheets)<p id="unused"></p>
         - [Baserow](#baserow)<p id="unused"></p>
-        - [NocoDB](#noco_db)<p id="unused"></p>
+        - [NocoDB](#noco_db)<p id="dashh"></p>
         - [Grist](#grist)<p id="unused"></p><br>
     - [Dashboards](#dashboards)<p id="unused"></p>
         - [Dashy](#dashy)<p id="unused"></p>
