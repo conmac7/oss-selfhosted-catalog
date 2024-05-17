@@ -37,8 +37,10 @@ Finally, the aim of this collection is not to catalog every single open-source a
         - [phpMyAdmin](#php-my-admin)<p id="unused"></p>
         - [Remotely](#remotely)<p id="unused"></p>
         - [RustDesk](#rustdesk)<p id="unused"></p>
-        - [Webmin](#webmin)<p id="unused"></p><p id="socialss"></p>
-        - [Zabbix](#zabbix)<p id="unused"></p><br>
+        - [Webmin](#webmin)<p id="unused"></p><p id="brainstorming_personal_organizing"></p>
+        - [Zabbix](#zabbix)</p><p id="socialss"></p><br>
+    - [Brainstorming - Calendars - Contacts Management - Contacts Management - Inventoring - Knowledge Management Notetaking - Self-Hosted Wiki - Personal Organizers -  TO DO apps](#brainstormm)<p id="unused"></p>
+        - - [Anytype](#anytype)<p id="unused"></p>
     - [Chatting - Self-hosted Media Platforms - Social Networking - Dailymotion/Youtube Alternatives](#socials)<p id="unused"></p>
         - [Bluesky](#bluesky)<p id="unused"></p>
         - [Diaspora](#diaspora)<p id="unused"></p>
@@ -469,6 +471,20 @@ Run Zabbix on-premise or in the cloud
 <div align="center"> <img src="/images/zabbix.png" width="800" /></a> </div>
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#adminn"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
+<h2 id="brainstormm" align="center">███BRAINSTORMING - CALENDARS - CONTACTS MANAGEMENT - CONTACTS MANAGEMENT - INVENTORING - KNOWLEDGE MANAGEMENT NOTETAKING - SELF-HOSTED WIKI - PERSONAL ORGANIZING TO DOS███</h2>
+<br><br>
+<h3 id="anytype"> ANYTYPE </h3>
+
+>Links: <div><a href="https://anytype.io"><img src="/images/web_homepage-icon.png" height="72" /><a href="https://github.com/anyproto/anytype-ts"><img src="/images/git_hub-logo.png" height="72"/></a></div>
+
+Anytype is a personal knowledge base, a digital brain that allows you to quickly capture, describe, and connect information. You can use Anytype to create books, tasks, notes, ideas, documents, tools and organize them any way you want.
+
+You can build digital spaces around your interests. These spaces can be personal - for diaries, ideas and drafts, or shared - with your family, small communities, teams, neighbors and people with similar interests.
+<div align="center"> <img src="/images/anytype1.png" width="800" /></a> </div>
+<div align="center"> <img src="/images/anytype2.png" width="800" /></a> </div>
+<div align="center"> <img src="/images/anytype3.png" width="800" /></a> </div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#brainstorming_personal_organizing"><img src="/images/back-to-current.png" width="120" /></div>
+<br><br>    
 <h2 id="socials" align="center">███CHATTING - SELF-HOSTED MEDIA PLATFORMS - SOCIAL NETWORKING - DAILYMOTION/YOUTUBE ALTERNATIVES███</h2>
 <br><br>
 <h3 id="bluesky"> BLUESKY </h3>
@@ -1322,7 +1338,7 @@ OpenMediaVault (OMV) is an open-source network-attached storage (NAS) solution b
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#nasss"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
 <h2 id="productivity-office" align="center">███OFFICE - PRODUCTIVITY███</h2>
-<br><br>
+<br><br>   
 <h3 id="baserow"> BASEROW </h3>
 
 >Links: <div><a href="https://baserow.io"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://gitlab.com/baserow/baserow"><img src="/images/git_share.png" height="72"/></a><a href="https://github.com/bram2w/baserow"><img src="/images/git_hub-logo.png" height="72"/></a></div>
