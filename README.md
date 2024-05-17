@@ -1038,7 +1038,7 @@ Create your own online database without technical experience. Our user-friendly 
 
 Self-hosted: Host your own instance on-premise or in the cloud
 <div align="center"> <img src="/images/baserow.png" width="800" /></a> </div>
-<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#officeee"><img src="/images/back-to-current.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#spreadsheet-db-nocode"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
 <h3 id="noco_db"> NOCODB </h3>
 
@@ -1058,7 +1058,7 @@ NocoDB is an open-source, low-code platform that allows users to create and mana
 - Plugin and Extension Support: NocoDB supports the development and integration of custom plugins and extensions, allowing users to extend the platform's functionality to meet their specific requirements.
 NocoDB aims to bridge the gap between traditional database management systems and modern application development, enabling users with limited coding experience to build and deploy database-driven applications quickly and efficiently
 <div align="center"> <img src="/images/nocodb.jpg" width="800" /></a> </div>
-<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#officeee"><img src="/images/back-to-current.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#spreadsheet-db-nocode"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
 <h3 id="grist"> GRIST </h3>
 
@@ -1078,7 +1078,7 @@ Grist is a collaborative spreadsheet and data organization tool that combines th
 - Integration and APIs: Grist supports integrations with other tools and services through APIs, enabling users to import or export data, automate workflows, or connect Grist with other systems.
 Grist aims to bridge the gap between spreadsheets, databases, and document editors, providing a unified and collaborative environment for organizing, analyzing, and presenting data. It is suitable for various use cases, such as project management, knowledge management, data analysis, and documentation.
 <div align="center"> <img src="/images/grist.jpg" width="800" /></a> </div>
-<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#officeee"><img src="/images/back-to-current.png" width="120" /></div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#spreadsheet-db-nocode"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
 <h2 id="dashboards" align="center">███DASHBOARDS███</h2>
 <br><br>
