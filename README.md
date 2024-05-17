@@ -62,6 +62,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
     - [Collaboration Platforms - CRM - ERP - Project Management](#colab-erp-crm)<p id="unused"></p>
         - [Element](#element)<p id="unused"></p>
         - [ERPNext](#erp-next)<p id="unused"></p>
+        - [EspoCRM](#espocrm)<p id="unused"></p>
         - [Kanboard](#kanboard)<p id="unused"></p>
         - [Mattermost](#mattermost)<p id="unused"></p>
         - [Nextcloud](#nextcloud)<p id="unused"></p>
@@ -794,6 +795,27 @@ Open source and licensed under GNU GPL v3. It's free to use on your own server. 
 <div align="center"> <img src="/images/erpnext.jpg" width="800" /></a> </div>
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#colab"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
+<h3 id="Espocrm"> ESPOCRM </h3>
+
+>Links: <div><a href="https://www.espocrm.com"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/espocrm/espocrm"><img src="/images/git_hub-logo.png" height="72"/></a></div>
+
+Free Self Hosted & Cloud CRM SoftwareEspo
+
+CRM is an Open Source CRM (Customer Relationship Management) software that allows you to see, enter and evaluate all your company relationships regardless of the type. People, companies or opportunities – all in an easy and intuitive interface.
+
+- Sales Automation
+- Calendar, Meetings, Calls, Tasks, Working Time Calendar
+- Customer Support, Cases, Email-to-Case, Customer Portal, Knowledge Base
+- Sales & Purchases, Products, Quotes, Sales Orders, Invoices, Delivery Orders, Return Orders, Purchase Orders Receipt Orders, Inventory Managemen
+- Telephony, VoIP Integration
+- Analytics
+- Workflows
+    - Business Process Management. BPM tool. Provides an ability to model and automate business processes.
+    - Workflows. Actions can be triggered if specific conditions are met. Available actions: send email, update record, create new record, create notification, assign record by specific rule.
+- Marketing Automation, Campaigns, Mass Email Marketing, Mass Mail Merge, Target Lists
+<div align="center"> <img src="/images/espocrm.jpg" width="800" /></a> </div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#colab"><img src="/images/back-to-current.png" width="120" /></div>
+<br><br>
 <h3 id="kanboard"> KANBOARD </h3>
 
 >Links: <div><a href="https://kanboard.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/kanboard"><img src="/images/git_hub-logo.png" height="72"/></a></div>
@@ -920,7 +942,22 @@ In addition to the new modules, extensive bug fixes and many enhancements to the
 A six-month release cycle is maintained with bug fix and security releases being made available between major releases
 <div align="center"> <img src="/images/suitecrm.png" width="800" /></a> </div>
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#colab"><img src="/images/back-to-current.png" width="120" /></div>
-<br><br><br>
+<br><br>
+<h3 id="twenty"> TWENTY </h3>
+
+>Links: <div><a href="https://twenty.com"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/twentyhq/twenty"><img src="/images/git_hub-logo.png" height="72"/></a></div>
+
+Twenty CRM is an open-source customer relationship management (CRM) software that is designed to be efficient, flexible, and user-friendly
+
+- Data focus: Twenty CRM is built around the idea that your data should be easily accessible and usable. It allows you to connect to existing data sources and visualize it in a way that works for you.
+- Add, filter, sort, edit, and track customers
+- Create one or several opportunities for each company
+- See rich notes tasks displayed in a timeline
+- Create tasks on records
+- Connect your CRM to all your tools through our APIs and Webhooks
+<div align="center"> <img src="/images/Twenty2.png" width="800" /></a> </div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#colab"><img src="/images/back-to-current.png" width="120" /></div>
+<br><br>
 <h3 id="wekan"> WEKAN </h3>
 
 >Links: <div><a href="https://wekan.github.io"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/wekan"><img src="/images/git_hub-logo.png" height="72"/></a></div>
