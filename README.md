@@ -39,13 +39,15 @@ Finally, the aim of this collection is not to catalog every single open-source a
         - [phpMyAdmin](#php-my-admin)<p id="unused"></p>
         - [Remotely](#remotely)<p id="unused"></p>
         - [RustDesk](#rustdesk)<p id="unused"></p>
-        - [Webmin](#webmin)<p id="unused"></p><p id="brainstorming_personal_organizing"></p>
-        - [Zabbix](#zabbix)</p><p id="socialss"></p><br>
+        - [Webmin](#webmin)<p id="agents-llmz"></p>
+        - [Zabbix](#zabbix)<p id="brainstorming_personal_organizing"></p>
+    - [Agents- AI - Automation - LLMs](#agents-llm)<p id="unused"></p>
+        - [Home Assistant](#homeassistc)<p id="unused"></p>
     - [Brainstorming - Calendars - Contacts Management - Inventoring - Knowledge Management - Notetaking - Self-Hosted Wiki - Personal Organizers -  To Do Apps](#brainstormm)<p id="unused"></p>
         - [Anytype](#anytype)<p id="unused"></p>
         - [Homebox](#homebox)<p id="unused"></p>
         - [Monica CRM/PRM (Rersonal Relationship Management)](#monicahq)<p id="unused"></p>
-        - [Trilium](#trilium)<p id="unused"></p>
+        - [Trilium](#trilium)<p id="socialss"></p><br>
         - [Vikunja](#vikunja)<p id="unused"></p><br>
     - [Chatting - Self-hosted Media Platforms - Social Networking - Dailymotion/Youtube Alternatives](#socials)<p id="unused"></p>
         - [Bluesky](#bluesky)<p id="unused"></p>
@@ -527,6 +529,24 @@ Run Zabbix on-premise or in the cloud
 <div align="center"> <img src="/images/zabbix.png" width="800" /></a> </div>
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#adminn"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
+<h2 id="agents-llm" align="center">███AGENTS- AI - AUTOMATION - LLMS███</h2>
+<br><br>
+<h3 id="homeassist"> HOME ASSISTANT </h3>
+
+>Links: <div><a href="https://www.home-assistant.io"><img src="/images/web_homepage-icon.png" height="72" /><a href="https://github.com/home-assistant"><img src="/images/git_hub-logo.png" height="72"/></a></div>
+
+Home Assistant is an open-source home automation software that enables users to control and automate a wide range of smart home devices from various manufacturers through a unified interface. It is designed to be highly customizable and can run on different platforms, including Raspberry Pi, virtual machines, and Docker containers.
+
+- Device Integration: Supports thousands of smart devices from different brands, allowing users to control lights, thermostats, cameras, and other home appliances through a single app.
+- Automation: Provides powerful automation capabilities, enabling users to create complex routines and scenarios based on triggers such as time, location, or device state.
+- Voice Control: Compatible with voice assistants like Amazon Alexa and Google Assistant for hands-free control.
+- Privacy and Security: Emphasizes local control and data privacy, with most operations being processed locally rather than in the cloud.
+- Extensibility: Allows for the addition of custom components and integrations, thanks to its open-source nature and active community.
+
+Home Assistant offers a robust solution for managing and automating smart home systems, making it easier for users to create a cohesive and efficient smart home environment.
+<div align="center"> <img src="/images/ha-main.webp" width="800" /></a> </div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#agents-llmz"><img src="/images/back-to-current.png" width="120" /></div>
+<br><br>    
 <h2 id="brainstormm" align="center">███BRAINSTORMING - CALENDARS - CONTACTS MANAGEMENT - INVENTORING - KNOWLEDGE MANAGEMENT - NOTETAKING - SELF-HOSTED WIKI - PERSONAL ORGANIZERS -  TO DO APPS███</h2>
 <br><br>
 <h3 id="anytype"> ANYTYPE </h3>
