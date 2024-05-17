@@ -44,7 +44,8 @@ Finally, the aim of this collection is not to catalog every single open-source a
     - [Brainstorming - Calendars - Contacts Management - Inventoring - Knowledge Management - Notetaking - Self-Hosted Wiki - Personal Organizers -  To Do Apps](#brainstormm)<p id="unused"></p>
         - [Anytype](#anytype)<p id="unused"></p>
         - [Homebox](#homebox)<p id="unused"></p>
-        - [Trilium](#trilium)<p id="unused"></p><br>
+        - [Trilium](#trilium)<p id="unused"></p>
+        - [Vikunja](#vikunja)<p id="unused"></p><br>
     - [Chatting - Self-hosted Media Platforms - Social Networking - Dailymotion/Youtube Alternatives](#socials)<p id="unused"></p>
         - [Bluesky](#bluesky)<p id="unused"></p>
         - [Diaspora](#diaspora)<p id="unused"></p>
@@ -579,8 +580,27 @@ Build your personal knowledge base with Trilium Notes.
 <div align="center"> <img src="/images/tril2.png" width="800" /></a> </div>
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#brainstorming_personal_organizing"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
+<h3 id="vikunja"> VIKUNJA </h3>
 
-    
+>Links: <div><a href="https://vikunja.io"><img src="/images/web_homepage-icon.png" height="72" /><a href="https://github.com/sponsors/kolaente"><img src="/images/git_hub-logo.png" height="72"/></a></div>
+
+open-source, self-hostable to-do app. Organize everything.
+
+- Organize all of your tasks in projects. Create subprojects organize everything hierarchical and keep related stuff grouped together.
+- Vikunja lets you easily share a project with another user or a whole team! Assignments show who's working on what.
+- You can view your tasks in the classic list view - or in a Gantt Chart, or Table view, or Kanban Board. Whatever you need!
+- Vikunja allows you to view tasks in four different views - use whatever works best for you: List, Gantt Chart, Kanban board, Table
+- Import your tasks from Todoist, Trello or Microsoft To-Do
+- Labels
+- Relations: Relate different tasks together - even if they're not in the same project
+- Due dates
+- Priorities
+- Share links: You can share a project with a link so that others can directly see or edit all tasks in a project but don't need to create an account. Share links have all the same rights management as sharing with users or teams.
+- Attachments
+- CalDAV
+<div align="center"> <img src="/images/vikunja.webp" width="800" /></a> </div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#brainstorming_personal_organizing"><img src="/images/back-to-current.png" width="120" /></div>
+<br><br>
 <h2 id="socials" align="center">███CHATTING - SELF-HOSTED MEDIA PLATFORMS - SOCIAL NETWORKING - DAILYMOTION/YOUTUBE ALTERNATIVES███</h2>
 <br><br>
 <h3 id="bluesky"> BLUESKY </h3>
