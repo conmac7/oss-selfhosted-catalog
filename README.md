@@ -100,8 +100,8 @@ Finally, the aim of this collection is not to catalog every single open-source a
     - [Home Server - Personal Cloud](#homeserver-personalcloud)<p id="mediaa-mngmnt"></p>
         - [CasaOS](#casa-os)<p id="unused"></p>
         - [Umbrel](#umbrel)<p id="unused"></p><br>
-    - [Media Management (Audiobooks - Ebooks/PDF - Documents - Movies - Music - Podcasts - Photos - TV Shows - Videos)](#media-management)<p id="mediaa-mngmnt"></p>
-        - [Docspell](#docspell)<p id="unused"></p>
+    - [Media Management (Audiobooks - Ebooks/PDF - Documents - Movies - Music - Podcasts - Photos - TV Shows - Videos)](#media-management)<p id="unused"></p>
+        - [Docspell](#docspell)<p id="mediaa-mngmnt"></p>
         - [digiKam](#digikam)<p id="unused"></p>
         - [Immich](#immich)<p id="unused"></p>
         - [Jellyfin](#jellyfin)<p id="unused"></p>
