@@ -41,6 +41,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
         - [Zabbix](#zabbix)</p><p id="socialss"></p><br>
     - [Brainstorming - Calendars - Contacts Management - Inventoring - Knowledge Management - Notetaking - Self-Hosted Wiki - Personal Organizers -  To Do Apps](#brainstormm)<p id="unused"></p>
         - [Anytype](#anytype)<p id="unused"></p>
+        - [Trilium](#trilium)<p id="unused"></p>
     - [Chatting - Self-hosted Media Platforms - Social Networking - Dailymotion/Youtube Alternatives](#socials)<p id="unused"></p>
         - [Bluesky](#bluesky)<p id="unused"></p>
         - [Diaspora](#diaspora)<p id="unused"></p>
@@ -116,6 +117,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
         - [Notesnook](#notesnook)<p id="unused"></p>
         - [ONLYOFFICE](#only-office)<p id="unused"></p>
         - [Penpot](#penpot)<p id="unused"></p>
+        - [QOwnNotes](#qownnotes)<p id="unused"></p>
         - [Spacedrive](#spacedrive)<p id="unused"></p>
         - [Standard Notes](#standard-notes)<p id="unused"></p>
         - [TagSpaces](#tag-spaces)<p id="unused"></p>
@@ -488,7 +490,32 @@ You can build digital spaces around your interests. These spaces can be personal
 <div align="center"> <img src="/images/anytype2.png" width="800" /></a> </div>
 <div align="center"> <img src="/images/anytype3.png" width="800" /></a> </div>
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#brainstorming_personal_organizing"><img src="/images/back-to-current.png" width="120" /></div>
-<br><br>    
+<br><br>
+<h3 id="trilium"> TRILLIUM </h3>
+
+>Links: <div><a href="https://github.com/zadam/trilium"><img src="/images/git_hub-logo.png" height="72"/></a></div>
+
+Build your personal knowledge base with Trilium Notes.
+
+- Notes can be arranged into arbitrarily deep tree. Single note can be placed into multiple places in the tree (see cloning)
+- Rich WYSIWYG note editing including e.g. tables, images and math with markdown autoformat
+- Support for editing notes with source code, including syntax highlighting
+- Note versioning
+- Note attributes can be used for note organization, querying and advanced scripting
+- Synchronization with self-hosted sync server
+- Sharing (publishing) notes to public internet
+- Sketching diagrams with built-in Excalidraw (note type "canvas")
+- Relation maps and link maps for visualizing notes and their relations
+- Scripting - see Advanced showcases
+- REST API for automation
+- Evernote and Markdown import & export
+- Web Clipper for easy saving of web content
+<div align="center"> <img src="/images/tril1.png" width="800" /></a> </div>
+<div align="center"> <img src="/images/tril2.png" width="800" /></a> </div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#brainstorming_personal_organizing"><img src="/images/back-to-current.png" width="120" /></div>
+<br><br>
+
+    
 <h2 id="socials" align="center">███CHATTING - SELF-HOSTED MEDIA PLATFORMS - SOCIAL NETWORKING - DAILYMOTION/YOUTUBE ALTERNATIVES███</h2>
 <br><br>
 <h3 id="bluesky"> BLUESKY </h3>
@@ -1536,6 +1563,18 @@ Penpot is the first open-source design and prototyping tool meant for Product te
 <div align="center"> <img src="/images/penpot.jpg" width="800" /></a> </div>
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#officeee"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
+<h3 id="qownnotes"> QOWNNOTES </h3>
+
+>Links: <div><a href="https://www.qownnotes.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/pbek/QOwnNotes"><img src="/images/git_hub-logo.png" height="72"/></div>
+
+QOwnNotes is a plain-text file notepad and todo-list manager with Markdown support and Nextcloud / ownCloud integration.
+
+All notes are stored as plain-text markdown files on your computer, no "vendor lock-in". Use sync services like Nextcloud to sync notes across devices.
+
+You are able to write down your thoughts with QOwnNotes and edit or search for them later from your mobile device, like with Nextcloud Notes for Android or the Nextcloud / ownCloud web-service.
+<div align="center"> <img src="/images/qownnotes.png" width="800" /></a> </div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#officeee"><img src="/images/back-to-current.png" width="120" /></div>
+<br><br>    
 <h3 id="spacedrive"> SPACEDRIVE </h3>
 
 >Links: <div><a href="https://www.spacedrive.com"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/spacedriveapp"><img src="/images/git_hub-logo.png" height="72"/></div>
@@ -1559,8 +1598,6 @@ Spacedrive is an open source cross-platform file explorer, powered by a virtual 
 <div align="center"> <img src="/images/spacedrive.png" width="800" /></a> </div>
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#officeee"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
-
-
 <h3 id="standard-notes"> STANDARDNOTES </h3>
 
 >Links: <div><a href="https://standardnotes.com"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/standardnotes/app"><img src="/images/git_hub-logo.png" height="72"/></div>
