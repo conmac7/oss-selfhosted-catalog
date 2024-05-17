@@ -1939,10 +1939,6 @@ ClamAV is an open-source antivirus software toolkit designed to detect malware, 
 <div align="center"> <img src="/images/clama_ubuntu.jpg" width="360" /> </div>
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#privacyy"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
-
-
-
-    
 <h3 id="dns-crypt"> DNSCRYPT </h3>
 
 >Links: <div><a href="https://dnscrypt.info/"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/dnscrypt"><img src="/images/git_hub-logo.png" height="72" /></a></div>
