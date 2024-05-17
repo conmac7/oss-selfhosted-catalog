@@ -39,9 +39,9 @@ Finally, the aim of this collection is not to catalog every single open-source a
         - [phpMyAdmin](#php-my-admin)<p id="unused"></p>
         - [Remotely](#remotely)<p id="unused"></p>
         - [RustDesk](#rustdesk)<p id="unused"></p>
-        - [Webmin](#webmin)<p id="unused"></p>
-        - [Zabbix](#zabbix)<p id="agents-llmz"></p>
-    - [Agents- AI - Automation - LLMs](#agents-llm)<p id="brainstorming_personal_organizing"></p>
+        - [Webmin](#webmin)<p id="agents-llmz"></p>
+        - [Zabbix](#zabbix)<p id="brainstorming_personal_organizing"></p><br>
+    - [Agents- AI - Automation - LLMs](#agents-llm)<p id="unused"></p>
         - [Home Assistant](#homeassist)<p id="unused"></p>
     - [Brainstorming - Calendars - Contacts Management - Inventoring - Knowledge Management - Notetaking - Self-Hosted Wiki - Personal Organizers -  To Do Apps](#brainstormm)<p id="unused"></p>
         - [Anytype](#anytype)<p id="unused"></p>
