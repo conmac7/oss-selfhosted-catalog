@@ -172,6 +172,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
       - [FxSound](#fxsound)<p id="linkz"></p>
       - [OBS Studio](#obs-studio)<p id="unused"></p>
     - [Useful Links](#useful-links)<p id="unused"></p>
+      - [Hugging Face](#hugface)<p id="unused"></p>
       - [ipleak.net](#ipleak-net)<p id="unused"></p>
       - [Ping.Eu](#ping-eu)<p id="unused"></p>
       - [Prompt Library (Anthrop\c)](#promptlbr1)<p id="unused"></p>
@@ -2280,6 +2281,21 @@ Free and open source software for video recording and live streaming.
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#nocateg"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
 <h2 id="useful-links" align="center">███USEFUL LINKS███</h2>
+<br><br>
+<h3 id="hugface"> HUGGING FACE </h3>
+
+>Links: <div><a href="https://ipleak.net"><img src="/images/web_homepage-icon.png" height="72" /></a>
+
+Hugging Face is an AI community and platform that allows collaboration and sharing of machine learning models, datasets, and applications
+
+- Over 400,000 machine learning models across different modalities like text, images, video, audio and 3D data. Popular models like GPT, DALL-E, Stable Diffusion etc. are available.
+- Over 100,000 datasets for various AI/ML tasks like computer vision, NLP, audio etc.
+- Allows hosting and sharing of AI applications and spaces, with over 150,000 apps/demos already available.
+- Provides open source libraries and tooling like Transformers, Diffusers, Tokenizers etc. for building ML systems.
+- Major AI companies like Meta, Google, Microsoft as well as research labs widely use and contribute to Hugging Face.
+ Hugging Face aims to foster an open community and collaboration platform for developing, sharing and deploying AI/ML systems and resources.
+<div align="center"> <img src="/images/hugface.png" width="800" /></a> </div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#linkz"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
 <h3 id="ipleak-net"> IPLEAK.NET </h3>
 
