@@ -8,9 +8,7 @@ It aims to provide an organized and informative resource primarily for enthusias
 
 Some more professional software for IT specialists, sysadmins, and developers/programmers is also listed, but the aim isn't to provide tools, software, and solutions for this specific category.
 <p id="license"></p>
-Finally, the aim of this collection is not to catalog every single open-source and self-hosted software that is available, but rather the most useful ones (in my opinion at least).
-
-
+Finally, the aim of this collection is not to catalog every single open-source and self-hosted software that is available, but rather the most useful ones (in my opinion at least).<br>
 For the latest updates and changes see the <a href="https://github.com/conmac7/oss-selfhosted-catalog/blob/main/changelog">changelog.md</a>
 
 --------------------
