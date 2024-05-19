@@ -1287,7 +1287,7 @@ It offers two approaches:
   
 >Links: <div><a href="https://solidproject.org"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/solid/"><img src="/images/git_hub-logo.png" height="72"/></a></div>
 
-Solid (Social Linked Data)[1] is a web decentralization project.
+Solid (Social Linked Data) is a web decentralization project.
 
 The project "aims to radically change the way Web applications work today, resulting in true data ownership as well as improved privacy by developing a platform for linked-data applications that are completely decentralized and fully under users' control rather than controlled by other entities. The ultimate goal of Solid is to allow users to have full control of their own data, including access control and storage location. To that end, Tim Berners-Lee formed a company called Inrupt to help build a commercial ecosystem to fuel Solid.
 
