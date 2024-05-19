@@ -141,6 +141,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
         - [Wallabag](#wallabag)<p id="ossopsys"></p>
         - [Xournal++](#xournalpp)<p id="unused"></p><br>
     - [Operating Systems (OSS)](#oss-operating-systems)<p id="unused"></p>
+      - [AtlasOS](#atlasos)<p id="unused"></p>  
       - [Haiku](#Haiku)<p id="unused"></p>
       - [illumos](#illumos)<p id="unused"></p>
       - [KolibriOS](#kolibri-os)<p id="unused"></p>
@@ -1938,6 +1939,22 @@ Xournal++ is a hand note taking software written in C++ with the target of flexi
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#officeee"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
 <h2 id="oss-operating-systems" align="center">███OPERATING SYSTEMS (OSS)███</h2>
+<br><br>
+<h3 id="atlasos"> ATLASOS </h3>
+
+>Links: <div><a href="https://atlasos.net"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/Atlas-OS/Atlas"><img src="/images/git_share.png" height="72" /></a></div>
+
+AtlasOS is an optimized modification of the Windows operating system designed specifically for gamers.
+
+- Improved in-game framerates and lowered latency compared to standard Windows installations.
+- Optimizations to remove unnecessary components, disable power-saving features, and fine-tune processes for better performance and reduced latency.
+- Elimination of Microsoft's tracking, pre-installed apps, and bloatware for enhanced privacy.
+- Reduced CPU usage and lower RAM consumption compared to standard Windows.
+- Open-source project licensed under GPL-3.0 with a GitHub repository for community contributions.
+- Active community of over 42,000 members, including forums and Discord server.
+AtlasOS aims to provide a streamlined and optimized Windows experience tailored for gamers, offering performance improvements, lower latency, privacy enhancements, and an active open-source community.
+<div align="center"> <img src="/images/atlasos.png" width="800" /></a> </div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#ossopsys"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
 <h3 id="Haiku"> HAIKU </h3>
 
