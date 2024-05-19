@@ -2284,7 +2284,7 @@ Free and open source software for video recording and live streaming.
 <br><br>
 <h3 id="hugface"> HUGGING FACE </h3>
 
->Links: <div><a href="https://ipleak.net"><img src="/images/web_homepage-icon.png" height="72" /></a>
+>Links: <div><a href="https://huggingface.co"><img src="/images/web_homepage-icon.png" height="72" /></a>
 
 Hugging Face is an AI community and platform that allows collaboration and sharing of machine learning models, datasets, and applications
 
