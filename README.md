@@ -1951,6 +1951,8 @@ AtlasOS is an optimized modification of the Windows operating system designed sp
 - Reduced CPU usage and lower RAM consumption compared to standard Windows.
 - Open-source project licensed under GPL-3.0 with a GitHub repository for community contributions.
 - Active community of over 42,000 members, including forums and Discord server.
+- AtlasOS complies with the Windows EULA and does not modify Windows activation. Installing Atlas will not activate Windows.
+
 AtlasOS aims to provide a streamlined and optimized Windows experience tailored for gamers, offering performance improvements, lower latency, privacy enhancements, and an active open-source community.
 <div align="center"> <img src="/images/atlasos.png" width="800" /></a> </div>
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#ossopsys"><img src="/images/back-to-current.png" width="120" /></div>
