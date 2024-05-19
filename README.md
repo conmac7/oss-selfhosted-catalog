@@ -13,7 +13,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
 <div align="center"> See the latest updates and changes: </div> <div align="center"> <a href="https://github.com/conmac7/oss-selfhosted-catalog/blob/main/changelog">changelog.md</a></div>
 
 --------------------
-
+[](#license)
 
 ## Table of Contents
 - [Credits - Licenses](#credits-licenses)
