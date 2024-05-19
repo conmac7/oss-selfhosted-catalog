@@ -10,7 +10,7 @@ Some more professional software for IT specialists, sysadmins, and developers/pr
 
 Finally, the aim of this collection is not to catalog every single open-source and self-hosted software that is available, but rather the most useful ones (in my opinion at least).<br>
 
-For the latest updates and changes see the <a href="https://github.com/conmac7/oss-selfhosted-catalog/blob/main/changelog"> <h2>changelog.md</h2> </a>
+<div align="center"> For the latest updates and changes see the </div> <div align="center"> <a href="#licensee"><sup>changelog.md</a></sup></div>
 
 --------------------
 
