@@ -17,8 +17,8 @@ For the latest updates and changes see the <a href="https://github.com/conmac7/o
 
 ## Table of Contents
 - [Credits - Licenses](#credits-licenses)
-    - [Open Source Initiative (Logo)](#open-source-initiative)<p id="unused"></p><br>
-- [Software](#software)<p id="adminn"></p>
+    - [Open Source Initiative (Logo)](#open-source-initiative)<p id="adminn"></p></p><br>
+- [Software](#software)<p id="unused">
     - [Admin(app, network, sys, web) - CMS - IT - Networking](#admin-it-networking)<p id="unused"></p>
         - [Fastfetch](#fastfetch) <sub>(The King is Dead, long live the King)</sub><p id="unused"></p>
         - [Flarum](#flarum)<p id="unused"></p>
