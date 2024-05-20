@@ -1719,7 +1719,7 @@ Paperless-ngx is a community-supported open-source document management system th
 <div align="center"> <img src="/images/paperless3.png" width="800" /></a> </div>
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#mediaa-mngmnt"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
-<h3 id="photoprism"> PHOTOPRRISM </h3>
+<h3 id="photoprism"> PHOTOPRISM </h3>
 
 >Links: <div><a href="https://www.photoprism.app"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/photoprism"><img src="/images/git_hub-logo.png" height="72"/></div>
 
