@@ -120,6 +120,7 @@ Finally, the aim of this collection is not to catalog every single open-source a
         - [Jellyfin](#jellyfin)<p id="unused"></p>
         - [LibrePhotos](#librephotos)<p id="unused"></p>
         - [Mayan EDMS](#mayan-edms)<p id="nasss"></p>
+        - [Paperless-ngx](#paperless-ngx)<p id="unused"></p>
         - [PhotoPrism](#photoprism)<p id="unused"></p><br>
     - [NAS](#nas)<p id="unused"></p>
         - [openmediavault](#openmediavault)<p id="officeee"></p>
@@ -1687,7 +1688,37 @@ Mayan EDMS is a document management system. Its main purpose is to store, intros
 - Ontegrates with your existing hardware for no initial investment and low total cost of ownership.
 <div align="center"> <img src="/images/mayan-edms.jpg" width="800" /></a> </div>
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#mediaa-mngmnt"><img src="/images/back-to-current.png" width="120" /></div>
-<br><br>c 
+<br><br>
+<h3 id="paperless-ngx"> PAPERLESS-NGX </h3>
+
+>Links: <div><a href="https://github.com/paperless-ngx/paperless-ngx"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://docs.paperless-ngx.com"><img src="/images/git_hub-logo.png" height="72"/></div>
+
+Paperless-ngx is a community-supported open-source document management system that transforms your physical documents into a searchable online archive so you can keep.
+
+- Organize and index your scanned documents with tags, correspondents, types, and more.
+- Your data is stored locally on your server and is never transmitted or shared in any way.
+- OCR
+- Utilizes the open-source Tesseract engine to recognize more than 100 languages.
+- Documents are saved as PDF/A format which is designed for long term storage, alongside the unaltered originals.
+- Machine-learning to automatically add tags, correspondents and document types to your documents.
+- Supports PDF documents, images, plain text files, Office documents (Word, Excel, Powerpoint, and LibreOffice equivalents)1 and more.
+- Customizable dashboard with statistics.
+- Filtering by tags, correspondents, types, and more.
+- Bulk editing of tags, correspondents, types and more.
+- Customizable views can be saved and displayed on the dashboard and / or sidebar.
+- Custom fields of various data types.
+- Full text search
+- Auto completion suggests relevant words from your documents
+- Searching for similar documents ("More like this")
+- Email processing1: import documents from your email accounts:
+    - Configure multiple accounts and rules for each account.
+    - After processing, paperless can perform actions on the messages such as marking as read, deleting and more.
+- Multi-user permissions system
+<div align="center"> <img src="/images/paperless1.png" width="800" /></a> </div>
+<div align="center"> <img src="/images/paperless2.png" width="800" /></a> </div>
+<div align="center"> <img src="/images/paperless3.png" width="800" /></a> </div>
+<div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#mediaa-mngmnt"><img src="/images/back-to-current.png" width="120" /></div>
+<br><br>
 <h3 id="photoprism"> PHOTOPRRISM </h3>
 
 >Links: <div><a href="https://www.photoprism.app"><img src="/images/web_homepage-icon.png" height="72" /></a><a href="https://github.com/photoprism"><img src="/images/git_hub-logo.png" height="72"/></div>
@@ -1720,8 +1751,6 @@ WebDAV clients such as Microsoft's Windows Explorer and Apple's Finder can conne
 <div align="center"> <img src="/images/photoprism.jpg" width="800" /></a> </div>
 <div align="center"><a href="#license"><img src="/images/back-to-top_v1.png" width="120" /><a href="#mediaa-mngmnt"><img src="/images/back-to-current.png" width="120" /></div>
 <br><br>
-
-
 <h2 id="nas" align="center">███NAS███</h2>
 <br><br>
 <h3 id="openmediavault"> OPENMEDIAVAULT </h3>
